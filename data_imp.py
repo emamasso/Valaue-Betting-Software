@@ -7,7 +7,7 @@ import time
 
 leagues = ['ESP-La Liga', 'ITA-Serie A', 'ENG-Premier League', 'GER-Bundesliga', 'FRA-Ligue 1']
 seasons = ['2021/2022', '2022/2023', '2023/2024', '2024/2025', '2025/2026']
-'''
+
 games_final = []
 
 for league in leagues:
@@ -24,7 +24,7 @@ games_df = games_df.reset_index()
 games_df.to_csv('data/games.csv', index=False, sep=';')
 
 
-'''
+
 
 #### And now let's import all the odds
 
