@@ -153,7 +153,7 @@ df_long['last_5'] = groups['points gained'].transform(lambda x: x.shift(1).rolli
 
 df_long['match_played'] = groups.cumcount()
 
-df_long['PPG'] = groups['points gained'].transform(lambda x: x.cumsum())/df_long['match_played']
+df_long['PPG'] = groups['points gained'].transform(lambda x: x.cumsum().shift(1))/df_long['match_played']
 
 
 
