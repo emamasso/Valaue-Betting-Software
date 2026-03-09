@@ -60,8 +60,8 @@ for game in games:
                             params={'apiKey': key, 'sport': 'football', 'eventId': game[0], 'bookmakers': bookmaker})
     
     match = response.json()
-    
-    match_id = match['id']
+
+    match_id = match.get('id')
     
     try:
         odds_data = match['bookmakers']['Bet365'][0]['odds'][0]
@@ -203,9 +203,9 @@ df.sort_values(by = 'team_x')
 
 
 df_filtered = df[['date_x', 'team_x',
-                    'total_goals_x',
-                    'total_xg_x', 'total_goals_against_x', 'total_xg_against_x', 'last_5_x',
-                    'match_played_x', 'PPG_x']]
+                    'total_goals_x', 'total_xg_x', 
+                    'total_goals_against_x', 'total_xg_against_x', 
+                    'last_5_x', 'match_played_x', 'PPG_x', 'rest_days_x']]
 
 
 team_mapping = {
@@ -322,12 +322,20 @@ df_new = pd.merge(games_odds, df_filtered, left_on=['home'], right_on=['team_x']
 
 df_new = pd.merge(df_new, df_filtered, left_on=['away'], right_on=['team_x'])
 
-df_new.columns = ['id', 'date', 'home', 'away', 'H', 'D', 'A', 'date_x_x', 'team_x_x',
-       'total_goals_home', 'total_xg_home', 'total_goals_against_home',
-       'total_xg_against_home', 'last_5_home', 'match_played_home', 'PPG_home',
-       'date_x_y', 'team_x_y', 'total_goals_away', 'total_xg_away',
-       'total_goals_against_away', 'total_xg_against_away', 'last_5_away',
-       'match_played_away', 'PPG_away']
+df_new.columns = ['id', 'date', 'home', 'away', 
+                  
+                  'B365H', 'B365D', 'B365A',
+
+                  'date_x_x', 'team_x_x',
+
+                  'home_total_goals','home_total_xg', 'home_total_goals_against',
+                  'home_total_xg_against','home_last_5', 'home_matches_played', 'home_PPG', 'home_rest_days',
+
+                  'date_x_y', 'team_x_y',
+                   
+                  'away_total_goals','away_total_xg',
+                  'away_total_goals_against','away_total_xg_against',
+                  'away_last_5', 'away_matches_played', 'away_PPG', 'away_rest_days']
 
 df_new = df_new.dropna()
 

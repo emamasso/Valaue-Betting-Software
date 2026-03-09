@@ -1,0 +1,1753 @@
+season;date;game;home_team;away_team;home_goals;away_goals;home_xg;away_xg
+2526;2025-08-15 17:00:00;2025-08-15 Girona-Rayo Vallecano;Girona;Rayo Vallecano;1;3;0.795304;3.25355
+2526;2025-08-15 19:30:00;2025-08-15 Villarreal-Real Oviedo;Villarreal;Real Oviedo;2;0;2.60739;0.85578
+2526;2025-08-16 19:30:00;2025-08-16 Alaves-Levante;Alaves;Levante;2;1;1.72315;0.74203
+2526;2025-08-16 17:30:00;2025-08-16 Mallorca-Barcelona;Mallorca;Barcelona;0;3;0.529217;2.0243
+2526;2025-08-16 19:30:00;2025-08-16 Valencia-Real Sociedad;Valencia;Real Sociedad;1;1;1.58599;1.04897
+2526;2025-08-17 17:30:00;2025-08-17 Athletic Club-Sevilla;Athletic Club;Sevilla;3;2;2.67586;0.901645
+2526;2025-08-17 15:00:00;2025-08-17 Celta Vigo-Getafe;Celta Vigo;Getafe;0;2;0.744247;1.50131
+2526;2025-08-17 19:30:00;2025-08-17 Espanyol-Atletico Madrid;Espanyol;Atletico Madrid;2;1;1.41508;1.29319
+2526;2025-08-18 19:00:00;2025-08-18 Elche-Real Betis;Elche;Real Betis;1;1;0.981494;1.59562
+2526;2025-08-19 19:00:00;2025-08-19 Real Madrid-Osasuna;Real Madrid;Osasuna;1;0;1.4294;0.201044
+2526;2025-08-22 19:30:00;2025-08-22 Real Betis-Alaves;Real Betis;Alaves;1;0;2.13985;1.43838
+2526;2025-08-23 17:30:00;2025-08-23 Atletico Madrid-Elche;Atletico Madrid;Elche;1;1;1.68159;0.313268
+2526;2025-08-23 19:30:00;2025-08-23 Levante-Barcelona;Levante;Barcelona;2;3;2.68812;2.48128
+2526;2025-08-23 15:00:00;2025-08-23 Mallorca-Celta Vigo;Mallorca;Celta Vigo;1;1;0.664974;0.917413
+2526;2025-08-24 15:00:00;2025-08-24 Osasuna-Valencia;Osasuna;Valencia;1;0;0.946758;0.589594
+2526;2025-08-24 19:30:00;2025-08-24 Real Oviedo-Real Madrid;Real Oviedo;Real Madrid;0;3;0.33749;1.82072
+2526;2025-08-24 17:30:00;2025-08-24 Real Sociedad-Espanyol;Real Sociedad;Espanyol;2;2;1.43366;1.87234
+2526;2025-08-24 17:30:00;2025-08-24 Villarreal-Girona;Villarreal;Girona;5;0;2.97707;0.140267
+2526;2025-08-25 17:30:00;2025-08-25 Athletic Club-Rayo Vallecano;Athletic Club;Rayo Vallecano;1;0;1.68759;0.493587
+2526;2025-08-25 19:30:00;2025-08-25 Sevilla-Getafe;Sevilla;Getafe;1;2;0.833075;1.32944
+2526;2025-08-27 19:00:00;2025-08-27 Celta Vigo-Real Betis;Celta Vigo;Real Betis;1;1;0.905201;0.714458
+2526;2025-08-29 17:30:00;2025-08-29 Elche-Levante;Elche;Levante;2;0;1.44309;0.969663
+2526;2025-08-29 19:30:00;2025-08-29 Valencia-Getafe;Valencia;Getafe;3;0;1.54336;0.757418
+2526;2025-08-30 15:00:00;2025-08-30 Alaves-Atletico Madrid;Alaves;Atletico Madrid;1;1;0.855094;0.960547
+2526;2025-08-30 17:30:00;2025-08-30 Girona-Sevilla;Girona;Sevilla;0;2;2.00908;1.62032
+2526;2025-08-30 19:30:00;2025-08-30 Real Madrid-Mallorca;Real Madrid;Mallorca;2;1;1.84116;0.549872
+2526;2025-08-30 17:00:00;2025-08-30 Real Oviedo-Real Sociedad;Real Oviedo;Real Sociedad;1;0;0.45706;0.92221
+2526;2025-08-31 15:00:00;2025-08-31 Celta Vigo-Villarreal;Celta Vigo;Villarreal;1;1;0.876041;0.96978
+2526;2025-08-31 17:30:00;2025-08-31 Espanyol-Osasuna;Espanyol;Osasuna;1;0;1.36886;1.38167
+2526;2025-08-31 19:30:00;2025-08-31 Rayo Vallecano-Barcelona;Rayo Vallecano;Barcelona;1;1;1.87124;2.35774
+2526;2025-08-31 17:00:00;2025-08-31 Real Betis-Athletic Club;Real Betis;Athletic Club;1;2;0.716186;1.11141
+2526;2025-09-12 19:00:00;2025-09-12 Sevilla-Elche;Sevilla;Elche;2;2;0.346397;0.781151
+2526;2025-09-13 16:30:00;2025-09-13 Athletic Club-Alaves;Athletic Club;Alaves;0;1;0.866662;0.090756
+2526;2025-09-13 19:00:00;2025-09-13 Atletico Madrid-Villarreal;Atletico Madrid;Villarreal;2;0;1.5106;0.668177
+2526;2025-09-13 12:00:00;2025-09-13 Getafe-Real Oviedo;Getafe;Real Oviedo;2;0;0.954087;0.369812
+2526;2025-09-13 14:15:00;2025-09-13 Real Sociedad-Real Madrid;Real Sociedad;Real Madrid;1;2;3.14772;2.54171
+2526;2025-09-14 19:00:00;2025-09-14 Barcelona-Valencia;Barcelona;Valencia;6;0;3.46022;0.12495
+2526;2025-09-14 12:00:00;2025-09-14 Celta Vigo-Girona;Celta Vigo;Girona;1;1;1.80278;1.41213
+2526;2025-09-14 14:15:00;2025-09-14 Levante-Real Betis;Levante;Real Betis;2;2;1.02425;2.19546
+2526;2025-09-14 16:30:00;2025-09-14 Osasuna-Rayo Vallecano;Osasuna;Rayo Vallecano;2;0;1.4012;0.979149
+2526;2025-09-15 19:00:00;2025-09-15 Espanyol-Mallorca;Espanyol;Mallorca;3;2;2.67405;2.03185
+2526;2025-09-19 19:00:00;2025-09-19 Real Betis-Real Sociedad;Real Betis;Real Sociedad;3;1;2.53579;0.606673
+2526;2025-09-20 16:30:00;2025-09-20 Alaves-Sevilla;Alaves;Sevilla;1;2;0.910257;0.891992
+2526;2025-09-20 12:00:00;2025-09-20 Girona-Levante;Girona;Levante;0;4;0.423855;4.50183
+2526;2025-09-20 14:15:00;2025-09-20 Real Madrid-Espanyol;Real Madrid;Espanyol;2;0;2.06136;0.969443
+2526;2025-09-20 19:00:00;2025-09-20 Valencia-Athletic Club;Valencia;Athletic Club;2;0;2.01007;0.499198
+2526;2025-09-20 16:30:00;2025-09-20 Villarreal-Osasuna;Villarreal;Osasuna;2;1;3.56395;1.95599
+2526;2025-09-21 19:00:00;2025-09-21 Barcelona-Getafe;Barcelona;Getafe;3;0;2.96429;0.215949
+2526;2025-09-21 16:30:00;2025-09-21 Elche-Real Oviedo;Elche;Real Oviedo;1;0;1.57497;1.10565
+2526;2025-09-21 14:15:00;2025-09-21 Mallorca-Atletico Madrid;Mallorca;Atletico Madrid;1;1;0.530939;2.08772
+2526;2025-09-21 12:00:00;2025-09-21 Rayo Vallecano-Celta Vigo;Rayo Vallecano;Celta Vigo;1;1;1.3145;1.28175
+2526;2025-09-23 17:00:00;2025-09-23 Athletic Club-Girona;Athletic Club;Girona;1;1;2.02629;0.856618
+2526;2025-09-23 17:00:00;2025-09-23 Espanyol-Valencia;Espanyol;Valencia;2;2;3.31313;1.00785
+2526;2025-09-23 19:30:00;2025-09-23 Levante-Real Madrid;Levante;Real Madrid;1;4;1.70121;4.06315
+2526;2025-09-23 19:30:00;2025-09-23 Sevilla-Villarreal;Sevilla;Villarreal;1;2;0.83617;2.40523
+2526;2025-09-24 19:30:00;2025-09-24 Atletico Madrid-Rayo Vallecano;Atletico Madrid;Rayo Vallecano;3;2;4.95017;1.61988
+2526;2025-09-24 17:00:00;2025-09-24 Getafe-Alaves;Getafe;Alaves;1;1;0.576203;1.21176
+2526;2025-09-24 19:30:00;2025-09-24 Real Sociedad-Mallorca;Real Sociedad;Mallorca;1;0;2.82857;0.641137
+2526;2025-09-25 17:30:00;2025-09-25 Osasuna-Elche;Osasuna;Elche;1;1;1.17524;1.05089
+2526;2025-09-25 19:30:00;2025-09-25 Real Oviedo-Barcelona;Real Oviedo;Barcelona;1;3;1.45014;2.07001
+2526;2025-09-26 19:00:00;2025-09-26 Girona-Espanyol;Girona;Espanyol;0;0;1.07661;0.949116
+2526;2025-09-27 14:15:00;2025-09-27 Atletico Madrid-Real Madrid;Atletico Madrid;Real Madrid;5;2;2.79075;1.02797
+2526;2025-09-27 12:00:00;2025-09-27 Getafe-Levante;Getafe;Levante;1;1;0.830967;1.27833
+2526;2025-09-27 16:30:00;2025-09-27 Mallorca-Alaves;Mallorca;Alaves;1;0;1.04267;0.566415
+2526;2025-09-27 19:00:00;2025-09-27 Villarreal-Athletic Club;Villarreal;Athletic Club;1;0;1.86396;1.56287
+2526;2025-09-28 16:30:00;2025-09-28 Barcelona-Real Sociedad;Barcelona;Real Sociedad;2;1;3.00954;0.957079
+2526;2025-09-28 14:15:00;2025-09-28 Elche-Celta Vigo;Elche;Celta Vigo;2;1;4.03596;0.821768
+2526;2025-09-28 12:00:00;2025-09-28 Rayo Vallecano-Sevilla;Rayo Vallecano;Sevilla;0;1;1.89093;0.579597
+2526;2025-09-28 19:00:00;2025-09-28 Real Betis-Osasuna;Real Betis;Osasuna;2;0;1.18955;0.578485
+2526;2025-09-29 19:00:00;2025-09-29 Valencia-Real Oviedo;Valencia;Real Oviedo;1;2;1.72261;0.997143
+2526;2025-10-03 19:00:00;2025-10-03 Osasuna-Getafe;Osasuna;Getafe;2;1;0.692026;0.856515
+2526;2025-10-04 16:30:00;2025-10-04 Athletic Club-Mallorca;Athletic Club;Mallorca;2;1;1.73351;0.213773
+2526;2025-10-04 14:15:00;2025-10-04 Girona-Valencia;Girona;Valencia;2;1;1.16415;2.22808
+2526;2025-10-04 19:00:00;2025-10-04 Real Madrid-Villarreal;Real Madrid;Villarreal;3;1;4.32336;0.956644
+2526;2025-10-04 12:00:00;2025-10-04 Real Oviedo-Levante;Real Oviedo;Levante;0;2;1.08551;1.62121
+2526;2025-10-05 12:00:00;2025-10-05 Alaves-Elche;Alaves;Elche;3;1;2.85063;0.661537
+2526;2025-10-05 19:00:00;2025-10-05 Celta Vigo-Atletico Madrid;Celta Vigo;Atletico Madrid;1;1;2.27285;0.710823
+2526;2025-10-05 16:30:00;2025-10-05 Espanyol-Real Betis;Espanyol;Real Betis;1;2;2.0699;1.43721
+2526;2025-10-05 16:30:00;2025-10-05 Real Sociedad-Rayo Vallecano;Real Sociedad;Rayo Vallecano;0;1;0.768998;0.684504
+2526;2025-10-05 14:15:00;2025-10-05 Sevilla-Barcelona;Sevilla;Barcelona;4;1;2.89414;2.4823
+2526;2025-10-17 19:00:00;2025-10-17 Real Oviedo-Espanyol;Real Oviedo;Espanyol;0;2;1.21155;4.46256
+2526;2025-10-18 19:00:00;2025-10-18 Atletico Madrid-Osasuna;Atletico Madrid;Osasuna;1;0;2.24415;0.981492
+2526;2025-10-18 14:15:00;2025-10-18 Barcelona-Girona;Barcelona;Girona;2;1;2.41958;1.69375
+2526;2025-10-18 12:00:00;2025-10-18 Sevilla-Mallorca;Sevilla;Mallorca;1;3;1.25884;1.95555
+2526;2025-10-18 16:30:00;2025-10-18 Villarreal-Real Betis;Villarreal;Real Betis;2;2;0.980598;0.895532
+2526;2025-10-19 14:15:00;2025-10-19 Celta Vigo-Real Sociedad;Celta Vigo;Real Sociedad;1;1;0.717367;2.13562
+2526;2025-10-19 12:00:00;2025-10-19 Elche-Athletic Club;Elche;Athletic Club;0;0;0.823916;0.240214
+2526;2025-10-19 19:00:00;2025-10-19 Getafe-Real Madrid;Getafe;Real Madrid;0;1;0.530119;2.14595
+2526;2025-10-19 16:30:00;2025-10-19 Levante-Rayo Vallecano;Levante;Rayo Vallecano;0;3;0.940509;2.53118
+2526;2025-10-20 19:00:00;2025-10-20 Alaves-Valencia;Alaves;Valencia;0;0;1.05624;0.318076
+2526;2025-10-24 19:00:00;2025-10-24 Real Sociedad-Sevilla;Real Sociedad;Sevilla;2;1;1.64382;0.247146
+2526;2025-10-25 16:30:00;2025-10-25 Athletic Club-Getafe;Athletic Club;Getafe;0;1;0.358524;1.00378
+2526;2025-10-25 14:15:00;2025-10-25 Espanyol-Elche;Espanyol;Elche;1;0;1.70342;1.11414
+2526;2025-10-25 12:00:00;2025-10-25 Girona-Real Oviedo;Girona;Real Oviedo;3;3;2.24132;2.22406
+2526;2025-10-25 19:00:00;2025-10-25 Valencia-Villarreal;Valencia;Villarreal;0;2;0.641435;2.62387
+2526;2025-10-26 13:00:00;2025-10-26 Mallorca-Levante;Mallorca;Levante;1;1;1.86979;2.3579
+2526;2025-10-26 17:30:00;2025-10-26 Osasuna-Celta Vigo;Osasuna;Celta Vigo;2;3;2.318;1.54054
+2526;2025-10-26 20:00:00;2025-10-26 Rayo Vallecano-Alaves;Rayo Vallecano;Alaves;1;0;1.54971;1.41466
+2526;2025-10-26 15:15:00;2025-10-26 Real Madrid-Barcelona;Real Madrid;Barcelona;2;1;3.41322;1.12434
+2526;2025-10-27 20:00:00;2025-10-27 Real Betis-Atletico Madrid;Real Betis;Atletico Madrid;0;2;1.33792;0.876554
+2526;2025-10-31 20:00:00;2025-10-31 Getafe-Girona;Getafe;Girona;2;1;1.40213;1.54366
+2526;2025-11-01 15:15:00;2025-11-01 Atletico Madrid-Sevilla;Atletico Madrid;Sevilla;3;0;2.98632;0.376887
+2526;2025-11-01 20:00:00;2025-11-01 Real Madrid-Valencia;Real Madrid;Valencia;4;0;2.89965;0.292177
+2526;2025-11-01 17:30:00;2025-11-01 Real Sociedad-Athletic Club;Real Sociedad;Athletic Club;3;2;1.8412;1.13112
+2526;2025-11-01 13:00:00;2025-11-01 Villarreal-Rayo Vallecano;Villarreal;Rayo Vallecano;4;0;2.7136;1.08632
+2526;2025-11-02 15:15:00;2025-11-02 Alaves-Espanyol;Alaves;Espanyol;2;1;2.18038;1.04283
+2526;2025-11-02 17:30:00;2025-11-02 Barcelona-Elche;Barcelona;Elche;3;1;2.8073;0.549079
+2526;2025-11-02 13:00:00;2025-11-02 Levante-Celta Vigo;Levante;Celta Vigo;1;2;1.23651;1.92474
+2526;2025-11-02 20:00:00;2025-11-02 Real Betis-Mallorca;Real Betis;Mallorca;3;0;2.82134;0.749852
+2526;2025-11-03 20:00:00;2025-11-03 Real Oviedo-Osasuna;Real Oviedo;Osasuna;0;0;0.717473;0.626317
+2526;2025-11-07 20:00:00;2025-11-07 Elche-Real Sociedad;Elche;Real Sociedad;1;1;0.808307;1.47221
+2526;2025-11-08 17:30:00;2025-11-08 Atletico Madrid-Levante;Atletico Madrid;Levante;3;1;3.03599;1.29112
+2526;2025-11-08 20:00:00;2025-11-08 Espanyol-Villarreal;Espanyol;Villarreal;0;2;0.476157;1.47118
+2526;2025-11-08 13:00:00;2025-11-08 Girona-Alaves;Girona;Alaves;1;0;1.26365;2.00772
+2526;2025-11-08 15:15:00;2025-11-08 Sevilla-Osasuna;Sevilla;Osasuna;1;0;1.22271;0.967352
+2526;2025-11-09 13:00:00;2025-11-09 Athletic Club-Real Oviedo;Athletic Club;Real Oviedo;1;0;2.65219;0.182696
+2526;2025-11-09 20:00:00;2025-11-09 Celta Vigo-Barcelona;Celta Vigo;Barcelona;2;4;0.512253;3.42936
+2526;2025-11-09 17:30:00;2025-11-09 Mallorca-Getafe;Mallorca;Getafe;1;0;1.30353;0.539674
+2526;2025-11-09 15:15:00;2025-11-09 Rayo Vallecano-Real Madrid;Rayo Vallecano;Real Madrid;0;0;1.60641;0.841463
+2526;2025-11-09 17:30:00;2025-11-09 Valencia-Real Betis;Valencia;Real Betis;1;1;1.95148;1.58932
+2526;2025-11-21 20:00:00;2025-11-21 Valencia-Levante;Valencia;Levante;1;0;1.65038;0.67426
+2526;2025-11-22 13:00:00;2025-11-22 Alaves-Celta Vigo;Alaves;Celta Vigo;0;1;0.3056;1.32351
+2526;2025-11-22 15:15:00;2025-11-22 Barcelona-Athletic Club;Barcelona;Athletic Club;4;0;2.32922;1.04615
+2526;2025-11-22 17:30:00;2025-11-22 Osasuna-Real Sociedad;Osasuna;Real Sociedad;1;3;1.27964;1.76546
+2526;2025-11-22 20:00:00;2025-11-22 Villarreal-Mallorca;Villarreal;Mallorca;2;1;2.6371;1.38464
+2526;2025-11-23 20:00:00;2025-11-23 Elche-Real Madrid;Elche;Real Madrid;2;2;1.59518;3.88258
+2526;2025-11-23 17:30:00;2025-11-23 Getafe-Atletico Madrid;Getafe;Atletico Madrid;0;1;0.578828;1.47677
+2526;2025-11-23 15:15:00;2025-11-23 Real Betis-Girona;Real Betis;Girona;1;1;1.5784;1.48903
+2526;2025-11-23 13:00:00;2025-11-23 Real Oviedo-Rayo Vallecano;Real Oviedo;Rayo Vallecano;0;0;0.499406;0.922998
+2526;2025-11-24 20:00:00;2025-11-24 Espanyol-Sevilla;Espanyol;Sevilla;2;1;1.16625;1.80002
+2526;2025-11-28 20:00:00;2025-11-28 Getafe-Elche;Getafe;Elche;1;0;1.34046;0.448894
+2526;2025-11-29 20:00:00;2025-11-29 Atletico Madrid-Real Oviedo;Atletico Madrid;Real Oviedo;2;0;2.40693;0.921985
+2526;2025-11-29 15:15:00;2025-11-29 Barcelona-Alaves;Barcelona;Alaves;3;1;2.51096;2.09256
+2526;2025-11-29 17:30:00;2025-11-29 Levante-Athletic Club;Levante;Athletic Club;0;2;1.20253;2.80864
+2526;2025-11-29 13:00:00;2025-11-29 Mallorca-Osasuna;Mallorca;Osasuna;2;2;1.10581;1.11108
+2526;2025-11-30 17:30:00;2025-11-30 Celta Vigo-Espanyol;Celta Vigo;Espanyol;0;1;0.635572;0.599243
+2526;2025-11-30 20:00:00;2025-11-30 Girona-Real Madrid;Girona;Real Madrid;1;1;1.05171;2.21359
+2526;2025-11-30 13:00:00;2025-11-30 Real Sociedad-Villarreal;Real Sociedad;Villarreal;2;3;1.3715;1.63038
+2526;2025-11-30 15:15:00;2025-11-30 Sevilla-Real Betis;Sevilla;Real Betis;0;2;0.735196;1.17861
+2526;2025-12-01 20:00:00;2025-12-01 Rayo Vallecano-Valencia;Rayo Vallecano;Valencia;1;1;2.13298;0.897663
+2526;2025-12-02 20:00:00;2025-12-02 Barcelona-Atletico Madrid;Barcelona;Atletico Madrid;3;1;3.46121;1.35018
+2526;2025-12-03 18:00:00;2025-12-03 Athletic Club-Real Madrid;Athletic Club;Real Madrid;0;3;0.917315;2.36743
+2526;2025-12-05 20:00:00;2025-12-05 Real Oviedo-Mallorca;Real Oviedo;Mallorca;0;0;1.60009;0.617185
+2526;2025-12-06 15:15:00;2025-12-06 Alaves-Real Sociedad;Alaves;Real Sociedad;1;0;1.88765;1.09935
+2526;2025-12-06 20:00:00;2025-12-06 Athletic Club-Atletico Madrid;Athletic Club;Atletico Madrid;1;0;1.18636;0.771885
+2526;2025-12-06 17:30:00;2025-12-06 Real Betis-Barcelona;Real Betis;Barcelona;3;5;2.74214;3.30288
+2526;2025-12-06 13:00:00;2025-12-06 Villarreal-Getafe;Villarreal;Getafe;2;0;0.816941;0.282254
+2526;2025-12-07 13:00:00;2025-12-07 Elche-Girona;Elche;Girona;3;0;1.59513;0.781043
+2526;2025-12-07 17:30:00;2025-12-07 Espanyol-Rayo Vallecano;Espanyol;Rayo Vallecano;1;0;1.57985;0.285545
+2526;2025-12-07 20:00:00;2025-12-07 Real Madrid-Celta Vigo;Real Madrid;Celta Vigo;0;2;2.41681;1.60908
+2526;2025-12-07 15:15:00;2025-12-07 Valencia-Sevilla;Valencia;Sevilla;1;1;1.23901;0.635478
+2526;2025-12-08 20:00:00;2025-12-08 Osasuna-Levante;Osasuna;Levante;2;0;1.74988;0.544977
+2526;2025-12-12 20:00:00;2025-12-12 Real Sociedad-Girona;Real Sociedad;Girona;1;2;1.02349;1.16894
+2526;2025-12-13 13:00:00;2025-12-13 Atletico Madrid-Valencia;Atletico Madrid;Valencia;2;1;2.07076;1.26068
+2526;2025-12-13 17:30:00;2025-12-13 Barcelona-Osasuna;Barcelona;Osasuna;2;0;2.14468;0.228217
+2526;2025-12-13 20:00:00;2025-12-13 Getafe-Espanyol;Getafe;Espanyol;0;1;0.305925;0.75472
+2526;2025-12-13 15:15:00;2025-12-13 Mallorca-Elche;Mallorca;Elche;3;1;2.581;0.311674
+2526;2025-12-14 20:00:00;2025-12-14 Alaves-Real Madrid;Alaves;Real Madrid;1;2;1.313;1.90656
+2526;2025-12-14 15:15:00;2025-12-14 Celta Vigo-Athletic Club;Celta Vigo;Athletic Club;2;0;1.97074;1.66561
+2526;2025-12-14 13:00:00;2025-12-14 Sevilla-Real Oviedo;Sevilla;Real Oviedo;4;0;2.31899;0.416975
+2526;2025-12-15 20:00:00;2025-12-15 Rayo Vallecano-Real Betis;Rayo Vallecano;Real Betis;0;0;2.1848;0.788766
+2526;2025-12-19 20:00:00;2025-12-19 Valencia-Mallorca;Valencia;Mallorca;1;1;2.16012;0.199412
+2526;2025-12-20 15:15:00;2025-12-20 Levante-Real Sociedad;Levante;Real Sociedad;1;1;1.22005;1.62986
+2526;2025-12-20 17:30:00;2025-12-20 Osasuna-Alaves;Osasuna;Alaves;3;0;2.39145;0.718671
+2526;2025-12-20 20:00:00;2025-12-20 Real Madrid-Sevilla;Real Madrid;Sevilla;2;0;4.00139;1.51418
+2526;2025-12-20 13:00:00;2025-12-20 Real Oviedo-Celta Vigo;Real Oviedo;Celta Vigo;0;0;0.517531;0.600009
+2526;2025-12-21 17:30:00;2025-12-21 Elche-Rayo Vallecano;Elche;Rayo Vallecano;4;0;3.66996;1.14923
+2526;2025-12-21 13:00:00;2025-12-21 Girona-Atletico Madrid;Girona;Atletico Madrid;0;3;1.11565;1.26201
+2526;2025-12-21 20:00:00;2025-12-21 Real Betis-Getafe;Real Betis;Getafe;4;0;3.46022;1.24726
+2526;2025-12-21 15:15:00;2025-12-21 Villarreal-Barcelona;Villarreal;Barcelona;0;2;2.16466;3.27381
+2526;2025-12-22 20:00:00;2025-12-22 Athletic Club-Espanyol;Athletic Club;Espanyol;1;2;1.72282;0.908988
+2526;2026-01-02 20:00:00;2026-01-02 Rayo Vallecano-Getafe;Rayo Vallecano;Getafe;1;1;0.662324;0.663898
+2526;2026-01-03 13:00:00;2026-01-03 Celta Vigo-Valencia;Celta Vigo;Valencia;4;1;2.59029;1.79296
+2526;2026-01-03 17:30:00;2026-01-03 Elche-Villarreal;Elche;Villarreal;1;3;1.52119;2.635
+2526;2026-01-03 20:00:00;2026-01-03 Espanyol-Barcelona;Espanyol;Barcelona;0;2;1.79661;2.94252
+2526;2026-01-03 15:15:00;2026-01-03 Osasuna-Athletic Club;Osasuna;Athletic Club;1;1;0.868051;1.554
+2526;2026-01-04 17:30:00;2026-01-04 Alaves-Real Oviedo;Alaves;Real Oviedo;1;1;1.56756;3.21906
+2526;2026-01-04 17:30:00;2026-01-04 Mallorca-Girona;Mallorca;Girona;1;2;1.48338;1.45714
+2526;2026-01-04 15:15:00;2026-01-04 Real Madrid-Real Betis;Real Madrid;Real Betis;5;1;3.0073;0.974623
+2526;2026-01-04 20:00:00;2026-01-04 Real Sociedad-Atletico Madrid;Real Sociedad;Atletico Madrid;1;1;1.70649;1.37325
+2526;2026-01-04 13:00:00;2026-01-04 Sevilla-Levante;Sevilla;Levante;0;3;1.66562;1.65102
+2526;2026-01-09 20:00:00;2026-01-09 Getafe-Real Sociedad;Getafe;Real Sociedad;1;2;0.240168;1.25801
+2526;2026-01-10 17:30:00;2026-01-10 Girona-Osasuna;Girona;Osasuna;1;0;0.984024;1.22674
+2526;2026-01-10 13:00:00;2026-01-10 Real Oviedo-Real Betis;Real Oviedo;Real Betis;1;1;1.01026;2.70809
+2526;2026-01-10 20:00:00;2026-01-10 Valencia-Elche;Valencia;Elche;1;1;2.04147;0.244413
+2526;2026-01-10 15:15:00;2026-01-10 Villarreal-Alaves;Villarreal;Alaves;3;1;1.38322;0.844572
+2526;2026-01-11 15:15:00;2026-01-11 Levante-Espanyol;Levante;Espanyol;1;1;1.18232;1.58922
+2526;2026-01-11 13:00:00;2026-01-11 Rayo Vallecano-Mallorca;Rayo Vallecano;Mallorca;2;1;2.05105;1.05743
+2526;2026-01-12 20:00:00;2026-01-12 Sevilla-Celta Vigo;Sevilla;Celta Vigo;0;1;0.262521;2.07629
+2526;2026-01-16 20:00:00;2026-01-16 Espanyol-Girona;Espanyol;Girona;0;2;1.26738;1.82377
+2526;2026-01-17 15:15:00;2026-01-17 Mallorca-Athletic Club;Mallorca;Athletic Club;3;2;3.11432;2.28242
+2526;2026-01-17 17:30:00;2026-01-17 Osasuna-Real Oviedo;Osasuna;Real Oviedo;3;2;2.03551;1.36173
+2526;2026-01-17 20:00:00;2026-01-17 Real Betis-Villarreal;Real Betis;Villarreal;2;0;1.34951;1.17907
+2526;2026-01-17 13:00:00;2026-01-17 Real Madrid-Levante;Real Madrid;Levante;2;0;2.54865;0.787501
+2526;2026-01-18 15:15:00;2026-01-18 Atletico Madrid-Alaves;Atletico Madrid;Alaves;1;0;1.7743;1.21004
+2526;2026-01-18 17:30:00;2026-01-18 Celta Vigo-Rayo Vallecano;Celta Vigo;Rayo Vallecano;3;0;1.90274;1.31932
+2526;2026-01-18 13:00:00;2026-01-18 Getafe-Valencia;Getafe;Valencia;0;1;0.584591;0.746856
+2526;2026-01-18 20:00:00;2026-01-18 Real Sociedad-Barcelona;Real Sociedad;Barcelona;2;1;1.55875;3.92031
+2526;2026-01-19 20:00:00;2026-01-19 Elche-Sevilla;Elche;Sevilla;2;2;1.48075;2.4961
+2526;2026-01-23 20:00:00;2026-01-23 Levante-Elche;Levante;Elche;3;2;3.24455;0.632971
+2526;2026-01-24 13:00:00;2026-01-24 Rayo Vallecano-Osasuna;Rayo Vallecano;Osasuna;1;3;0.669564;1.36861
+2526;2026-01-24 17:30:00;2026-01-24 Sevilla-Athletic Club;Sevilla;Athletic Club;2;1;1.43055;1.91259
+2526;2026-01-24 15:15:00;2026-01-24 Valencia-Espanyol;Valencia;Espanyol;3;2;2.76956;1.75941
+2526;2026-01-24 20:00:00;2026-01-24 Villarreal-Real Madrid;Villarreal;Real Madrid;0;2;0.952831;1.62206
+2526;2026-01-25 20:00:00;2026-01-25 Alaves-Real Betis;Alaves;Real Betis;2;1;1.67102;1.78662
+2526;2026-01-25 13:00:00;2026-01-25 Atletico Madrid-Mallorca;Atletico Madrid;Mallorca;3;0;1.42501;0.367893
+2526;2026-01-25 15:15:00;2026-01-25 Barcelona-Real Oviedo;Barcelona;Real Oviedo;3;0;2.59917;0.486404
+2526;2026-01-25 17:30:00;2026-01-25 Real Sociedad-Celta Vigo;Real Sociedad;Celta Vigo;3;1;2.15496;1.63115
+2526;2026-01-26 20:00:00;2026-01-26 Girona-Getafe;Girona;Getafe;1;1;1.01571;1.1089
+2526;2026-01-30 20:00:00;2026-01-30 Espanyol-Alaves;Espanyol;Alaves;1;2;1.20096;1.32248
+2526;2026-01-31 20:00:00;2026-01-31 Elche-Barcelona;Elche;Barcelona;1;3;0.839;7.11049
+2526;2026-01-31 17:30:00;2026-01-31 Levante-Atletico Madrid;Levante;Atletico Madrid;0;0;0.41109;0.615283
+2526;2026-01-31 15:15:00;2026-01-31 Osasuna-Villarreal;Osasuna;Villarreal;2;2;2.13467;0.911128
+2526;2026-01-31 13:00:00;2026-01-31 Real Oviedo-Girona;Real Oviedo;Girona;1;0;1.26601;0.664225
+2526;2026-02-01 20:00:00;2026-02-01 Athletic Club-Real Sociedad;Athletic Club;Real Sociedad;1;1;0.893754;1.58578
+2526;2026-02-01 17:30:00;2026-02-01 Getafe-Celta Vigo;Getafe;Celta Vigo;0;0;0.499866;0.256881
+2526;2026-02-01 15:15:00;2026-02-01 Real Betis-Valencia;Real Betis;Valencia;2;1;2.16883;1.88674
+2526;2026-02-01 13:00:00;2026-02-01 Real Madrid-Rayo Vallecano;Real Madrid;Rayo Vallecano;2;1;2.30208;1.06935
+2526;2026-02-02 20:00:00;2026-02-02 Mallorca-Sevilla;Mallorca;Sevilla;4;1;3.04346;1.24318
+2526;2026-02-06 20:00:00;2026-02-06 Celta Vigo-Osasuna;Celta Vigo;Osasuna;1;2;2.0351;1.00253
+2526;2026-02-07 15:15:00;2026-02-07 Barcelona-Mallorca;Barcelona;Mallorca;3;0;2.48168;1.01087
+2526;2026-02-07 20:00:00;2026-02-07 Real Sociedad-Elche;Real Sociedad;Elche;3;1;1.7719;1.08664
+2526;2026-02-08 13:00:00;2026-02-08 Alaves-Getafe;Alaves;Getafe;0;2;3.01162;1.7859
+2526;2026-02-08 15:15:00;2026-02-08 Athletic Club-Levante;Athletic Club;Levante;4;2;2.77377;0.615311
+2526;2026-02-08 17:30:00;2026-02-08 Atletico Madrid-Real Betis;Atletico Madrid;Real Betis;0;1;0.625525;0.839838
+2526;2026-02-08 15:15:00;2026-02-08 Sevilla-Girona;Sevilla;Girona;1;1;0.958247;2.60199
+2526;2026-02-08 20:00:00;2026-02-08 Valencia-Real Madrid;Valencia;Real Madrid;0;2;0.571838;1.04576
+2526;2026-02-09 20:00:00;2026-02-09 Villarreal-Espanyol;Villarreal;Espanyol;4;1;1.53925;0.744747
+2526;2026-02-13 20:00:00;2026-02-13 Elche-Osasuna;Elche;Osasuna;0;0;2.33332;0.81264
+2526;2026-02-14 13:00:00;2026-02-14 Espanyol-Celta Vigo;Espanyol;Celta Vigo;2;2;1.16112;2.81494
+2526;2026-02-14 15:15:00;2026-02-14 Getafe-Villarreal;Getafe;Villarreal;2;1;1.61761;0.969388
+2526;2026-02-14 20:00:00;2026-02-14 Real Madrid-Real Sociedad;Real Madrid;Real Sociedad;4;1;3.05918;1.66018
+2526;2026-02-14 17:30:00;2026-02-14 Sevilla-Alaves;Sevilla;Alaves;1;1;0.354256;1.38983
+2526;2026-02-15 17:30:00;2026-02-15 Levante-Valencia;Levante;Valencia;0;2;1.45737;0.743814
+2526;2026-02-15 20:00:00;2026-02-15 Mallorca-Real Betis;Mallorca;Real Betis;1;2;0.731317;2.04841
+2526;2026-02-15 15:15:00;2026-02-15 Rayo Vallecano-Atletico Madrid;Rayo Vallecano;Atletico Madrid;3;0;2.75329;0.752854
+2526;2026-02-15 13:00:00;2026-02-15 Real Oviedo-Athletic Club;Real Oviedo;Athletic Club;1;2;0.861013;1.20566
+2526;2026-02-16 20:00:00;2026-02-16 Girona-Barcelona;Girona;Barcelona;2;1;2.8897;2.69655
+2526;2026-02-18 19:00:00;2026-02-18 Levante-Villarreal;Levante;Villarreal;0;1;0.774339;2.40024
+2526;2026-02-20 20:00:00;2026-02-20 Athletic Club-Elche;Athletic Club;Elche;2;1;3.38352;0.783583
+2526;2026-02-21 20:00:00;2026-02-21 Atletico Madrid-Espanyol;Atletico Madrid;Espanyol;4;2;3.28587;1.04114
+2526;2026-02-21 17:30:00;2026-02-21 Osasuna-Real Madrid;Osasuna;Real Madrid;2;1;2.31248;2.02307
+2526;2026-02-21 15:15:00;2026-02-21 Real Betis-Rayo Vallecano;Real Betis;Rayo Vallecano;1;1;2.13548;1.30345
+2526;2026-02-21 13:00:00;2026-02-21 Real Sociedad-Real Oviedo;Real Sociedad;Real Oviedo;3;3;2.77486;1.75088
+2526;2026-02-22 15:15:00;2026-02-22 Barcelona-Levante;Barcelona;Levante;3;0;4.24402;0.602552
+2526;2026-02-22 17:30:00;2026-02-22 Celta Vigo-Mallorca;Celta Vigo;Mallorca;2;0;2.93904;0.0207331
+2526;2026-02-22 13:00:00;2026-02-22 Getafe-Sevilla;Getafe;Sevilla;0;1;0.250539;0.283172
+2526;2026-02-22 20:00:00;2026-02-22 Villarreal-Valencia;Villarreal;Valencia;2;1;2.38144;1.91256
+2526;2026-02-23 20:00:00;2026-02-23 Alaves-Girona;Alaves;Girona;2;2;2.1366;2.05717
+2526;2026-02-27 20:00:00;2026-02-27 Levante-Alaves;Levante;Alaves;2;0;2.77253;1.29855
+2526;2026-02-28 15:15:00;2026-02-28 Barcelona-Villarreal;Barcelona;Villarreal;4;1;3.54743;1.36182
+2526;2026-02-28 17:30:00;2026-02-28 Mallorca-Real Sociedad;Mallorca;Real Sociedad;0;1;0.754182;0.929702
+2526;2026-02-28 13:00:00;2026-02-28 Rayo Vallecano-Athletic Club;Rayo Vallecano;Athletic Club;1;1;1.35951;0.428457
+2526;2026-02-28 20:00:00;2026-02-28 Real Oviedo-Atletico Madrid;Real Oviedo;Atletico Madrid;0;1;1.50089;0.853142
+2526;2026-03-01 13:00:00;2026-03-01 Elche-Espanyol;Elche;Espanyol;2;2;1.82376;0.834858
+2526;2026-03-01 20:00:00;2026-03-01 Girona-Celta Vigo;Girona;Celta Vigo;1;2;1.57036;0.697106
+2526;2026-03-01 17:30:00;2026-03-01 Real Betis-Sevilla;Real Betis;Sevilla;2;2;1.48441;0.656164
+2526;2026-03-01 15:15:00;2026-03-01 Valencia-Osasuna;Valencia;Osasuna;1;0;1.31076;0.259132
+2526;2026-03-02 20:00:00;2026-03-02 Real Madrid-Getafe;Real Madrid;Getafe;0;1;2.02274;0.476324
+2526;2026-03-04 18:00:00;2026-03-04 Rayo Vallecano-Real Oviedo;Rayo Vallecano;Real Oviedo;3;0;2.55086;1.01052
+2526;2026-03-06 20:00:00;2026-03-06 Celta Vigo-Real Madrid;Celta Vigo;Real Madrid;1;2;0.910298;0.637644
+2526;2026-03-07 20:00:00;2026-03-07 Athletic Club-Barcelona;Athletic Club;Barcelona;0;1;1.04698;0.560009
+2526;2026-03-07 17:30:00;2026-03-07 Atletico Madrid-Real Sociedad;Atletico Madrid;Real Sociedad;3;2;3.57972;0.313932
+2526;2026-03-07 15:15:00;2026-03-07 Levante-Girona;Levante;Girona;1;1;0.819009;1.917
+2526;2026-03-07 13:00:00;2026-03-07 Osasuna-Mallorca;Osasuna;Mallorca;2;2;3.09031;1.03165
+2526;2026-03-08 15:15:00;2026-03-08 Getafe-Real Betis;Getafe;Real Betis;2;0;0.821088;1.24912
+2526;2026-03-08 17:30:00;2026-03-08 Sevilla-Rayo Vallecano;Sevilla;Rayo Vallecano;1;1;1.14573;0.211673
+2526;2026-03-08 20:00:00;2026-03-08 Valencia-Alaves;Valencia;Alaves;3;2;2.51657;1.60795
+2526;2026-03-08 13:00:00;2026-03-08 Villarreal-Elche;Villarreal;Elche;2;1;2.30632;1.62051
+2526;2026-03-09 20:00:00;2026-03-09 Espanyol-Real Oviedo;Espanyol;Real Oviedo;;;;
+2526;2026-03-13 20:00:00;2026-03-13 Alaves-Villarreal;Alaves;Villarreal;;;;
+2526;2026-03-14 15:15:00;2026-03-14 Atletico Madrid-Getafe;Atletico Madrid;Getafe;;;;
+2526;2026-03-14 13:00:00;2026-03-14 Girona-Athletic Club;Girona;Athletic Club;;;;
+2526;2026-03-14 20:00:00;2026-03-14 Real Madrid-Elche;Real Madrid;Elche;;;;
+2526;2026-03-14 17:30:00;2026-03-14 Real Oviedo-Valencia;Real Oviedo;Valencia;;;;
+2526;2026-03-15 15:15:00;2026-03-15 Barcelona-Sevilla;Barcelona;Sevilla;;;;
+2526;2026-03-15 13:00:00;2026-03-15 Mallorca-Espanyol;Mallorca;Espanyol;;;;
+2526;2026-03-15 17:30:00;2026-03-15 Real Betis-Celta Vigo;Real Betis;Celta Vigo;;;;
+2526;2026-03-15 20:00:00;2026-03-15 Real Sociedad-Osasuna;Real Sociedad;Osasuna;;;;
+2526;2026-03-16 20:00:00;2026-03-16 Rayo Vallecano-Levante;Rayo Vallecano;Levante;;;;
+2526;2026-03-20 20:00:00;2026-03-20 Villarreal-Real Sociedad;Villarreal;Real Sociedad;;;;
+2526;2026-03-21 13:00:00;2026-03-21 Elche-Mallorca;Elche;Mallorca;;;;
+2526;2026-03-21 15:15:00;2026-03-21 Espanyol-Getafe;Espanyol;Getafe;;;;
+2526;2026-03-21 17:30:00;2026-03-21 Levante-Real Oviedo;Levante;Real Oviedo;;;;
+2526;2026-03-21 17:30:00;2026-03-21 Osasuna-Girona;Osasuna;Girona;;;;
+2526;2026-03-21 20:00:00;2026-03-21 Sevilla-Valencia;Sevilla;Valencia;;;;
+2526;2026-03-22 17:30:00;2026-03-22 Athletic Club-Real Betis;Athletic Club;Real Betis;;;;
+2526;2026-03-22 13:00:00;2026-03-22 Barcelona-Rayo Vallecano;Barcelona;Rayo Vallecano;;;;
+2526;2026-03-22 15:15:00;2026-03-22 Celta Vigo-Alaves;Celta Vigo;Alaves;;;;
+2526;2026-03-22 20:00:00;2026-03-22 Real Madrid-Atletico Madrid;Real Madrid;Atletico Madrid;;;;
+2526;2026-04-05 16:00:00;2026-04-05 Alaves-Osasuna;Alaves;Osasuna;;;;
+2526;2026-04-05 16:00:00;2026-04-05 Atletico Madrid-Barcelona;Atletico Madrid;Barcelona;;;;
+2526;2026-04-05 16:00:00;2026-04-05 Getafe-Athletic Club;Getafe;Athletic Club;;;;
+2526;2026-04-05 16:00:00;2026-04-05 Girona-Villarreal;Girona;Villarreal;;;;
+2526;2026-04-05 16:00:00;2026-04-05 Mallorca-Real Madrid;Mallorca;Real Madrid;;;;
+2526;2026-04-05 16:00:00;2026-04-05 Rayo Vallecano-Elche;Rayo Vallecano;Elche;;;;
+2526;2026-04-05 16:00:00;2026-04-05 Real Betis-Espanyol;Real Betis;Espanyol;;;;
+2526;2026-04-05 16:00:00;2026-04-05 Real Oviedo-Sevilla;Real Oviedo;Sevilla;;;;
+2526;2026-04-05 16:00:00;2026-04-05 Real Sociedad-Levante;Real Sociedad;Levante;;;;
+2526;2026-04-05 16:00:00;2026-04-05 Valencia-Celta Vigo;Valencia;Celta Vigo;;;;
+2526;2026-04-12 16:00:00;2026-04-12 Athletic Club-Villarreal;Athletic Club;Villarreal;;;;
+2526;2026-04-12 16:00:00;2026-04-12 Barcelona-Espanyol;Barcelona;Espanyol;;;;
+2526;2026-04-12 16:00:00;2026-04-12 Celta Vigo-Real Oviedo;Celta Vigo;Real Oviedo;;;;
+2526;2026-04-12 16:00:00;2026-04-12 Elche-Valencia;Elche;Valencia;;;;
+2526;2026-04-12 16:00:00;2026-04-12 Levante-Getafe;Levante;Getafe;;;;
+2526;2026-04-12 16:00:00;2026-04-12 Mallorca-Rayo Vallecano;Mallorca;Rayo Vallecano;;;;
+2526;2026-04-12 16:00:00;2026-04-12 Osasuna-Real Betis;Osasuna;Real Betis;;;;
+2526;2026-04-12 16:00:00;2026-04-12 Real Madrid-Girona;Real Madrid;Girona;;;;
+2526;2026-04-12 16:00:00;2026-04-12 Real Sociedad-Alaves;Real Sociedad;Alaves;;;;
+2526;2026-04-12 16:00:00;2026-04-12 Sevilla-Atletico Madrid;Sevilla;Atletico Madrid;;;;
+2526;2026-04-22 20:00:00;2026-04-22 Athletic Club-Osasuna;Athletic Club;Osasuna;;;;
+2526;2026-04-22 20:00:00;2026-04-22 Barcelona-Celta Vigo;Barcelona;Celta Vigo;;;;
+2526;2026-04-22 20:00:00;2026-04-22 Elche-Atletico Madrid;Elche;Atletico Madrid;;;;
+2526;2026-04-22 20:00:00;2026-04-22 Girona-Real Betis;Girona;Real Betis;;;;
+2526;2026-04-22 20:00:00;2026-04-22 Levante-Sevilla;Levante;Sevilla;;;;
+2526;2026-04-22 20:00:00;2026-04-22 Mallorca-Valencia;Mallorca;Valencia;;;;
+2526;2026-04-22 20:00:00;2026-04-22 Rayo Vallecano-Espanyol;Rayo Vallecano;Espanyol;;;;
+2526;2026-04-22 20:00:00;2026-04-22 Real Madrid-Alaves;Real Madrid;Alaves;;;;
+2526;2026-04-22 20:00:00;2026-04-22 Real Oviedo-Villarreal;Real Oviedo;Villarreal;;;;
+2526;2026-04-22 20:00:00;2026-04-22 Real Sociedad-Getafe;Real Sociedad;Getafe;;;;
+2526;2026-04-26 16:00:00;2026-04-26 Alaves-Mallorca;Alaves;Mallorca;;;;
+2526;2026-04-26 16:00:00;2026-04-26 Atletico Madrid-Athletic Club;Atletico Madrid;Athletic Club;;;;
+2526;2026-04-26 16:00:00;2026-04-26 Espanyol-Levante;Espanyol;Levante;;;;
+2526;2026-04-26 16:00:00;2026-04-26 Getafe-Barcelona;Getafe;Barcelona;;;;
+2526;2026-04-26 16:00:00;2026-04-26 Osasuna-Sevilla;Osasuna;Sevilla;;;;
+2526;2026-04-26 16:00:00;2026-04-26 Rayo Vallecano-Real Sociedad;Rayo Vallecano;Real Sociedad;;;;
+2526;2026-04-26 16:00:00;2026-04-26 Real Betis-Real Madrid;Real Betis;Real Madrid;;;;
+2526;2026-04-26 16:00:00;2026-04-26 Real Oviedo-Elche;Real Oviedo;Elche;;;;
+2526;2026-04-26 16:00:00;2026-04-26 Valencia-Girona;Valencia;Girona;;;;
+2526;2026-04-26 16:00:00;2026-04-26 Villarreal-Celta Vigo;Villarreal;Celta Vigo;;;;
+2526;2026-05-03 16:00:00;2026-05-03 Alaves-Athletic Club;Alaves;Athletic Club;;;;
+2526;2026-05-03 16:00:00;2026-05-03 Celta Vigo-Elche;Celta Vigo;Elche;;;;
+2526;2026-05-03 16:00:00;2026-05-03 Espanyol-Real Madrid;Espanyol;Real Madrid;;;;
+2526;2026-05-03 16:00:00;2026-05-03 Getafe-Rayo Vallecano;Getafe;Rayo Vallecano;;;;
+2526;2026-05-03 16:00:00;2026-05-03 Girona-Mallorca;Girona;Mallorca;;;;
+2526;2026-05-03 16:00:00;2026-05-03 Osasuna-Barcelona;Osasuna;Barcelona;;;;
+2526;2026-05-03 16:00:00;2026-05-03 Real Betis-Real Oviedo;Real Betis;Real Oviedo;;;;
+2526;2026-05-03 16:00:00;2026-05-03 Sevilla-Real Sociedad;Sevilla;Real Sociedad;;;;
+2526;2026-05-03 16:00:00;2026-05-03 Valencia-Atletico Madrid;Valencia;Atletico Madrid;;;;
+2526;2026-05-03 16:00:00;2026-05-03 Villarreal-Levante;Villarreal;Levante;;;;
+2526;2026-05-10 16:00:00;2026-05-10 Athletic Club-Valencia;Athletic Club;Valencia;;;;
+2526;2026-05-10 16:00:00;2026-05-10 Atletico Madrid-Celta Vigo;Atletico Madrid;Celta Vigo;;;;
+2526;2026-05-10 16:00:00;2026-05-10 Barcelona-Real Madrid;Barcelona;Real Madrid;;;;
+2526;2026-05-10 16:00:00;2026-05-10 Elche-Alaves;Elche;Alaves;;;;
+2526;2026-05-10 16:00:00;2026-05-10 Levante-Osasuna;Levante;Osasuna;;;;
+2526;2026-05-10 16:00:00;2026-05-10 Mallorca-Villarreal;Mallorca;Villarreal;;;;
+2526;2026-05-10 16:00:00;2026-05-10 Rayo Vallecano-Girona;Rayo Vallecano;Girona;;;;
+2526;2026-05-10 16:00:00;2026-05-10 Real Oviedo-Getafe;Real Oviedo;Getafe;;;;
+2526;2026-05-10 16:00:00;2026-05-10 Real Sociedad-Real Betis;Real Sociedad;Real Betis;;;;
+2526;2026-05-10 16:00:00;2026-05-10 Sevilla-Espanyol;Sevilla;Espanyol;;;;
+2526;2026-05-13 20:00:00;2026-05-13 Alaves-Barcelona;Alaves;Barcelona;;;;
+2526;2026-05-13 20:00:00;2026-05-13 Celta Vigo-Levante;Celta Vigo;Levante;;;;
+2526;2026-05-13 20:00:00;2026-05-13 Espanyol-Athletic Club;Espanyol;Athletic Club;;;;
+2526;2026-05-13 20:00:00;2026-05-13 Getafe-Mallorca;Getafe;Mallorca;;;;
+2526;2026-05-13 20:00:00;2026-05-13 Girona-Real Sociedad;Girona;Real Sociedad;;;;
+2526;2026-05-13 20:00:00;2026-05-13 Osasuna-Atletico Madrid;Osasuna;Atletico Madrid;;;;
+2526;2026-05-13 20:00:00;2026-05-13 Real Betis-Elche;Real Betis;Elche;;;;
+2526;2026-05-13 20:00:00;2026-05-13 Real Madrid-Real Oviedo;Real Madrid;Real Oviedo;;;;
+2526;2026-05-13 20:00:00;2026-05-13 Valencia-Rayo Vallecano;Valencia;Rayo Vallecano;;;;
+2526;2026-05-13 20:00:00;2026-05-13 Villarreal-Sevilla;Villarreal;Sevilla;;;;
+2526;2026-05-17 16:00:00;2026-05-17 Athletic Club-Celta Vigo;Athletic Club;Celta Vigo;;;;
+2526;2026-05-17 16:00:00;2026-05-17 Atletico Madrid-Girona;Atletico Madrid;Girona;;;;
+2526;2026-05-17 16:00:00;2026-05-17 Barcelona-Real Betis;Barcelona;Real Betis;;;;
+2526;2026-05-17 16:00:00;2026-05-17 Elche-Getafe;Elche;Getafe;;;;
+2526;2026-05-17 16:00:00;2026-05-17 Levante-Mallorca;Levante;Mallorca;;;;
+2526;2026-05-17 16:00:00;2026-05-17 Osasuna-Espanyol;Osasuna;Espanyol;;;;
+2526;2026-05-17 16:00:00;2026-05-17 Rayo Vallecano-Villarreal;Rayo Vallecano;Villarreal;;;;
+2526;2026-05-17 16:00:00;2026-05-17 Real Oviedo-Alaves;Real Oviedo;Alaves;;;;
+2526;2026-05-17 16:00:00;2026-05-17 Real Sociedad-Valencia;Real Sociedad;Valencia;;;;
+2526;2026-05-17 16:00:00;2026-05-17 Sevilla-Real Madrid;Sevilla;Real Madrid;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Alaves-Rayo Vallecano;Alaves;Rayo Vallecano;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Celta Vigo-Sevilla;Celta Vigo;Sevilla;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Espanyol-Real Sociedad;Espanyol;Real Sociedad;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Getafe-Osasuna;Getafe;Osasuna;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Girona-Elche;Girona;Elche;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Mallorca-Real Oviedo;Mallorca;Real Oviedo;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Real Betis-Levante;Real Betis;Levante;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Real Madrid-Athletic Club;Real Madrid;Athletic Club;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Valencia-Barcelona;Valencia;Barcelona;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Villarreal-Atletico Madrid;Villarreal;Atletico Madrid;;;;
+2526;2025-08-23 18:45:00;2025-08-23 AC Milan-Cremonese;AC Milan;Cremonese;1;2;2.08498;0.363576
+2526;2025-08-23 16:30:00;2025-08-23 Genoa-Lecce;Genoa;Lecce;0;0;0.56563;0.55094
+2526;2025-08-23 18:45:00;2025-08-23 Roma-Bologna;Roma;Bologna;1;0;1.47691;0.443508
+2526;2025-08-23 16:30:00;2025-08-23 Sassuolo-Napoli;Sassuolo;Napoli;0;2;0.298477;1.55456
+2526;2025-08-24 18:45:00;2025-08-24 Atalanta-Pisa;Atalanta;Pisa;1;1;2.04697;1.02901
+2526;2025-08-24 16:30:00;2025-08-24 Cagliari-Fiorentina;Cagliari;Fiorentina;1;1;1.51736;1.14261
+2526;2025-08-24 16:30:00;2025-08-24 Como-Lazio;Como;Lazio;2;0;1.28478;0.202984
+2526;2025-08-24 18:45:00;2025-08-24 Juventus-Parma Calcio 1913;Juventus;Parma Calcio 1913;2;0;2.74202;0.815567
+2526;2025-08-25 18:45:00;2025-08-25 Inter-Torino;Inter;Torino;5;0;2.60956;0.816232
+2526;2025-08-25 16:30:00;2025-08-25 Udinese-Verona;Udinese;Verona;1;1;1.05058;0.799203
+2526;2025-08-29 16:30:00;2025-08-29 Cremonese-Sassuolo;Cremonese;Sassuolo;3;2;3.52949;1.32978
+2526;2025-08-29 18:45:00;2025-08-29 Lecce-AC Milan;Lecce;AC Milan;0;2;0.481693;2.13175
+2526;2025-08-30 16:30:00;2025-08-30 Bologna-Como;Bologna;Como;1;0;1.51584;0.521585
+2526;2025-08-30 18:45:00;2025-08-30 Napoli-Cagliari;Napoli;Cagliari;1;0;1.73158;0.64413
+2526;2025-08-30 16:30:00;2025-08-30 Parma Calcio 1913-Atalanta;Parma Calcio 1913;Atalanta;1;1;0.751112;1.19727
+2526;2025-08-30 18:45:00;2025-08-30 Pisa-Roma;Pisa;Roma;0;1;0.6627;0.953921
+2526;2025-08-31 16:30:00;2025-08-31 Genoa-Juventus;Genoa;Juventus;0;1;0.593013;1.55128
+2526;2025-08-31 18:45:00;2025-08-31 Inter-Udinese;Inter;Udinese;1;2;1.67172;1.20014
+2526;2025-08-31 18:45:00;2025-08-31 Lazio-Verona;Lazio;Verona;4;0;3.96645;0.600485
+2526;2025-08-31 16:30:00;2025-08-31 Torino-Fiorentina;Torino;Fiorentina;0;0;1.05012;1.18859
+2526;2025-09-13 13:00:00;2025-09-13 Cagliari-Parma Calcio 1913;Cagliari;Parma Calcio 1913;2;0;1.76945;1.95549
+2526;2025-09-13 18:45:00;2025-09-13 Fiorentina-Napoli;Fiorentina;Napoli;1;3;1.39098;3.55376
+2526;2025-09-13 16:00:00;2025-09-13 Juventus-Inter;Juventus;Inter;4;3;0.768943;1.01628
+2526;2025-09-14 18:45:00;2025-09-14 AC Milan-Bologna;AC Milan;Bologna;1;0;1.15538;0.198634
+2526;2025-09-14 13:00:00;2025-09-14 Atalanta-Lecce;Atalanta;Lecce;4;1;2.62415;0.532382
+2526;2025-09-14 13:00:00;2025-09-14 Pisa-Udinese;Pisa;Udinese;0;1;1.27587;1.72902
+2526;2025-09-14 10:30:00;2025-09-14 Roma-Torino;Roma;Torino;0;1;1.02943;0.805089
+2526;2025-09-14 16:00:00;2025-09-14 Sassuolo-Lazio;Sassuolo;Lazio;1;0;1.2156;0.858246
+2526;2025-09-15 18:45:00;2025-09-15 Como-Genoa;Como;Genoa;1;1;1.56467;2.54288
+2526;2025-09-15 16:30:00;2025-09-15 Verona-Cremonese;Verona;Cremonese;0;0;1.8883;0.166346
+2526;2025-09-19 18:45:00;2025-09-19 Lecce-Cagliari;Lecce;Cagliari;1;2;1.13998;2.21034
+2526;2025-09-20 13:00:00;2025-09-20 Bologna-Genoa;Bologna;Genoa;2;1;1.78786;0.794732
+2526;2025-09-20 18:45:00;2025-09-20 Udinese-AC Milan;Udinese;AC Milan;0;3;0.298364;1.70251
+2526;2025-09-20 16:00:00;2025-09-20 Verona-Juventus;Verona;Juventus;1;1;1.65885;0.470357
+2526;2025-09-21 13:00:00;2025-09-21 Cremonese-Parma Calcio 1913;Cremonese;Parma Calcio 1913;0;0;0.172561;0.902031
+2526;2025-09-21 16:00:00;2025-09-21 Fiorentina-Como;Fiorentina;Como;1;2;0.424904;2.09507
+2526;2025-09-21 18:45:00;2025-09-21 Inter-Sassuolo;Inter;Sassuolo;2;1;3.12186;0.850824
+2526;2025-09-21 10:30:00;2025-09-21 Lazio-Roma;Lazio;Roma;0;1;0.666967;1.22639
+2526;2025-09-21 13:00:00;2025-09-21 Torino-Atalanta;Torino;Atalanta;0;3;1.31336;1.67723
+2526;2025-09-22 18:45:00;2025-09-22 Napoli-Pisa;Napoli;Pisa;3;2;1.18611;2.51985
+2526;2025-09-27 18:45:00;2025-09-27 Cagliari-Inter;Cagliari;Inter;0;2;0.475174;3.95419
+2526;2025-09-27 13:00:00;2025-09-27 Como-Cremonese;Como;Cremonese;1;1;1.44033;0.564557
+2526;2025-09-27 16:00:00;2025-09-27 Juventus-Atalanta;Juventus;Atalanta;1;1;1.84242;0.885278
+2526;2025-09-28 18:45:00;2025-09-28 AC Milan-Napoli;AC Milan;Napoli;2;1;0.952575;2.23894
+2526;2025-09-28 16:00:00;2025-09-28 Lecce-Bologna;Lecce;Bologna;2;2;2.09017;1.5908
+2526;2025-09-28 13:00:00;2025-09-28 Pisa-Fiorentina;Pisa;Fiorentina;0;0;0.580471;0.840093
+2526;2025-09-28 13:00:00;2025-09-28 Roma-Verona;Roma;Verona;2;0;1.30542;1.35351
+2526;2025-09-28 10:30:00;2025-09-28 Sassuolo-Udinese;Sassuolo;Udinese;3;1;2.31332;1.19344
+2526;2025-09-29 18:45:00;2025-09-29 Genoa-Lazio;Genoa;Lazio;0;3;1.47659;3.54059
+2526;2025-09-29 16:30:00;2025-09-29 Parma Calcio 1913-Torino;Parma Calcio 1913;Torino;2;1;1.44462;0.660829
+2526;2025-10-03 18:45:00;2025-10-03 Verona-Sassuolo;Verona;Sassuolo;0;1;0.810981;1.5058
+2526;2025-10-04 18:45:00;2025-10-04 Atalanta-Como;Atalanta;Como;1;1;1.74169;0.959121
+2526;2025-10-04 16:00:00;2025-10-04 Inter-Cremonese;Inter;Cremonese;4;1;4.65231;0.619599
+2526;2025-10-04 13:00:00;2025-10-04 Lazio-Torino;Lazio;Torino;3;3;1.45075;2.18108
+2526;2025-10-04 13:00:00;2025-10-04 Parma Calcio 1913-Lecce;Parma Calcio 1913;Lecce;0;1;1.08896;0.622459
+2526;2025-10-05 13:00:00;2025-10-05 Bologna-Pisa;Bologna;Pisa;4;0;3.69928;0.0265067
+2526;2025-10-05 13:00:00;2025-10-05 Fiorentina-Roma;Fiorentina;Roma;1;2;1.11719;1.22512
+2526;2025-10-05 18:45:00;2025-10-05 Juventus-AC Milan;Juventus;AC Milan;0;0;0.570595;1.55707
+2526;2025-10-05 16:00:00;2025-10-05 Napoli-Genoa;Napoli;Genoa;2;1;1.87915;0.691583
+2526;2025-10-05 10:30:00;2025-10-05 Udinese-Cagliari;Udinese;Cagliari;1;1;2.98545;0.789093
+2526;2025-10-18 13:00:00;2025-10-18 Lecce-Sassuolo;Lecce;Sassuolo;0;0;0.66998;0.77146
+2526;2025-10-18 13:00:00;2025-10-18 Pisa-Verona;Pisa;Verona;0;0;0.572009;1.65491
+2526;2025-10-18 18:45:00;2025-10-18 Roma-Inter;Roma;Inter;0;1;2.1538;0.96386
+2526;2025-10-18 16:00:00;2025-10-18 Torino-Napoli;Torino;Napoli;1;0;1.90815;1.71911
+2526;2025-10-19 18:45:00;2025-10-19 AC Milan-Fiorentina;AC Milan;Fiorentina;2;1;2.01853;0.965997
+2526;2025-10-19 16:00:00;2025-10-19 Atalanta-Lazio;Atalanta;Lazio;0;0;2.38095;0.220276
+2526;2025-10-19 13:00:00;2025-10-19 Cagliari-Bologna;Cagliari;Bologna;0;2;0.367775;1.15836
+2526;2025-10-19 10:30:00;2025-10-19 Como-Juventus;Como;Juventus;2;0;1.68785;0.964723
+2526;2025-10-19 13:00:00;2025-10-19 Genoa-Parma Calcio 1913;Genoa;Parma Calcio 1913;0;0;2.21692;0.0544873
+2526;2025-10-20 18:45:00;2025-10-20 Cremonese-Udinese;Cremonese;Udinese;1;1;1.22876;0.962572
+2526;2025-10-24 18:45:00;2025-10-24 AC Milan-Pisa;AC Milan;Pisa;2;2;1.97232;1.22514
+2526;2025-10-25 18:45:00;2025-10-25 Cremonese-Atalanta;Cremonese;Atalanta;1;1;0.967146;1.62371
+2526;2025-10-25 16:00:00;2025-10-25 Napoli-Inter;Napoli;Inter;3;1;1.18626;2.07077
+2526;2025-10-25 13:00:00;2025-10-25 Parma Calcio 1913-Como;Parma Calcio 1913;Como;0;0;1.56651;0.387121
+2526;2025-10-25 13:00:00;2025-10-25 Udinese-Lecce;Udinese;Lecce;3;2;1.51576;0.373551
+2526;2025-10-26 16:00:00;2025-10-26 Fiorentina-Bologna;Fiorentina;Bologna;2;2;3.87905;0.883347
+2526;2025-10-26 18:45:00;2025-10-26 Lazio-Juventus;Lazio;Juventus;1;0;0.905304;1.24614
+2526;2025-10-26 13:00:00;2025-10-26 Sassuolo-Roma;Sassuolo;Roma;0;1;0.949353;2.25968
+2526;2025-10-26 10:30:00;2025-10-26 Torino-Genoa;Torino;Genoa;2;1;1.8196;1.9796
+2526;2025-10-26 13:00:00;2025-10-26 Verona-Cagliari;Verona;Cagliari;2;2;2.03687;0.837271
+2526;2025-10-28 18:45:00;2025-10-28 Atalanta-AC Milan;Atalanta;AC Milan;1;1;1.28167;0.626418
+2526;2025-10-28 16:30:00;2025-10-28 Lecce-Napoli;Lecce;Napoli;0;1;1.02929;0.92446
+2526;2025-10-29 18:45:00;2025-10-29 Bologna-Torino;Bologna;Torino;0;0;0.3322;0.797473
+2526;2025-10-29 16:30:00;2025-10-29 Como-Verona;Como;Verona;3;1;1.74279;1.69938
+2526;2025-10-29 18:45:00;2025-10-29 Genoa-Cremonese;Genoa;Cremonese;0;2;1.3491;1.57974
+2526;2025-10-29 18:45:00;2025-10-29 Inter-Fiorentina;Inter;Fiorentina;3;0;2.87253;0.741937
+2526;2025-10-29 16:30:00;2025-10-29 Juventus-Udinese;Juventus;Udinese;3;1;3.30641;0.604108
+2526;2025-10-29 16:30:00;2025-10-29 Roma-Parma Calcio 1913;Roma;Parma Calcio 1913;2;1;1.15685;1.17796
+2526;2025-10-30 16:30:00;2025-10-30 Cagliari-Sassuolo;Cagliari;Sassuolo;1;2;0.845219;0.937652
+2526;2025-10-30 18:45:00;2025-10-30 Pisa-Lazio;Pisa;Lazio;0;0;0.780185;0.657914
+2526;2025-11-01 19:45:00;2025-11-01 Cremonese-Juventus;Cremonese;Juventus;1;2;0.611392;2.61402
+2526;2025-11-01 17:00:00;2025-11-01 Napoli-Como;Napoli;Como;0;0;0.762314;1.17012
+2526;2025-11-01 14:00:00;2025-11-01 Udinese-Atalanta;Udinese;Atalanta;1;0;0.707338;0.270197
+2526;2025-11-02 19:45:00;2025-11-02 AC Milan-Roma;AC Milan;Roma;1;0;3.76419;1.95443
+2526;2025-11-02 14:00:00;2025-11-02 Fiorentina-Lecce;Fiorentina;Lecce;0;1;1.38997;1.3239
+2526;2025-11-02 17:00:00;2025-11-02 Parma Calcio 1913-Bologna;Parma Calcio 1913;Bologna;1;3;0.622333;3.51745
+2526;2025-11-02 14:00:00;2025-11-02 Torino-Pisa;Torino;Pisa;2;2;1.22388;1.90329
+2526;2025-11-02 11:30:00;2025-11-02 Verona-Inter;Verona;Inter;1;2;0.372642;1.15025
+2526;2025-11-03 19:45:00;2025-11-03 Lazio-Cagliari;Lazio;Cagliari;2;0;0.587684;1.48457
+2526;2025-11-03 17:30:00;2025-11-03 Sassuolo-Genoa;Sassuolo;Genoa;1;2;1.31641;1.83271
+2526;2025-11-07 19:45:00;2025-11-07 Pisa-Cremonese;Pisa;Cremonese;1;0;1.45109;1.23118
+2526;2025-11-08 14:00:00;2025-11-08 Como-Cagliari;Como;Cagliari;0;0;1.0497;0.615264
+2526;2025-11-08 17:00:00;2025-11-08 Juventus-Torino;Juventus;Torino;0;0;1.93707;0.405589
+2526;2025-11-08 14:00:00;2025-11-08 Lecce-Verona;Lecce;Verona;0;0;0.555045;0.691863
+2526;2025-11-08 19:45:00;2025-11-08 Parma Calcio 1913-AC Milan;Parma Calcio 1913;AC Milan;2;2;1.45012;2.05467
+2526;2025-11-09 11:30:00;2025-11-09 Atalanta-Sassuolo;Atalanta;Sassuolo;0;3;0.707859;2.20132
+2526;2025-11-09 14:00:00;2025-11-09 Bologna-Napoli;Bologna;Napoli;2;0;1.64488;0.19503
+2526;2025-11-09 14:00:00;2025-11-09 Genoa-Fiorentina;Genoa;Fiorentina;2;2;1.58884;1.33019
+2526;2025-11-09 19:45:00;2025-11-09 Inter-Lazio;Inter;Lazio;2;0;1.73965;0.54928
+2526;2025-11-09 17:00:00;2025-11-09 Roma-Udinese;Roma;Udinese;2;0;1.75728;0.928685
+2526;2025-11-22 14:00:00;2025-11-22 Cagliari-Genoa;Cagliari;Genoa;3;3;1.37329;1.61562
+2526;2025-11-22 17:00:00;2025-11-22 Fiorentina-Juventus;Fiorentina;Juventus;1;1;0.659308;1.65053
+2526;2025-11-22 19:45:00;2025-11-22 Napoli-Atalanta;Napoli;Atalanta;3;1;2.02765;0.825775
+2526;2025-11-22 14:00:00;2025-11-22 Udinese-Bologna;Udinese;Bologna;0;3;1.88758;2.88287
+2526;2025-11-23 14:00:00;2025-11-23 Cremonese-Roma;Cremonese;Roma;1;3;1.25617;1.73178
+2526;2025-11-23 19:45:00;2025-11-23 Inter-AC Milan;Inter;AC Milan;0;1;1.74448;0.856085
+2526;2025-11-23 17:00:00;2025-11-23 Lazio-Lecce;Lazio;Lecce;2;0;1.49492;0.544669
+2526;2025-11-23 11:30:00;2025-11-23 Verona-Parma Calcio 1913;Verona;Parma Calcio 1913;1;2;0.943021;1.51628
+2526;2025-11-24 19:45:00;2025-11-24 Sassuolo-Pisa;Sassuolo;Pisa;2;2;2.21345;1.38602
+2526;2025-11-24 17:30:00;2025-11-24 Torino-Como;Torino;Como;1;5;1.42986;3.37909
+2526;2025-11-28 19:45:00;2025-11-28 Como-Sassuolo;Como;Sassuolo;2;0;1.73426;1.12902
+2526;2025-11-29 19:45:00;2025-11-29 AC Milan-Lazio;AC Milan;Lazio;1;0;1.48113;0.899621
+2526;2025-11-29 14:00:00;2025-11-29 Genoa-Verona;Genoa;Verona;2;1;1.64897;2.60658
+2526;2025-11-29 17:00:00;2025-11-29 Juventus-Cagliari;Juventus;Cagliari;2;1;1.5343;0.891103
+2526;2025-11-29 14:00:00;2025-11-29 Parma Calcio 1913-Udinese;Parma Calcio 1913;Udinese;0;2;1.03649;1.87351
+2526;2025-11-30 17:00:00;2025-11-30 Atalanta-Fiorentina;Atalanta;Fiorentina;2;0;2.29028;2.01961
+2526;2025-11-30 11:30:00;2025-11-30 Lecce-Torino;Lecce;Torino;2;1;0.948606;2.0632
+2526;2025-11-30 14:00:00;2025-11-30 Pisa-Inter;Pisa;Inter;0;2;1.80715;2.04777
+2526;2025-11-30 19:45:00;2025-11-30 Roma-Napoli;Roma;Napoli;0;1;0.611755;1.33114
+2526;2025-12-01 19:45:00;2025-12-01 Bologna-Cremonese;Bologna;Cremonese;1;3;2.11713;2.33533
+2526;2025-12-06 17:00:00;2025-12-06 Inter-Como;Inter;Como;4;0;2.26559;0.943403
+2526;2025-12-06 14:00:00;2025-12-06 Sassuolo-Fiorentina;Sassuolo;Fiorentina;3;1;1.64053;1.20662
+2526;2025-12-06 19:45:00;2025-12-06 Verona-Atalanta;Verona;Atalanta;3;1;1.60244;1.76527
+2526;2025-12-07 14:00:00;2025-12-07 Cagliari-Roma;Cagliari;Roma;1;0;1.40358;0.451691
+2526;2025-12-07 11:30:00;2025-12-07 Cremonese-Lecce;Cremonese;Lecce;2;0;2.08254;1.37526
+2526;2025-12-07 17:00:00;2025-12-07 Lazio-Bologna;Lazio;Bologna;1;1;1.24155;1.23115
+2526;2025-12-07 19:45:00;2025-12-07 Napoli-Juventus;Napoli;Juventus;2;1;2.1655;0.24335
+2526;2025-12-08 14:00:00;2025-12-08 Pisa-Parma Calcio 1913;Pisa;Parma Calcio 1913;0;1;1.56873;1.49837
+2526;2025-12-08 19:45:00;2025-12-08 Torino-AC Milan;Torino;AC Milan;2;3;1.01008;2.10495
+2526;2025-12-08 17:00:00;2025-12-08 Udinese-Genoa;Udinese;Genoa;1;2;1.49196;1.5362
+2526;2025-12-12 19:45:00;2025-12-12 Lecce-Pisa;Lecce;Pisa;1;0;2.79987;0.303651
+2526;2025-12-13 19:45:00;2025-12-13 Atalanta-Cagliari;Atalanta;Cagliari;2;1;3.08558;0.568619
+2526;2025-12-13 17:00:00;2025-12-13 Parma Calcio 1913-Lazio;Parma Calcio 1913;Lazio;0;1;1.08166;1.76573
+2526;2025-12-13 14:00:00;2025-12-13 Torino-Cremonese;Torino;Cremonese;1;0;1.94598;0.700243
+2526;2025-12-14 11:30:00;2025-12-14 AC Milan-Sassuolo;AC Milan;Sassuolo;2;2;1.83346;1.02843
+2526;2025-12-14 19:45:00;2025-12-14 Bologna-Juventus;Bologna;Juventus;0;1;0.97387;2.07145
+2526;2025-12-14 14:00:00;2025-12-14 Fiorentina-Verona;Fiorentina;Verona;1;2;2.41776;1.53867
+2526;2025-12-14 17:00:00;2025-12-14 Genoa-Inter;Genoa;Inter;1;2;0.895295;2.04412
+2526;2025-12-14 14:00:00;2025-12-14 Udinese-Napoli;Udinese;Napoli;1;0;1.84146;0.931427
+2526;2025-12-15 19:45:00;2025-12-15 Roma-Como;Roma;Como;1;0;1.65562;0.635872
+2526;2025-12-20 19:45:00;2025-12-20 Juventus-Roma;Juventus;Roma;2;1;3.09592;1.28421
+2526;2025-12-20 17:00:00;2025-12-20 Lazio-Cremonese;Lazio;Cremonese;0;0;0.432769;0.70974
+2526;2025-12-21 11:30:00;2025-12-21 Cagliari-Pisa;Cagliari;Pisa;2;2;1.20171;2.02532
+2526;2025-12-21 17:00:00;2025-12-21 Fiorentina-Udinese;Fiorentina;Udinese;5;1;3.24808;0.794951
+2526;2025-12-21 19:45:00;2025-12-21 Genoa-Atalanta;Genoa;Atalanta;0;1;0.967673;1.76564
+2526;2025-12-21 14:00:00;2025-12-21 Sassuolo-Torino;Sassuolo;Torino;0;1;0.580849;2.00002
+2526;2025-12-27 14:00:00;2025-12-27 Lecce-Como;Lecce;Como;0;3;1.15442;2.33352
+2526;2025-12-27 11:30:00;2025-12-27 Parma Calcio 1913-Fiorentina;Parma Calcio 1913;Fiorentina;1;0;1.26451;1.2463
+2526;2025-12-27 19:45:00;2025-12-27 Pisa-Juventus;Pisa;Juventus;0;2;0.64162;1.2875
+2526;2025-12-27 14:00:00;2025-12-27 Torino-Cagliari;Torino;Cagliari;1;2;2.4609;0.994774
+2526;2025-12-27 17:00:00;2025-12-27 Udinese-Lazio;Udinese;Lazio;1;1;0.806561;0.848022
+2526;2025-12-28 11:30:00;2025-12-28 AC Milan-Verona;AC Milan;Verona;3;0;2.87827;0.32776
+2526;2025-12-28 19:45:00;2025-12-28 Atalanta-Inter;Atalanta;Inter;0;1;1.16924;1.63271
+2526;2025-12-28 17:00:00;2025-12-28 Bologna-Sassuolo;Bologna;Sassuolo;1;1;0.937045;1.52306
+2526;2025-12-28 14:00:00;2025-12-28 Cremonese-Napoli;Cremonese;Napoli;0;2;0.276244;2.85402
+2526;2025-12-29 19:45:00;2025-12-29 Roma-Genoa;Roma;Genoa;3;1;1.86118;0.510864
+2526;2026-01-02 19:45:00;2026-01-02 Cagliari-AC Milan;Cagliari;AC Milan;0;1;0.308283;0.893304
+2526;2026-01-03 19:45:00;2026-01-03 Atalanta-Roma;Atalanta;Roma;1;0;2.73637;1.01018
+2526;2026-01-03 11:30:00;2026-01-03 Como-Udinese;Como;Udinese;1;0;2.38351;0.245
+2526;2026-01-03 14:00:00;2026-01-03 Genoa-Pisa;Genoa;Pisa;1;1;0.569456;1.5538
+2526;2026-01-03 17:00:00;2026-01-03 Juventus-Lecce;Juventus;Lecce;1;1;3.59395;0.176301
+2526;2026-01-03 14:00:00;2026-01-03 Sassuolo-Parma Calcio 1913;Sassuolo;Parma Calcio 1913;1;1;1.0095;1.18268
+2526;2026-01-04 14:00:00;2026-01-04 Fiorentina-Cremonese;Fiorentina;Cremonese;1;0;2.20676;0.752862
+2526;2026-01-04 19:45:00;2026-01-04 Inter-Bologna;Inter;Bologna;3;1;4.26719;0.782906
+2526;2026-01-04 11:30:00;2026-01-04 Lazio-Napoli;Lazio;Napoli;0;2;0.405788;2.42503
+2526;2026-01-04 17:00:00;2026-01-04 Verona-Torino;Verona;Torino;0;3;0.260564;1.70287
+2526;2026-01-06 17:00:00;2026-01-06 Lecce-Roma;Lecce;Roma;0;2;0.604725;1.89163
+2526;2026-01-06 14:00:00;2026-01-06 Pisa-Como;Pisa;Como;0;3;1.71183;2.10363
+2526;2026-01-06 19:45:00;2026-01-06 Sassuolo-Juventus;Sassuolo;Juventus;0;3;0.203716;2.90778
+2526;2026-01-07 17:30:00;2026-01-07 Bologna-Atalanta;Bologna;Atalanta;0;2;1.11527;1.33342
+2526;2026-01-07 19:45:00;2026-01-07 Lazio-Fiorentina;Lazio;Fiorentina;2;2;2.70815;1.51944
+2526;2026-01-07 17:30:00;2026-01-07 Napoli-Verona;Napoli;Verona;2;2;1.57287;1.29178
+2526;2026-01-07 19:45:00;2026-01-07 Parma Calcio 1913-Inter;Parma Calcio 1913;Inter;0;2;0.261054;3.08782
+2526;2026-01-07 19:45:00;2026-01-07 Torino-Udinese;Torino;Udinese;1;2;1.67388;2.31786
+2526;2026-01-08 19:45:00;2026-01-08 AC Milan-Genoa;AC Milan;Genoa;1;1;2.11615;1.43745
+2526;2026-01-08 17:30:00;2026-01-08 Cremonese-Cagliari;Cremonese;Cagliari;2;2;2.2527;1.78257
+2526;2026-01-10 19:45:00;2026-01-10 Atalanta-Torino;Atalanta;Torino;2;0;2.55106;0.945872
+2526;2026-01-10 14:00:00;2026-01-10 Como-Bologna;Como;Bologna;1;1;1.13923;1.54894
+2526;2026-01-10 17:00:00;2026-01-10 Roma-Sassuolo;Roma;Sassuolo;2;0;2.95843;0.858537
+2526;2026-01-10 14:00:00;2026-01-10 Udinese-Pisa;Udinese;Pisa;2;2;2.18018;1.42671
+2526;2026-01-11 14:00:00;2026-01-11 Fiorentina-AC Milan;Fiorentina;AC Milan;1;1;2.38025;2.05263
+2526;2026-01-11 19:45:00;2026-01-11 Inter-Napoli;Inter;Napoli;2;2;1.6567;1.38417
+2526;2026-01-11 11:30:00;2026-01-11 Lecce-Parma Calcio 1913;Lecce;Parma Calcio 1913;1;2;0.842154;1.46392
+2526;2026-01-11 17:00:00;2026-01-11 Verona-Lazio;Verona;Lazio;0;1;0.584887;0.64447
+2526;2026-01-12 17:30:00;2026-01-12 Genoa-Cagliari;Genoa;Cagliari;3;0;1.26155;1.00677
+2526;2026-01-12 19:45:00;2026-01-12 Juventus-Cremonese;Juventus;Cremonese;5;0;3.2309;1.1134
+2526;2026-01-14 19:45:00;2026-01-14 Inter-Lecce;Inter;Lecce;1;0;1.91676;0.468829
+2526;2026-01-14 17:30:00;2026-01-14 Napoli-Parma Calcio 1913;Napoli;Parma Calcio 1913;0;0;1.29671;0.230185
+2526;2026-01-15 19:45:00;2026-01-15 Como-AC Milan;Como;AC Milan;1;3;1.86946;1.3926
+2526;2026-01-15 17:30:00;2026-01-15 Verona-Bologna;Verona;Bologna;2;3;1.6881;0.690747
+2526;2026-01-16 19:45:00;2026-01-16 Pisa-Atalanta;Pisa;Atalanta;1;1;1.63695;1.77359
+2526;2026-01-17 19:45:00;2026-01-17 Cagliari-Juventus;Cagliari;Juventus;1;0;0.176118;0.872689
+2526;2026-01-17 17:00:00;2026-01-17 Napoli-Sassuolo;Napoli;Sassuolo;1;0;0.605235;1.12352
+2526;2026-01-17 14:00:00;2026-01-17 Udinese-Inter;Udinese;Inter;0;1;0.130821;2.17475
+2526;2026-01-18 19:45:00;2026-01-18 AC Milan-Lecce;AC Milan;Lecce;1;0;3.17447;0.1816
+2526;2026-01-18 14:00:00;2026-01-18 Bologna-Fiorentina;Bologna;Fiorentina;1;2;1.34398;1.64563
+2526;2026-01-18 11:30:00;2026-01-18 Parma Calcio 1913-Genoa;Parma Calcio 1913;Genoa;0;0;0.463872;1.07465
+2526;2026-01-18 17:00:00;2026-01-18 Torino-Roma;Torino;Roma;0;2;0.394429;2.02736
+2526;2026-01-19 17:30:00;2026-01-19 Cremonese-Verona;Cremonese;Verona;0;0;0.452062;0.487484
+2526;2026-01-19 19:45:00;2026-01-19 Lazio-Como;Lazio;Como;0;3;0.465283;2.28394
+2526;2026-01-23 19:45:00;2026-01-23 Inter-Pisa;Inter;Pisa;6;2;6.24369;0.453549
+2526;2026-01-24 14:00:00;2026-01-24 Como-Torino;Como;Torino;6;0;3.15343;0.327418
+2526;2026-01-24 17:00:00;2026-01-24 Fiorentina-Cagliari;Fiorentina;Cagliari;1;2;2.09156;1.27897
+2526;2026-01-24 19:45:00;2026-01-24 Lecce-Lazio;Lecce;Lazio;0;0;0.601024;0.716991
+2526;2026-01-25 14:00:00;2026-01-25 Atalanta-Parma Calcio 1913;Atalanta;Parma Calcio 1913;4;0;5.01888;1.86533
+2526;2026-01-25 14:00:00;2026-01-25 Genoa-Bologna;Genoa;Bologna;3;2;0.706857;0.591952
+2526;2026-01-25 17:00:00;2026-01-25 Juventus-Napoli;Juventus;Napoli;3;0;1.54679;0.421726
+2526;2026-01-25 19:45:00;2026-01-25 Roma-AC Milan;Roma;AC Milan;1;1;2.13573;0.583212
+2526;2026-01-25 11:30:00;2026-01-25 Sassuolo-Cremonese;Sassuolo;Cremonese;1;0;1.3787;0.845543
+2526;2026-01-26 19:45:00;2026-01-26 Verona-Udinese;Verona;Udinese;1;3;0.573784;1.93652
+2526;2026-01-30 19:45:00;2026-01-30 Lazio-Genoa;Lazio;Genoa;3;2;2.06649;1.83307
+2526;2026-01-31 19:45:00;2026-01-31 Cagliari-Verona;Cagliari;Verona;4;0;1.98129;0.374813
+2526;2026-01-31 17:00:00;2026-01-31 Napoli-Fiorentina;Napoli;Fiorentina;2;1;2.39619;1.81202
+2526;2026-01-31 14:00:00;2026-01-31 Pisa-Sassuolo;Pisa;Sassuolo;1;3;0.773575;2.20331
+2526;2026-02-01 14:00:00;2026-02-01 Como-Atalanta;Como;Atalanta;0;0;5.96884;0.785014
+2526;2026-02-01 17:00:00;2026-02-01 Cremonese-Inter;Cremonese;Inter;0;2;0.510166;2.18311
+2526;2026-02-01 19:45:00;2026-02-01 Parma Calcio 1913-Juventus;Parma Calcio 1913;Juventus;1;4;0.598397;3.51941
+2526;2026-02-01 11:30:00;2026-02-01 Torino-Lecce;Torino;Lecce;1;0;2.48263;0.468464
+2526;2026-02-02 19:45:00;2026-02-02 Udinese-Roma;Udinese;Roma;1;0;0.642594;0.668752
+2526;2026-02-03 19:45:00;2026-02-03 Bologna-AC Milan;Bologna;AC Milan;0;3;0.440526;3.35769
+2526;2026-02-06 19:45:00;2026-02-06 Verona-Pisa;Verona;Pisa;0;0;0.0783843;1.26143
+2526;2026-02-07 19:45:00;2026-02-07 Fiorentina-Torino;Fiorentina;Torino;2;2;1.27203;1.0134
+2526;2026-02-07 17:00:00;2026-02-07 Genoa-Napoli;Genoa;Napoli;2;3;1.32462;1.89784
+2526;2026-02-08 11:30:00;2026-02-08 Bologna-Parma Calcio 1913;Bologna;Parma Calcio 1913;0;1;1.64658;0.193041
+2526;2026-02-08 19:45:00;2026-02-08 Juventus-Lazio;Juventus;Lazio;2;2;2.85607;0.808824
+2526;2026-02-08 14:00:00;2026-02-08 Lecce-Udinese;Lecce;Udinese;2;1;2.18624;0.895031
+2526;2026-02-08 17:00:00;2026-02-08 Sassuolo-Inter;Sassuolo;Inter;0;5;0.721597;2.75112
+2526;2026-02-09 17:30:00;2026-02-09 Atalanta-Cremonese;Atalanta;Cremonese;2;1;3.12119;0.914806
+2526;2026-02-09 19:45:00;2026-02-09 Roma-Cagliari;Roma;Cagliari;2;0;2.20426;0.613133
+2526;2026-02-13 19:45:00;2026-02-13 Pisa-AC Milan;Pisa;AC Milan;1;2;0.937275;2.15769
+2526;2026-02-14 14:00:00;2026-02-14 Como-Fiorentina;Como;Fiorentina;1;2;0.902645;1.302
+2526;2026-02-14 19:45:00;2026-02-14 Inter-Juventus;Inter;Juventus;3;2;2.4811;1.29499
+2526;2026-02-14 17:00:00;2026-02-14 Lazio-Atalanta;Lazio;Atalanta;0;2;1.54366;1.82116
+2526;2026-02-15 14:00:00;2026-02-15 Cremonese-Genoa;Cremonese;Genoa;0;0;1.34717;1.33514
+2526;2026-02-15 19:45:00;2026-02-15 Napoli-Roma;Napoli;Roma;2;2;0.5247;1.95442
+2526;2026-02-15 14:00:00;2026-02-15 Parma Calcio 1913-Verona;Parma Calcio 1913;Verona;2;1;2.16714;0.856137
+2526;2026-02-15 17:00:00;2026-02-15 Torino-Bologna;Torino;Bologna;1;2;0.394436;1.71228
+2526;2026-02-15 11:30:00;2026-02-15 Udinese-Sassuolo;Udinese;Sassuolo;1;2;0.491201;1.24711
+2526;2026-02-16 19:45:00;2026-02-16 Cagliari-Lecce;Cagliari;Lecce;0;2;1.46951;1.76359
+2526;2026-02-18 19:45:00;2026-02-18 AC Milan-Como;AC Milan;Como;1;1;1.17019;1.64526
+2526;2026-02-20 19:45:00;2026-02-20 Sassuolo-Verona;Sassuolo;Verona;3;0;1.58706;0.615652
+2526;2026-02-21 19:45:00;2026-02-21 Cagliari-Lazio;Cagliari;Lazio;0;0;0.771111;0.520733
+2526;2026-02-21 14:00:00;2026-02-21 Juventus-Como;Juventus;Como;0;2;1.01425;1.43181
+2526;2026-02-21 17:00:00;2026-02-21 Lecce-Inter;Lecce;Inter;0;2;0.127863;2.6436
+2526;2026-02-22 17:00:00;2026-02-22 AC Milan-Parma Calcio 1913;AC Milan;Parma Calcio 1913;0;1;1.63438;0.760094
+2526;2026-02-22 14:00:00;2026-02-22 Atalanta-Napoli;Atalanta;Napoli;2;1;0.962214;1.05903
+2526;2026-02-22 11:30:00;2026-02-22 Genoa-Torino;Genoa;Torino;3;0;2.06306;0.530703
+2526;2026-02-22 19:45:00;2026-02-22 Roma-Cremonese;Roma;Cremonese;3;0;2.58194;0.280739
+2526;2026-02-23 19:45:00;2026-02-23 Bologna-Udinese;Bologna;Udinese;1;0;1.44714;0.530625
+2526;2026-02-23 17:30:00;2026-02-23 Fiorentina-Pisa;Fiorentina;Pisa;1;0;1.77825;0.43212
+2526;2026-02-27 19:45:00;2026-02-27 Parma Calcio 1913-Cagliari;Parma Calcio 1913;Cagliari;1;1;1.31257;0.615799
+2526;2026-02-28 14:00:00;2026-02-28 Como-Lecce;Como;Lecce;3;1;2.98622;0.424994
+2526;2026-02-28 19:45:00;2026-02-28 Inter-Genoa;Inter;Genoa;2;0;2.19229;0.170827
+2526;2026-02-28 17:00:00;2026-02-28 Verona-Napoli;Verona;Napoli;1;2;0.277835;1.21355
+2526;2026-03-01 11:30:00;2026-03-01 Cremonese-AC Milan;Cremonese;AC Milan;0;2;1.08387;3.87512
+2526;2026-03-01 19:45:00;2026-03-01 Roma-Juventus;Roma;Juventus;3;3;2.33059;1.8583
+2526;2026-03-01 14:00:00;2026-03-01 Sassuolo-Atalanta;Sassuolo;Atalanta;2;1;1.81132;3.74717
+2526;2026-03-01 17:00:00;2026-03-01 Torino-Lazio;Torino;Lazio;2;0;1.06085;1.05867
+2526;2026-03-02 17:30:00;2026-03-02 Pisa-Bologna;Pisa;Bologna;0;1;0.743118;0.871649
+2526;2026-03-02 19:45:00;2026-03-02 Udinese-Fiorentina;Udinese;Fiorentina;3;0;2.0239;0.585387
+2526;2026-03-06 19:45:00;2026-03-06 Napoli-Torino;Napoli;Torino;2;1;2.32007;0.693368
+2526;2026-03-07 17:00:00;2026-03-07 Atalanta-Udinese;Atalanta;Udinese;2;2;1.99854;0.860054
+2526;2026-03-07 14:00:00;2026-03-07 Cagliari-Como;Cagliari;Como;1;2;0.518042;0.763847
+2526;2026-03-07 19:45:00;2026-03-07 Juventus-Pisa;Juventus;Pisa;4;0;3.16811;0.319971
+2526;2026-03-08 19:45:00;2026-03-08 AC Milan-Inter;AC Milan;Inter;1;0;0.852014;1.44398
+2526;2026-03-08 14:00:00;2026-03-08 Bologna-Verona;Bologna;Verona;1;2;0.903746;2.02855
+2526;2026-03-08 14:00:00;2026-03-08 Fiorentina-Parma Calcio 1913;Fiorentina;Parma Calcio 1913;0;0;0.758473;0.253114
+2526;2026-03-08 17:00:00;2026-03-08 Genoa-Roma;Genoa;Roma;2;1;2.55911;0.282645
+2526;2026-03-08 11:30:00;2026-03-08 Lecce-Cremonese;Lecce;Cremonese;2;1;1.76705;0.791422
+2526;2026-03-09 19:45:00;2026-03-09 Lazio-Sassuolo;Lazio;Sassuolo;;;;
+2526;2026-03-13 19:45:00;2026-03-13 Torino-Parma Calcio 1913;Torino;Parma Calcio 1913;;;;
+2526;2026-03-14 14:00:00;2026-03-14 Inter-Atalanta;Inter;Atalanta;;;;
+2526;2026-03-14 17:00:00;2026-03-14 Napoli-Lecce;Napoli;Lecce;;;;
+2526;2026-03-14 19:45:00;2026-03-14 Udinese-Juventus;Udinese;Juventus;;;;
+2526;2026-03-15 17:00:00;2026-03-15 Como-Roma;Como;Roma;;;;
+2526;2026-03-15 19:45:00;2026-03-15 Lazio-AC Milan;Lazio;AC Milan;;;;
+2526;2026-03-15 14:00:00;2026-03-15 Pisa-Cagliari;Pisa;Cagliari;;;;
+2526;2026-03-15 14:00:00;2026-03-15 Sassuolo-Bologna;Sassuolo;Bologna;;;;
+2526;2026-03-15 11:30:00;2026-03-15 Verona-Genoa;Verona;Genoa;;;;
+2526;2026-03-16 19:45:00;2026-03-16 Cremonese-Fiorentina;Cremonese;Fiorentina;;;;
+2526;2026-03-20 17:30:00;2026-03-20 Cagliari-Napoli;Cagliari;Napoli;;;;
+2526;2026-03-20 19:45:00;2026-03-20 Genoa-Udinese;Genoa;Udinese;;;;
+2526;2026-03-21 17:00:00;2026-03-21 AC Milan-Torino;AC Milan;Torino;;;;
+2526;2026-03-21 19:45:00;2026-03-21 Juventus-Sassuolo;Juventus;Sassuolo;;;;
+2526;2026-03-21 14:00:00;2026-03-21 Parma Calcio 1913-Cremonese;Parma Calcio 1913;Cremonese;;;;
+2526;2026-03-22 14:00:00;2026-03-22 Atalanta-Verona;Atalanta;Verona;;;;
+2526;2026-03-22 14:00:00;2026-03-22 Bologna-Lazio;Bologna;Lazio;;;;
+2526;2026-03-22 11:30:00;2026-03-22 Como-Pisa;Como;Pisa;;;;
+2526;2026-03-22 19:45:00;2026-03-22 Fiorentina-Inter;Fiorentina;Inter;;;;
+2526;2026-03-22 17:00:00;2026-03-22 Roma-Lecce;Roma;Lecce;;;;
+2526;2026-04-04 14:00:00;2026-04-04 Cremonese-Bologna;Cremonese;Bologna;;;;
+2526;2026-04-04 14:00:00;2026-04-04 Inter-Roma;Inter;Roma;;;;
+2526;2026-04-04 14:00:00;2026-04-04 Juventus-Genoa;Juventus;Genoa;;;;
+2526;2026-04-04 14:00:00;2026-04-04 Lazio-Parma Calcio 1913;Lazio;Parma Calcio 1913;;;;
+2526;2026-04-04 14:00:00;2026-04-04 Lecce-Atalanta;Lecce;Atalanta;;;;
+2526;2026-04-04 14:00:00;2026-04-04 Napoli-AC Milan;Napoli;AC Milan;;;;
+2526;2026-04-04 14:00:00;2026-04-04 Pisa-Torino;Pisa;Torino;;;;
+2526;2026-04-04 14:00:00;2026-04-04 Sassuolo-Cagliari;Sassuolo;Cagliari;;;;
+2526;2026-04-04 14:00:00;2026-04-04 Udinese-Como;Udinese;Como;;;;
+2526;2026-04-04 14:00:00;2026-04-04 Verona-Fiorentina;Verona;Fiorentina;;;;
+2526;2026-04-12 14:00:00;2026-04-12 AC Milan-Udinese;AC Milan;Udinese;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Atalanta-Juventus;Atalanta;Juventus;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Bologna-Lecce;Bologna;Lecce;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Cagliari-Cremonese;Cagliari;Cremonese;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Como-Inter;Como;Inter;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Fiorentina-Lazio;Fiorentina;Lazio;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Genoa-Sassuolo;Genoa;Sassuolo;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Parma Calcio 1913-Napoli;Parma Calcio 1913;Napoli;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Roma-Pisa;Roma;Pisa;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Torino-Verona;Torino;Verona;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Cremonese-Torino;Cremonese;Torino;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Inter-Cagliari;Inter;Cagliari;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Juventus-Bologna;Juventus;Bologna;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Lecce-Fiorentina;Lecce;Fiorentina;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Napoli-Lazio;Napoli;Lazio;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Pisa-Genoa;Pisa;Genoa;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Roma-Atalanta;Roma;Atalanta;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Sassuolo-Como;Sassuolo;Como;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Udinese-Parma Calcio 1913;Udinese;Parma Calcio 1913;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Verona-AC Milan;Verona;AC Milan;;;;
+2526;2026-04-26 14:00:00;2026-04-26 AC Milan-Juventus;AC Milan;Juventus;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Bologna-Roma;Bologna;Roma;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Cagliari-Atalanta;Cagliari;Atalanta;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Fiorentina-Sassuolo;Fiorentina;Sassuolo;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Genoa-Como;Genoa;Como;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Lazio-Udinese;Lazio;Udinese;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Napoli-Cremonese;Napoli;Cremonese;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Parma Calcio 1913-Pisa;Parma Calcio 1913;Pisa;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Torino-Inter;Torino;Inter;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Verona-Lecce;Verona;Lecce;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Atalanta-Genoa;Atalanta;Genoa;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Bologna-Cagliari;Bologna;Cagliari;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Como-Napoli;Como;Napoli;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Cremonese-Lazio;Cremonese;Lazio;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Inter-Parma Calcio 1913;Inter;Parma Calcio 1913;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Juventus-Verona;Juventus;Verona;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Pisa-Lecce;Pisa;Lecce;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Roma-Fiorentina;Roma;Fiorentina;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Sassuolo-AC Milan;Sassuolo;AC Milan;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Udinese-Torino;Udinese;Torino;;;;
+2526;2026-05-10 14:00:00;2026-05-10 AC Milan-Atalanta;AC Milan;Atalanta;;;;
+2526;2026-05-10 14:00:00;2026-05-10 Cagliari-Udinese;Cagliari;Udinese;;;;
+2526;2026-05-10 14:00:00;2026-05-10 Cremonese-Pisa;Cremonese;Pisa;;;;
+2526;2026-05-10 14:00:00;2026-05-10 Fiorentina-Genoa;Fiorentina;Genoa;;;;
+2526;2026-05-10 14:00:00;2026-05-10 Lazio-Inter;Lazio;Inter;;;;
+2526;2026-05-10 14:00:00;2026-05-10 Lecce-Juventus;Lecce;Juventus;;;;
+2526;2026-05-10 14:00:00;2026-05-10 Napoli-Bologna;Napoli;Bologna;;;;
+2526;2026-05-10 14:00:00;2026-05-10 Parma Calcio 1913-Roma;Parma Calcio 1913;Roma;;;;
+2526;2026-05-10 14:00:00;2026-05-10 Torino-Sassuolo;Torino;Sassuolo;;;;
+2526;2026-05-10 14:00:00;2026-05-10 Verona-Como;Verona;Como;;;;
+2526;2026-05-17 14:00:00;2026-05-17 Atalanta-Bologna;Atalanta;Bologna;;;;
+2526;2026-05-17 14:00:00;2026-05-17 Cagliari-Torino;Cagliari;Torino;;;;
+2526;2026-05-17 14:00:00;2026-05-17 Como-Parma Calcio 1913;Como;Parma Calcio 1913;;;;
+2526;2026-05-17 14:00:00;2026-05-17 Genoa-AC Milan;Genoa;AC Milan;;;;
+2526;2026-05-17 14:00:00;2026-05-17 Inter-Verona;Inter;Verona;;;;
+2526;2026-05-17 14:00:00;2026-05-17 Juventus-Fiorentina;Juventus;Fiorentina;;;;
+2526;2026-05-17 14:00:00;2026-05-17 Pisa-Napoli;Pisa;Napoli;;;;
+2526;2026-05-17 14:00:00;2026-05-17 Roma-Lazio;Roma;Lazio;;;;
+2526;2026-05-17 14:00:00;2026-05-17 Sassuolo-Lecce;Sassuolo;Lecce;;;;
+2526;2026-05-17 14:00:00;2026-05-17 Udinese-Cremonese;Udinese;Cremonese;;;;
+2526;2026-05-24 14:00:00;2026-05-24 AC Milan-Cagliari;AC Milan;Cagliari;;;;
+2526;2026-05-24 14:00:00;2026-05-24 Bologna-Inter;Bologna;Inter;;;;
+2526;2026-05-24 14:00:00;2026-05-24 Cremonese-Como;Cremonese;Como;;;;
+2526;2026-05-24 14:00:00;2026-05-24 Fiorentina-Atalanta;Fiorentina;Atalanta;;;;
+2526;2026-05-24 14:00:00;2026-05-24 Lazio-Pisa;Lazio;Pisa;;;;
+2526;2026-05-24 14:00:00;2026-05-24 Lecce-Genoa;Lecce;Genoa;;;;
+2526;2026-05-24 14:00:00;2026-05-24 Napoli-Udinese;Napoli;Udinese;;;;
+2526;2026-05-24 14:00:00;2026-05-24 Parma Calcio 1913-Sassuolo;Parma Calcio 1913;Sassuolo;;;;
+2526;2026-05-24 14:00:00;2026-05-24 Torino-Juventus;Torino;Juventus;;;;
+2526;2026-05-24 14:00:00;2026-05-24 Verona-Roma;Verona;Roma;;;;
+2526;2025-08-15 19:00:00;2025-08-15 Liverpool-Bournemouth;Liverpool;Bournemouth;4;2;2.33007;1.57303
+2526;2025-08-16 11:30:00;2025-08-16 Aston Villa-Newcastle United;Aston Villa;Newcastle United;0;0;0.318601;1.40098
+2526;2025-08-16 14:00:00;2025-08-16 Brighton-Fulham;Brighton;Fulham;1;1;1.44008;0.902883
+2526;2025-08-16 14:00:00;2025-08-16 Sunderland-West Ham;Sunderland;West Ham;3;0;0.724368;0.558948
+2526;2025-08-16 14:00:00;2025-08-16 Tottenham-Burnley;Tottenham;Burnley;3;0;1.97858;0.734138
+2526;2025-08-16 16:30:00;2025-08-16 Wolverhampton Wanderers-Manchester City;Wolverhampton Wanderers;Manchester City;0;4;0.519436;2.29903
+2526;2025-08-17 13:00:00;2025-08-17 Chelsea-Crystal Palace;Chelsea;Crystal Palace;0;0;1.36793;1.03414
+2526;2025-08-17 15:30:00;2025-08-17 Manchester United-Arsenal;Manchester United;Arsenal;0;1;1.37653;1.3304
+2526;2025-08-17 13:00:00;2025-08-17 Nottingham Forest-Brentford;Nottingham Forest;Brentford;3;1;1.7555;1.32516
+2526;2025-08-18 19:00:00;2025-08-18 Leeds-Everton;Leeds;Everton;1;0;2.3812;0.674338
+2526;2025-08-22 19:00:00;2025-08-22 West Ham-Chelsea;West Ham;Chelsea;1;5;0.978572;3.94997
+2526;2025-08-23 16:30:00;2025-08-23 Arsenal-Leeds;Arsenal;Leeds;5;0;2.73761;0.156761
+2526;2025-08-23 14:00:00;2025-08-23 Bournemouth-Wolverhampton Wanderers;Bournemouth;Wolverhampton Wanderers;1;0;1.78462;0.373367
+2526;2025-08-23 14:00:00;2025-08-23 Brentford-Aston Villa;Brentford;Aston Villa;1;0;1.12964;0.976852
+2526;2025-08-23 14:00:00;2025-08-23 Burnley-Sunderland;Burnley;Sunderland;2;0;1.00381;1.12127
+2526;2025-08-23 11:30:00;2025-08-23 Manchester City-Tottenham;Manchester City;Tottenham;0;2;1.2475;1.28015
+2526;2025-08-24 13:00:00;2025-08-24 Crystal Palace-Nottingham Forest;Crystal Palace;Nottingham Forest;1;1;1.10188;1.32987
+2526;2025-08-24 13:00:00;2025-08-24 Everton-Brighton;Everton;Brighton;2;0;1.80116;2.08487
+2526;2025-08-24 15:30:00;2025-08-24 Fulham-Manchester United;Fulham;Manchester United;1;1;1.65333;1.54603
+2526;2025-08-25 19:00:00;2025-08-25 Newcastle United-Liverpool;Newcastle United;Liverpool;2;3;1.96342;0.646559
+2526;2025-08-30 11:30:00;2025-08-30 Chelsea-Fulham;Chelsea;Fulham;2;0;2.4324;0.736228
+2526;2025-08-30 16:30:00;2025-08-30 Leeds-Newcastle United;Leeds;Newcastle United;0;0;0.6773;0.303635
+2526;2025-08-30 14:00:00;2025-08-30 Manchester United-Burnley;Manchester United;Burnley;3;2;4.02237;1.32618
+2526;2025-08-30 14:00:00;2025-08-30 Sunderland-Brentford;Sunderland;Brentford;2;1;1.57127;1.44604
+2526;2025-08-30 14:00:00;2025-08-30 Tottenham-Bournemouth;Tottenham;Bournemouth;0;1;0.17067;2.1201
+2526;2025-08-30 14:00:00;2025-08-30 Wolverhampton Wanderers-Everton;Wolverhampton Wanderers;Everton;2;3;0.943257;2.03791
+2526;2025-08-31 18:00:00;2025-08-31 Aston Villa-Crystal Palace;Aston Villa;Crystal Palace;0;3;1.20586;2.59713
+2526;2025-08-31 13:00:00;2025-08-31 Brighton-Manchester City;Brighton;Manchester City;2;1;2.20864;2.13418
+2526;2025-08-31 15:30:00;2025-08-31 Liverpool-Arsenal;Liverpool;Arsenal;1;0;0.481404;0.485679
+2526;2025-08-31 13:00:00;2025-08-31 Nottingham Forest-West Ham;Nottingham Forest;West Ham;0;3;0.716018;2.236
+2526;2025-09-13 11:30:00;2025-09-13 Arsenal-Nottingham Forest;Arsenal;Nottingham Forest;3;0;2.8817;0.293681
+2526;2025-09-13 14:00:00;2025-09-13 Bournemouth-Brighton;Bournemouth;Brighton;2;1;1.44187;0.624923
+2526;2025-09-13 19:00:00;2025-09-13 Brentford-Chelsea;Brentford;Chelsea;2;2;1.17533;0.755999
+2526;2025-09-13 14:00:00;2025-09-13 Crystal Palace-Sunderland;Crystal Palace;Sunderland;0;0;1.75805;0.354129
+2526;2025-09-13 14:00:00;2025-09-13 Everton-Aston Villa;Everton;Aston Villa;0;0;1.8927;0.354327
+2526;2025-09-13 14:00:00;2025-09-13 Fulham-Leeds;Fulham;Leeds;1;0;1.13979;0.830398
+2526;2025-09-13 14:00:00;2025-09-13 Newcastle United-Wolverhampton Wanderers;Newcastle United;Wolverhampton Wanderers;1;0;1.19186;0.375942
+2526;2025-09-13 16:30:00;2025-09-13 West Ham-Tottenham;West Ham;Tottenham;0;3;0.793248;1.51402
+2526;2025-09-14 13:00:00;2025-09-14 Burnley-Liverpool;Burnley;Liverpool;0;1;0.168041;2.79492
+2526;2025-09-14 15:30:00;2025-09-14 Manchester City-Manchester United;Manchester City;Manchester United;3;0;1.99725;1.51915
+2526;2025-09-20 14:00:00;2025-09-20 Brighton-Tottenham;Brighton;Tottenham;2;2;1.40466;1.19181
+2526;2025-09-20 14:00:00;2025-09-20 Burnley-Nottingham Forest;Burnley;Nottingham Forest;1;1;1.14159;0.830779
+2526;2025-09-20 19:00:00;2025-09-20 Fulham-Brentford;Fulham;Brentford;3;1;1.52431;0.826556
+2526;2025-09-20 11:30:00;2025-09-20 Liverpool-Everton;Liverpool;Everton;2;1;1.06166;0.721371
+2526;2025-09-20 16:30:00;2025-09-20 Manchester United-Chelsea;Manchester United;Chelsea;2;1;1.34458;0.469843
+2526;2025-09-20 14:00:00;2025-09-20 West Ham-Crystal Palace;West Ham;Crystal Palace;1;2;0.466365;2.33565
+2526;2025-09-20 14:00:00;2025-09-20 Wolverhampton Wanderers-Leeds;Wolverhampton Wanderers;Leeds;1;3;1.5661;0.456988
+2526;2025-09-21 15:30:00;2025-09-21 Arsenal-Manchester City;Arsenal;Manchester City;1;1;0.718575;1.1227
+2526;2025-09-21 13:00:00;2025-09-21 Bournemouth-Newcastle United;Bournemouth;Newcastle United;0;0;0.55066;0.153629
+2526;2025-09-21 13:00:00;2025-09-21 Sunderland-Aston Villa;Sunderland;Aston Villa;1;1;0.938312;0.939354
+2526;2025-09-27 11:30:00;2025-09-27 Brentford-Manchester United;Brentford;Manchester United;3;1;2.78726;2.23609
+2526;2025-09-27 14:00:00;2025-09-27 Chelsea-Brighton;Chelsea;Brighton;1;3;2.02653;2.4751
+2526;2025-09-27 14:00:00;2025-09-27 Crystal Palace-Liverpool;Crystal Palace;Liverpool;2;1;3.53323;3.10176
+2526;2025-09-27 14:00:00;2025-09-27 Leeds-Bournemouth;Leeds;Bournemouth;2;2;2.04728;1.06033
+2526;2025-09-27 14:00:00;2025-09-27 Manchester City-Burnley;Manchester City;Burnley;5;1;3.22133;0.509491
+2526;2025-09-27 16:30:00;2025-09-27 Nottingham Forest-Sunderland;Nottingham Forest;Sunderland;0;1;1.4203;1.94154
+2526;2025-09-27 19:00:00;2025-09-27 Tottenham-Wolverhampton Wanderers;Tottenham;Wolverhampton Wanderers;1;1;0.818711;1.15951
+2526;2025-09-28 13:00:00;2025-09-28 Aston Villa-Fulham;Aston Villa;Fulham;3;1;1.36575;0.952612
+2526;2025-09-28 15:30:00;2025-09-28 Newcastle United-Arsenal;Newcastle United;Arsenal;1;2;0.739851;2.07048
+2526;2025-09-29 19:00:00;2025-09-29 Everton-West Ham;Everton;West Ham;1;1;0.909703;0.775766
+2526;2025-10-03 19:00:00;2025-10-03 Bournemouth-Fulham;Bournemouth;Fulham;3;1;1.33458;0.84335
+2526;2025-10-04 14:00:00;2025-10-04 Arsenal-West Ham;Arsenal;West Ham;2;0;3.0585;0.864549
+2526;2025-10-04 16:30:00;2025-10-04 Chelsea-Liverpool;Chelsea;Liverpool;2;1;1.23721;2.05981
+2526;2025-10-04 11:30:00;2025-10-04 Leeds-Tottenham;Leeds;Tottenham;1;2;1.48051;0.688198
+2526;2025-10-04 14:00:00;2025-10-04 Manchester United-Sunderland;Manchester United;Sunderland;2;0;1.9298;0.807119
+2526;2025-10-05 13:00:00;2025-10-05 Aston Villa-Burnley;Aston Villa;Burnley;2;1;1.73572;0.502292
+2526;2025-10-05 15:30:00;2025-10-05 Brentford-Manchester City;Brentford;Manchester City;0;1;0.693758;1.09647
+2526;2025-10-05 13:00:00;2025-10-05 Everton-Crystal Palace;Everton;Crystal Palace;2;1;2.13876;2.17789
+2526;2025-10-05 13:00:00;2025-10-05 Newcastle United-Nottingham Forest;Newcastle United;Nottingham Forest;2;0;3.81662;0.337689
+2526;2025-10-05 13:00:00;2025-10-05 Wolverhampton Wanderers-Brighton;Wolverhampton Wanderers;Brighton;1;1;0.369404;1.39158
+2526;2025-10-18 14:00:00;2025-10-18 Brighton-Newcastle United;Brighton;Newcastle United;2;1;0.857104;1.28313
+2526;2025-10-18 14:00:00;2025-10-18 Burnley-Leeds;Burnley;Leeds;2;0;0.509647;2.33152
+2526;2025-10-18 14:00:00;2025-10-18 Crystal Palace-Bournemouth;Crystal Palace;Bournemouth;3;3;4.56284;2.0471
+2526;2025-10-18 16:30:00;2025-10-18 Fulham-Arsenal;Fulham;Arsenal;0;1;0.502332;2.07823
+2526;2025-10-18 14:00:00;2025-10-18 Manchester City-Everton;Manchester City;Everton;2;0;2.4799;0.794622
+2526;2025-10-18 11:30:00;2025-10-18 Nottingham Forest-Chelsea;Nottingham Forest;Chelsea;0;3;2.0555;2.5583
+2526;2025-10-18 14:00:00;2025-10-18 Sunderland-Wolverhampton Wanderers;Sunderland;Wolverhampton Wanderers;2;0;1.02481;0.676323
+2526;2025-10-19 15:30:00;2025-10-19 Liverpool-Manchester United;Liverpool;Manchester United;1;2;2.60972;2.53117
+2526;2025-10-19 13:00:00;2025-10-19 Tottenham-Aston Villa;Tottenham;Aston Villa;1;2;1.51461;0.352231
+2526;2025-10-20 19:00:00;2025-10-20 West Ham-Brentford;West Ham;Brentford;0;2;0.260251;3.46635
+2526;2025-10-24 19:00:00;2025-10-24 Leeds-West Ham;Leeds;West Ham;2;1;2.2214;0.498653
+2526;2025-10-25 19:00:00;2025-10-25 Brentford-Liverpool;Brentford;Liverpool;3;2;3.27126;2.11838
+2526;2025-10-25 14:00:00;2025-10-25 Chelsea-Sunderland;Chelsea;Sunderland;1;2;1.21332;1.5506
+2526;2025-10-25 16:30:00;2025-10-25 Manchester United-Brighton;Manchester United;Brighton;4;2;1.96231;0.947154
+2526;2025-10-25 14:00:00;2025-10-25 Newcastle United-Fulham;Newcastle United;Fulham;2;1;2.76806;1.52001
+2526;2025-10-26 13:00:00;2025-10-26 Arsenal-Crystal Palace;Arsenal;Crystal Palace;1;0;0.856175;0.350534
+2526;2025-10-26 13:00:00;2025-10-26 Aston Villa-Manchester City;Aston Villa;Manchester City;1;0;0.843906;1.36914
+2526;2025-10-26 13:00:00;2025-10-26 Bournemouth-Nottingham Forest;Bournemouth;Nottingham Forest;2;0;0.656601;0.305493
+2526;2025-10-26 15:30:00;2025-10-26 Everton-Tottenham;Everton;Tottenham;0;3;1.4032;2.09327
+2526;2025-10-26 13:00:00;2025-10-26 Wolverhampton Wanderers-Burnley;Wolverhampton Wanderers;Burnley;2;3;2.58132;1.54544
+2526;2025-11-01 15:00:00;2025-11-01 Brighton-Leeds;Brighton;Leeds;3;0;2.64127;0.35919
+2526;2025-11-01 15:00:00;2025-11-01 Burnley-Arsenal;Burnley;Arsenal;0;2;0.679177;2.51649
+2526;2025-11-01 15:00:00;2025-11-01 Crystal Palace-Brentford;Crystal Palace;Brentford;2;0;0.734558;0.820498
+2526;2025-11-01 15:00:00;2025-11-01 Fulham-Wolverhampton Wanderers;Fulham;Wolverhampton Wanderers;3;0;1.91207;0.209934
+2526;2025-11-01 20:00:00;2025-11-01 Liverpool-Aston Villa;Liverpool;Aston Villa;2;0;1.47021;0.43502
+2526;2025-11-01 15:00:00;2025-11-01 Nottingham Forest-Manchester United;Nottingham Forest;Manchester United;2;2;1.55066;0.91622
+2526;2025-11-01 17:30:00;2025-11-01 Tottenham-Chelsea;Tottenham;Chelsea;0;1;0.146954;3.34251
+2526;2025-11-02 16:30:00;2025-11-02 Manchester City-Bournemouth;Manchester City;Bournemouth;3;1;2.48999;0.899846
+2526;2025-11-02 14:00:00;2025-11-02 West Ham-Newcastle United;West Ham;Newcastle United;3;1;1.41383;0.523615
+2526;2025-11-03 20:00:00;2025-11-03 Sunderland-Everton;Sunderland;Everton;1;1;1.18068;1.00741
+2526;2025-11-08 20:00:00;2025-11-08 Chelsea-Wolverhampton Wanderers;Chelsea;Wolverhampton Wanderers;3;0;3.98342;0.111462
+2526;2025-11-08 15:00:00;2025-11-08 Everton-Fulham;Everton;Fulham;2;0;2.30607;0.424478
+2526;2025-11-08 17:30:00;2025-11-08 Sunderland-Arsenal;Sunderland;Arsenal;2;2;1.20495;2.32943
+2526;2025-11-08 12:30:00;2025-11-08 Tottenham-Manchester United;Tottenham;Manchester United;2;2;1.35532;0.820256
+2526;2025-11-08 15:00:00;2025-11-08 West Ham-Burnley;West Ham;Burnley;3;2;2.96728;1.87478
+2526;2025-11-09 14:00:00;2025-11-09 Aston Villa-Bournemouth;Aston Villa;Bournemouth;4;0;1.88282;2.00992
+2526;2025-11-09 14:00:00;2025-11-09 Brentford-Newcastle United;Brentford;Newcastle United;3;1;2.73729;0.432277
+2526;2025-11-09 14:00:00;2025-11-09 Crystal Palace-Brighton;Crystal Palace;Brighton;0;0;0.839547;0.637037
+2526;2025-11-09 16:30:00;2025-11-09 Manchester City-Liverpool;Manchester City;Liverpool;3;0;1.59542;1.0281
+2526;2025-11-09 14:00:00;2025-11-09 Nottingham Forest-Leeds;Nottingham Forest;Leeds;3;1;2.49097;0.419461
+2526;2025-11-22 15:00:00;2025-11-22 Bournemouth-West Ham;Bournemouth;West Ham;2;2;3.48299;0.390782
+2526;2025-11-22 15:00:00;2025-11-22 Brighton-Brentford;Brighton;Brentford;2;1;0.977488;2.19979
+2526;2025-11-22 12:30:00;2025-11-22 Burnley-Chelsea;Burnley;Chelsea;0;2;0.660943;1.72093
+2526;2025-11-22 15:00:00;2025-11-22 Fulham-Sunderland;Fulham;Sunderland;1;0;2.83729;0.222768
+2526;2025-11-22 15:00:00;2025-11-22 Liverpool-Nottingham Forest;Liverpool;Nottingham Forest;0;3;1.79273;1.19459
+2526;2025-11-22 17:30:00;2025-11-22 Newcastle United-Manchester City;Newcastle United;Manchester City;2;1;2.40555;2.45648
+2526;2025-11-22 15:00:00;2025-11-22 Wolverhampton Wanderers-Crystal Palace;Wolverhampton Wanderers;Crystal Palace;0;2;1.66409;1.44933
+2526;2025-11-23 16:30:00;2025-11-23 Arsenal-Tottenham;Arsenal;Tottenham;4;1;2.27827;0.0300672
+2526;2025-11-23 14:00:00;2025-11-23 Leeds-Aston Villa;Leeds;Aston Villa;1;2;1.84668;1.35978
+2526;2025-11-24 20:00:00;2025-11-24 Manchester United-Everton;Manchester United;Everton;0;1;2.2737;0.155063
+2526;2025-11-29 15:00:00;2025-11-29 Brentford-Burnley;Brentford;Burnley;3;1;3.72106;0.874025
+2526;2025-11-29 17:30:00;2025-11-29 Everton-Newcastle United;Everton;Newcastle United;1;4;1.01125;2.45882
+2526;2025-11-29 15:00:00;2025-11-29 Manchester City-Leeds;Manchester City;Leeds;3;2;2.85292;1.75142
+2526;2025-11-29 15:00:00;2025-11-29 Sunderland-Bournemouth;Sunderland;Bournemouth;3;2;1.16955;1.79274
+2526;2025-11-29 20:00:00;2025-11-29 Tottenham-Fulham;Tottenham;Fulham;1;2;1.04396;0.494736
+2526;2025-11-30 14:05:00;2025-11-30 Aston Villa-Wolverhampton Wanderers;Aston Villa;Wolverhampton Wanderers;1;0;1.15486;0.692588
+2526;2025-11-30 16:30:00;2025-11-30 Chelsea-Arsenal;Chelsea;Arsenal;1;1;0.791914;1.22828
+2526;2025-11-30 12:00:00;2025-11-30 Crystal Palace-Manchester United;Crystal Palace;Manchester United;1;2;2.13561;1.47768
+2526;2025-11-30 14:05:00;2025-11-30 Nottingham Forest-Brighton;Nottingham Forest;Brighton;0;2;0.960325;2.0572
+2526;2025-11-30 14:05:00;2025-11-30 West Ham-Liverpool;West Ham;Liverpool;0;2;0.364152;1.56793
+2526;2025-12-02 19:30:00;2025-12-02 Bournemouth-Everton;Bournemouth;Everton;0;1;0.635415;1.19573
+2526;2025-12-02 19:30:00;2025-12-02 Fulham-Manchester City;Fulham;Manchester City;4;5;0.972635;1.96225
+2526;2025-12-02 20:15:00;2025-12-02 Newcastle United-Tottenham;Newcastle United;Tottenham;2;2;1.88558;1.05205
+2526;2025-12-03 19:30:00;2025-12-03 Arsenal-Brentford;Arsenal;Brentford;2;0;2.63126;0.588716
+2526;2025-12-03 19:30:00;2025-12-03 Brighton-Aston Villa;Brighton;Aston Villa;3;4;1.96298;3.15745
+2526;2025-12-03 19:30:00;2025-12-03 Burnley-Crystal Palace;Burnley;Crystal Palace;0;1;1.16852;0.987797
+2526;2025-12-03 20:15:00;2025-12-03 Leeds-Chelsea;Leeds;Chelsea;3;1;2.2047;0.964018
+2526;2025-12-03 20:15:00;2025-12-03 Liverpool-Sunderland;Liverpool;Sunderland;1;1;1.37633;0.712662
+2526;2025-12-03 19:30:00;2025-12-03 Wolverhampton Wanderers-Nottingham Forest;Wolverhampton Wanderers;Nottingham Forest;0;1;1.02461;1.12389
+2526;2025-12-04 20:00:00;2025-12-04 Manchester United-West Ham;Manchester United;West Ham;1;1;2.27674;1.36584
+2526;2025-12-06 12:30:00;2025-12-06 Aston Villa-Arsenal;Aston Villa;Arsenal;2;1;2.71986;1.85965
+2526;2025-12-06 15:00:00;2025-12-06 Bournemouth-Chelsea;Bournemouth;Chelsea;0;0;1.41931;0.672602
+2526;2025-12-06 15:00:00;2025-12-06 Everton-Nottingham Forest;Everton;Nottingham Forest;3;0;1.25348;0.31234
+2526;2025-12-06 17:30:00;2025-12-06 Leeds-Liverpool;Leeds;Liverpool;3;3;1.79333;2.04805
+2526;2025-12-06 15:00:00;2025-12-06 Manchester City-Sunderland;Manchester City;Sunderland;3;0;2.41605;0.626486
+2526;2025-12-06 15:00:00;2025-12-06 Newcastle United-Burnley;Newcastle United;Burnley;2;1;1.80708;1.58375
+2526;2025-12-06 15:00:00;2025-12-06 Tottenham-Brentford;Tottenham;Brentford;2;0;2.42388;0.470563
+2526;2025-12-07 14:00:00;2025-12-07 Brighton-West Ham;Brighton;West Ham;1;1;2.10077;1.7064
+2526;2025-12-07 16:30:00;2025-12-07 Fulham-Crystal Palace;Fulham;Crystal Palace;1;2;0.766771;1.71109
+2526;2025-12-08 20:00:00;2025-12-08 Wolverhampton Wanderers-Manchester United;Wolverhampton Wanderers;Manchester United;1;4;0.262147;4.04708
+2526;2025-12-13 20:00:00;2025-12-13 Arsenal-Wolverhampton Wanderers;Arsenal;Wolverhampton Wanderers;2;1;1.61796;0.61997
+2526;2025-12-13 17:30:00;2025-12-13 Burnley-Fulham;Burnley;Fulham;2;3;2.05486;1.65053
+2526;2025-12-13 15:00:00;2025-12-13 Chelsea-Everton;Chelsea;Everton;2;0;2.64457;1.34
+2526;2025-12-13 15:00:00;2025-12-13 Liverpool-Brighton;Liverpool;Brighton;2;0;2.4127;1.69004
+2526;2025-12-14 16:30:00;2025-12-14 Brentford-Leeds;Brentford;Leeds;1;1;0.697006;1.63409
+2526;2025-12-14 14:00:00;2025-12-14 Crystal Palace-Manchester City;Crystal Palace;Manchester City;0;3;1.30092;1.35317
+2526;2025-12-14 14:00:00;2025-12-14 Nottingham Forest-Tottenham;Nottingham Forest;Tottenham;3;0;2.32658;0.380246
+2526;2025-12-14 14:00:00;2025-12-14 Sunderland-Newcastle United;Sunderland;Newcastle United;1;0;0.630045;0.169329
+2526;2025-12-14 14:00:00;2025-12-14 West Ham-Aston Villa;West Ham;Aston Villa;2;3;1.27701;0.595093
+2526;2025-12-15 20:00:00;2025-12-15 Manchester United-Bournemouth;Manchester United;Bournemouth;4;4;3.21204;2.35196
+2526;2025-12-20 15:00:00;2025-12-20 Bournemouth-Burnley;Bournemouth;Burnley;1;1;1.81847;0.480528
+2526;2025-12-20 15:00:00;2025-12-20 Brighton-Sunderland;Brighton;Sunderland;0;0;0.919272;1.31044
+2526;2025-12-20 20:00:00;2025-12-20 Everton-Arsenal;Everton;Arsenal;0;1;0.213273;1.84723
+2526;2025-12-20 20:00:00;2025-12-20 Leeds-Crystal Palace;Leeds;Crystal Palace;4;1;2.90786;1.53058
+2526;2025-12-20 15:00:00;2025-12-20 Manchester City-West Ham;Manchester City;West Ham;3;0;3.58188;1.02143
+2526;2025-12-20 12:30:00;2025-12-20 Newcastle United-Chelsea;Newcastle United;Chelsea;2;2;2.87863;1.0261
+2526;2025-12-20 17:30:00;2025-12-20 Tottenham-Liverpool;Tottenham;Liverpool;1;2;1.34905;1.23164
+2526;2025-12-20 15:00:00;2025-12-20 Wolverhampton Wanderers-Brentford;Wolverhampton Wanderers;Brentford;0;2;1.26823;1.56309
+2526;2025-12-21 16:30:00;2025-12-21 Aston Villa-Manchester United;Aston Villa;Manchester United;2;1;1.86917;1.30455
+2526;2025-12-22 20:00:00;2025-12-22 Fulham-Nottingham Forest;Fulham;Nottingham Forest;1;0;1.70568;0.486296
+2526;2025-12-26 20:00:00;2025-12-26 Manchester United-Newcastle United;Manchester United;Newcastle United;1;0;0.940811;1.12998
+2526;2025-12-27 15:00:00;2025-12-27 Arsenal-Brighton;Arsenal;Brighton;2;1;2.54318;0.710064
+2526;2025-12-27 15:00:00;2025-12-27 Brentford-Bournemouth;Brentford;Bournemouth;4;1;2.8513;2.56183
+2526;2025-12-27 15:00:00;2025-12-27 Burnley-Everton;Burnley;Everton;0;0;1.24948;1.25204
+2526;2025-12-27 17:30:00;2025-12-27 Chelsea-Aston Villa;Chelsea;Aston Villa;1;2;1.97155;2.05918
+2526;2025-12-27 15:00:00;2025-12-27 Liverpool-Wolverhampton Wanderers;Liverpool;Wolverhampton Wanderers;2;1;1.56502;0.780664
+2526;2025-12-27 12:30:00;2025-12-27 Nottingham Forest-Manchester City;Nottingham Forest;Manchester City;1;2;0.600141;1.46468
+2526;2025-12-27 15:00:00;2025-12-27 West Ham-Fulham;West Ham;Fulham;0;1;1.13719;1.11436
+2526;2025-12-28 16:30:00;2025-12-28 Crystal Palace-Tottenham;Crystal Palace;Tottenham;0;1;0.929681;0.870768
+2526;2025-12-28 14:00:00;2025-12-28 Sunderland-Leeds;Sunderland;Leeds;1;1;0.805957;2.60653
+2526;2025-12-30 20:15:00;2025-12-30 Arsenal-Aston Villa;Arsenal;Aston Villa;4;1;4.41335;2.94195
+2526;2025-12-30 19:30:00;2025-12-30 Burnley-Newcastle United;Burnley;Newcastle United;1;3;1.32551;2.49248
+2526;2025-12-30 19:30:00;2025-12-30 Chelsea-Bournemouth;Chelsea;Bournemouth;2;2;2.33294;3.49142
+2526;2025-12-30 20:15:00;2025-12-30 Manchester United-Wolverhampton Wanderers;Manchester United;Wolverhampton Wanderers;1;1;1.13306;1.21784
+2526;2025-12-30 19:30:00;2025-12-30 Nottingham Forest-Everton;Nottingham Forest;Everton;0;2;1.75445;1.69525
+2526;2025-12-30 19:30:00;2025-12-30 West Ham-Brighton;West Ham;Brighton;2;2;2.27644;3.08914
+2526;2026-01-01 20:00:00;2026-01-01 Brentford-Tottenham;Brentford;Tottenham;0;0;0.556304;0.608309
+2526;2026-01-01 17:30:00;2026-01-01 Crystal Palace-Fulham;Crystal Palace;Fulham;1;1;2.35346;1.75434
+2526;2026-01-01 17:30:00;2026-01-01 Liverpool-Leeds;Liverpool;Leeds;0;0;1.67833;0.15936
+2526;2026-01-01 20:00:00;2026-01-01 Sunderland-Manchester City;Sunderland;Manchester City;0;0;0.962141;2.44247
+2526;2026-01-03 12:30:00;2026-01-03 Aston Villa-Nottingham Forest;Aston Villa;Nottingham Forest;3;1;1.42988;0.8982
+2526;2026-01-03 17:30:00;2026-01-03 Bournemouth-Arsenal;Bournemouth;Arsenal;2;3;0.947846;1.28
+2526;2026-01-03 15:00:00;2026-01-03 Brighton-Burnley;Brighton;Burnley;2;0;1.4717;0.254551
+2526;2026-01-03 15:00:00;2026-01-03 Wolverhampton Wanderers-West Ham;Wolverhampton Wanderers;West Ham;3;0;2.23925;0.235678
+2526;2026-01-04 15:00:00;2026-01-04 Everton-Brentford;Everton;Brentford;2;4;1.00566;3.05179
+2526;2026-01-04 15:00:00;2026-01-04 Fulham-Liverpool;Fulham;Liverpool;2;2;0.609182;1.7188
+2526;2026-01-04 12:30:00;2026-01-04 Leeds-Manchester United;Leeds;Manchester United;1;1;0.970138;1.94781
+2526;2026-01-04 17:30:00;2026-01-04 Manchester City-Chelsea;Manchester City;Chelsea;1;1;1.03049;2.03726
+2526;2026-01-04 15:00:00;2026-01-04 Newcastle United-Crystal Palace;Newcastle United;Crystal Palace;2;0;2.72764;1.27825
+2526;2026-01-04 15:00:00;2026-01-04 Tottenham-Sunderland;Tottenham;Sunderland;1;1;1.4175;0.467481
+2526;2026-01-06 20:00:00;2026-01-06 West Ham-Nottingham Forest;West Ham;Nottingham Forest;1;2;1.73697;1.26683
+2526;2026-01-07 19:30:00;2026-01-07 Bournemouth-Tottenham;Bournemouth;Tottenham;3;2;1.19014;1.6261
+2526;2026-01-07 19:30:00;2026-01-07 Brentford-Sunderland;Brentford;Sunderland;3;0;3.86096;1.50644
+2526;2026-01-07 20:15:00;2026-01-07 Burnley-Manchester United;Burnley;Manchester United;2;2;0.31971;2.52488
+2526;2026-01-07 19:30:00;2026-01-07 Crystal Palace-Aston Villa;Crystal Palace;Aston Villa;0;0;1.32505;2.07015
+2526;2026-01-07 19:30:00;2026-01-07 Everton-Wolverhampton Wanderers;Everton;Wolverhampton Wanderers;1;1;1.63321;0.71329
+2526;2026-01-07 19:30:00;2026-01-07 Fulham-Chelsea;Fulham;Chelsea;2;1;1.06013;2.45107
+2526;2026-01-07 19:30:00;2026-01-07 Manchester City-Brighton;Manchester City;Brighton;1;1;2.95904;1.33162
+2526;2026-01-07 20:15:00;2026-01-07 Newcastle United-Leeds;Newcastle United;Leeds;4;3;2.43495;2.35318
+2526;2026-01-08 20:00:00;2026-01-08 Arsenal-Liverpool;Arsenal;Liverpool;0;0;0.701832;0.318642
+2526;2026-01-17 15:00:00;2026-01-17 Chelsea-Brentford;Chelsea;Brentford;2;0;1.62263;1.47521
+2526;2026-01-17 15:00:00;2026-01-17 Leeds-Fulham;Leeds;Fulham;1;0;2.16898;0.258796
+2526;2026-01-17 15:00:00;2026-01-17 Liverpool-Burnley;Liverpool;Burnley;1;1;3.49045;0.546971
+2526;2026-01-17 12:30:00;2026-01-17 Manchester United-Manchester City;Manchester United;Manchester City;2;0;3.07278;0.387015
+2526;2026-01-17 17:30:00;2026-01-17 Nottingham Forest-Arsenal;Nottingham Forest;Arsenal;0;0;0.318481;2.86323
+2526;2026-01-17 15:00:00;2026-01-17 Sunderland-Crystal Palace;Sunderland;Crystal Palace;2;1;1.84601;1.15169
+2526;2026-01-17 15:00:00;2026-01-17 Tottenham-West Ham;Tottenham;West Ham;1;2;1.65292;2.76761
+2526;2026-01-18 16:30:00;2026-01-18 Aston Villa-Everton;Aston Villa;Everton;0;1;0.905393;0.745859
+2526;2026-01-18 14:00:00;2026-01-18 Wolverhampton Wanderers-Newcastle United;Wolverhampton Wanderers;Newcastle United;0;0;0.390216;0.813313
+2526;2026-01-19 20:00:00;2026-01-19 Brighton-Bournemouth;Brighton;Bournemouth;1;1;0.995777;1.69737
+2526;2026-01-24 17:30:00;2026-01-24 Bournemouth-Liverpool;Bournemouth;Liverpool;3;2;3.31474;0.937335
+2526;2026-01-24 15:00:00;2026-01-24 Burnley-Tottenham;Burnley;Tottenham;2;2;1.54884;2.59093
+2526;2026-01-24 15:00:00;2026-01-24 Fulham-Brighton;Fulham;Brighton;2;1;1.13243;1.94652
+2526;2026-01-24 15:00:00;2026-01-24 Manchester City-Wolverhampton Wanderers;Manchester City;Wolverhampton Wanderers;2;0;1.0654;0.542683
+2526;2026-01-24 12:30:00;2026-01-24 West Ham-Sunderland;West Ham;Sunderland;3;1;2.18675;0.713838
+2526;2026-01-25 16:30:00;2026-01-25 Arsenal-Manchester United;Arsenal;Manchester United;2;3;1.42411;0.640902
+2526;2026-01-25 14:00:00;2026-01-25 Brentford-Nottingham Forest;Brentford;Nottingham Forest;0;2;2.00413;1.38958
+2526;2026-01-25 14:00:00;2026-01-25 Crystal Palace-Chelsea;Crystal Palace;Chelsea;1;3;2.41793;3.08817
+2526;2026-01-25 14:00:00;2026-01-25 Newcastle United-Aston Villa;Newcastle United;Aston Villa;0;2;1.95484;1.32143
+2526;2026-01-26 20:00:00;2026-01-26 Everton-Leeds;Everton;Leeds;1;1;0.889916;1.6766
+2526;2026-01-31 15:00:00;2026-01-31 Brighton-Everton;Brighton;Everton;1;1;1.42825;1.28126
+2526;2026-01-31 17:30:00;2026-01-31 Chelsea-West Ham;Chelsea;West Ham;3;2;2.66133;1.72585
+2526;2026-01-31 15:00:00;2026-01-31 Leeds-Arsenal;Leeds;Arsenal;0;4;0.17871;3.54427
+2526;2026-01-31 20:00:00;2026-01-31 Liverpool-Newcastle United;Liverpool;Newcastle United;4;1;3.09973;0.284319
+2526;2026-01-31 15:00:00;2026-01-31 Wolverhampton Wanderers-Bournemouth;Wolverhampton Wanderers;Bournemouth;0;2;2.10353;1.59116
+2526;2026-02-01 14:00:00;2026-02-01 Aston Villa-Brentford;Aston Villa;Brentford;0;1;2.15316;0.314916
+2526;2026-02-01 14:00:00;2026-02-01 Manchester United-Fulham;Manchester United;Fulham;3;2;1.84362;1.71998
+2526;2026-02-01 14:00:00;2026-02-01 Nottingham Forest-Crystal Palace;Nottingham Forest;Crystal Palace;1;1;0.987254;1.648
+2526;2026-02-01 16:30:00;2026-02-01 Tottenham-Manchester City;Tottenham;Manchester City;2;2;1.49738;2.03614
+2526;2026-02-02 20:00:00;2026-02-02 Sunderland-Burnley;Sunderland;Burnley;3;0;1.8865;0.126371
+2526;2026-02-06 20:00:00;2026-02-06 Leeds-Nottingham Forest;Leeds;Nottingham Forest;3;1;3.38179;1.6608
+2526;2026-02-07 15:00:00;2026-02-07 Arsenal-Sunderland;Arsenal;Sunderland;3;0;1.19401;0.427225
+2526;2026-02-07 15:00:00;2026-02-07 Bournemouth-Aston Villa;Bournemouth;Aston Villa;1;1;1.82646;0.646496
+2526;2026-02-07 15:00:00;2026-02-07 Burnley-West Ham;Burnley;West Ham;0;2;1.84644;1.1223
+2526;2026-02-07 15:00:00;2026-02-07 Fulham-Everton;Fulham;Everton;1;2;2.20126;1.88778
+2526;2026-02-07 12:30:00;2026-02-07 Manchester United-Tottenham;Manchester United;Tottenham;2;0;2.16576;0.593404
+2526;2026-02-07 17:30:00;2026-02-07 Newcastle United-Brentford;Newcastle United;Brentford;2;3;3.3215;1.65022
+2526;2026-02-07 15:00:00;2026-02-07 Wolverhampton Wanderers-Chelsea;Wolverhampton Wanderers;Chelsea;1;3;1.11372;3.76278
+2526;2026-02-08 14:00:00;2026-02-08 Brighton-Crystal Palace;Brighton;Crystal Palace;0;1;0.737798;0.928404
+2526;2026-02-08 16:30:00;2026-02-08 Liverpool-Manchester City;Liverpool;Manchester City;1;2;1.26652;2.41476
+2526;2026-02-10 19:30:00;2026-02-10 Chelsea-Leeds;Chelsea;Leeds;2;2;3.21176;1.28948
+2526;2026-02-10 19:30:00;2026-02-10 Everton-Bournemouth;Everton;Bournemouth;1;2;2.33114;1.4121
+2526;2026-02-10 19:30:00;2026-02-10 Tottenham-Newcastle United;Tottenham;Newcastle United;1;2;1.68925;2.46991
+2526;2026-02-10 20:15:00;2026-02-10 West Ham-Manchester United;West Ham;Manchester United;1;1;1.30746;0.735767
+2526;2026-02-11 19:30:00;2026-02-11 Aston Villa-Brighton;Aston Villa;Brighton;1;0;0.576138;0.481306
+2526;2026-02-11 19:30:00;2026-02-11 Crystal Palace-Burnley;Crystal Palace;Burnley;2;3;2.1276;0.691273
+2526;2026-02-11 19:30:00;2026-02-11 Manchester City-Fulham;Manchester City;Fulham;3;0;1.67722;1.05283
+2526;2026-02-11 19:30:00;2026-02-11 Nottingham Forest-Wolverhampton Wanderers;Nottingham Forest;Wolverhampton Wanderers;0;0;3.69094;0.406959
+2526;2026-02-11 20:15:00;2026-02-11 Sunderland-Liverpool;Sunderland;Liverpool;0;1;0.693794;3.08172
+2526;2026-02-12 20:00:00;2026-02-12 Brentford-Arsenal;Brentford;Arsenal;1;1;1.81154;0.78418
+2526;2026-02-18 20:00:00;2026-02-18 Wolverhampton Wanderers-Arsenal;Wolverhampton Wanderers;Arsenal;2;2;0.173119;2.01018
+2526;2026-02-21 15:00:00;2026-02-21 Aston Villa-Leeds;Aston Villa;Leeds;1;1;1.25439;1.27855
+2526;2026-02-21 15:00:00;2026-02-21 Brentford-Brighton;Brentford;Brighton;0;2;1.69023;1.37203
+2526;2026-02-21 15:00:00;2026-02-21 Chelsea-Burnley;Chelsea;Burnley;1;1;2.51534;1.01255
+2526;2026-02-21 20:00:00;2026-02-21 Manchester City-Newcastle United;Manchester City;Newcastle United;2;1;2.22648;0.507954
+2526;2026-02-21 17:30:00;2026-02-21 West Ham-Bournemouth;West Ham;Bournemouth;0;0;2.34412;0.522731
+2526;2026-02-22 14:00:00;2026-02-22 Crystal Palace-Wolverhampton Wanderers;Crystal Palace;Wolverhampton Wanderers;1;0;2.03559;1.67749
+2526;2026-02-22 14:00:00;2026-02-22 Nottingham Forest-Liverpool;Nottingham Forest;Liverpool;0;1;0.934768;2.39634
+2526;2026-02-22 14:00:00;2026-02-22 Sunderland-Fulham;Sunderland;Fulham;1;3;1.7609;2.16696
+2526;2026-02-22 16:30:00;2026-02-22 Tottenham-Arsenal;Tottenham;Arsenal;1;4;0.383264;3.31701
+2526;2026-02-23 20:00:00;2026-02-23 Everton-Manchester United;Everton;Manchester United;0;1;0.560924;1.4547
+2526;2026-02-27 20:00:00;2026-02-27 Wolverhampton Wanderers-Aston Villa;Wolverhampton Wanderers;Aston Villa;2;0;1.50771;1.31328
+2526;2026-02-28 12:30:00;2026-02-28 Bournemouth-Sunderland;Bournemouth;Sunderland;1;1;1.82434;1.07887
+2526;2026-02-28 15:00:00;2026-02-28 Burnley-Brentford;Burnley;Brentford;3;4;0.823824;2.44595
+2526;2026-02-28 17:30:00;2026-02-28 Leeds-Manchester City;Leeds;Manchester City;0;1;1.37824;2.46834
+2526;2026-02-28 15:00:00;2026-02-28 Liverpool-West Ham;Liverpool;West Ham;5;2;2.09939;1.3517
+2526;2026-02-28 15:00:00;2026-02-28 Newcastle United-Everton;Newcastle United;Everton;2;3;1.11889;2.40731
+2526;2026-03-01 16:30:00;2026-03-01 Arsenal-Chelsea;Arsenal;Chelsea;2;1;1.71598;1.35268
+2526;2026-03-01 14:00:00;2026-03-01 Brighton-Nottingham Forest;Brighton;Nottingham Forest;2;1;1.20107;0.83055
+2526;2026-03-01 14:00:00;2026-03-01 Fulham-Tottenham;Fulham;Tottenham;2;1;2.3207;0.952091
+2526;2026-03-01 14:00:00;2026-03-01 Manchester United-Crystal Palace;Manchester United;Crystal Palace;2;1;2.34609;0.384699
+2526;2026-03-03 19:30:00;2026-03-03 Bournemouth-Brentford;Bournemouth;Brentford;0;0;2.3177;0.673328
+2526;2026-03-03 19:30:00;2026-03-03 Everton-Burnley;Everton;Burnley;2;0;1.15845;0.762229
+2526;2026-03-03 19:30:00;2026-03-03 Leeds-Sunderland;Leeds;Sunderland;0;1;0.888232;0.843856
+2526;2026-03-03 20:15:00;2026-03-03 Wolverhampton Wanderers-Liverpool;Wolverhampton Wanderers;Liverpool;2;1;0.636033;2.17217
+2526;2026-03-04 19:30:00;2026-03-04 Aston Villa-Chelsea;Aston Villa;Chelsea;1;4;1.06854;3.38883
+2526;2026-03-04 19:30:00;2026-03-04 Brighton-Arsenal;Brighton;Arsenal;0;1;0.919228;0.514803
+2526;2026-03-04 19:30:00;2026-03-04 Fulham-West Ham;Fulham;West Ham;0;1;0.628123;1.49528
+2526;2026-03-04 19:30:00;2026-03-04 Manchester City-Nottingham Forest;Manchester City;Nottingham Forest;2;2;2.72655;1.23642
+2526;2026-03-04 20:15:00;2026-03-04 Newcastle United-Manchester United;Newcastle United;Manchester United;2;1;1.96637;1.80571
+2526;2026-03-05 20:00:00;2026-03-05 Tottenham-Crystal Palace;Tottenham;Crystal Palace;1;3;1.29615;1.91515
+2526;2026-03-14 15:00:00;2026-03-14 Burnley-Bournemouth;Burnley;Bournemouth;;;;
+2526;2026-03-14 17:30:00;2026-03-14 Chelsea-Newcastle United;Chelsea;Newcastle United;;;;
+2526;2026-03-14 15:00:00;2026-03-14 Crystal Palace-Leeds;Crystal Palace;Leeds;;;;
+2526;2026-03-14 15:00:00;2026-03-14 Sunderland-Brighton;Sunderland;Brighton;;;;
+2526;2026-03-14 12:30:00;2026-03-14 West Ham-Manchester City;West Ham;Manchester City;;;;
+2526;2026-03-15 14:00:00;2026-03-15 Arsenal-Everton;Arsenal;Everton;;;;
+2526;2026-03-15 16:30:00;2026-03-15 Liverpool-Tottenham;Liverpool;Tottenham;;;;
+2526;2026-03-15 14:00:00;2026-03-15 Manchester United-Aston Villa;Manchester United;Aston Villa;;;;
+2526;2026-03-15 14:00:00;2026-03-15 Nottingham Forest-Fulham;Nottingham Forest;Fulham;;;;
+2526;2026-03-16 20:00:00;2026-03-16 Brentford-Wolverhampton Wanderers;Brentford;Wolverhampton Wanderers;;;;
+2526;2026-03-20 20:00:00;2026-03-20 Bournemouth-Manchester United;Bournemouth;Manchester United;;;;
+2526;2026-03-21 12:30:00;2026-03-21 Brighton-Liverpool;Brighton;Liverpool;;;;
+2526;2026-03-21 17:30:00;2026-03-21 Everton-Chelsea;Everton;Chelsea;;;;
+2526;2026-03-21 15:00:00;2026-03-21 Fulham-Burnley;Fulham;Burnley;;;;
+2526;2026-03-21 20:00:00;2026-03-21 Leeds-Brentford;Leeds;Brentford;;;;
+2526;2026-03-21 15:00:00;2026-03-21 Manchester City-Crystal Palace;Manchester City;Crystal Palace;;;;
+2526;2026-03-22 14:15:00;2026-03-22 Aston Villa-West Ham;Aston Villa;West Ham;;;;
+2526;2026-03-22 12:00:00;2026-03-22 Newcastle United-Sunderland;Newcastle United;Sunderland;;;;
+2526;2026-03-22 14:15:00;2026-03-22 Tottenham-Nottingham Forest;Tottenham;Nottingham Forest;;;;
+2526;2026-04-11 15:00:00;2026-04-11 Arsenal-Bournemouth;Arsenal;Bournemouth;;;;
+2526;2026-04-11 15:00:00;2026-04-11 Brentford-Everton;Brentford;Everton;;;;
+2526;2026-04-11 15:00:00;2026-04-11 Burnley-Brighton;Burnley;Brighton;;;;
+2526;2026-04-11 15:00:00;2026-04-11 Chelsea-Manchester City;Chelsea;Manchester City;;;;
+2526;2026-04-11 15:00:00;2026-04-11 Crystal Palace-Newcastle United;Crystal Palace;Newcastle United;;;;
+2526;2026-04-11 15:00:00;2026-04-11 Liverpool-Fulham;Liverpool;Fulham;;;;
+2526;2026-04-11 15:00:00;2026-04-11 Manchester United-Leeds;Manchester United;Leeds;;;;
+2526;2026-04-11 15:00:00;2026-04-11 Nottingham Forest-Aston Villa;Nottingham Forest;Aston Villa;;;;
+2526;2026-04-11 15:00:00;2026-04-11 Sunderland-Tottenham;Sunderland;Tottenham;;;;
+2526;2026-04-11 15:00:00;2026-04-11 West Ham-Wolverhampton Wanderers;West Ham;Wolverhampton Wanderers;;;;
+2526;2026-04-18 15:00:00;2026-04-18 Aston Villa-Sunderland;Aston Villa;Sunderland;;;;
+2526;2026-04-18 15:00:00;2026-04-18 Brentford-Fulham;Brentford;Fulham;;;;
+2526;2026-04-18 15:00:00;2026-04-18 Chelsea-Manchester United;Chelsea;Manchester United;;;;
+2526;2026-04-18 15:00:00;2026-04-18 Crystal Palace-West Ham;Crystal Palace;West Ham;;;;
+2526;2026-04-18 15:00:00;2026-04-18 Everton-Liverpool;Everton;Liverpool;;;;
+2526;2026-04-18 15:00:00;2026-04-18 Leeds-Wolverhampton Wanderers;Leeds;Wolverhampton Wanderers;;;;
+2526;2026-04-18 15:00:00;2026-04-18 Manchester City-Arsenal;Manchester City;Arsenal;;;;
+2526;2026-04-18 15:00:00;2026-04-18 Newcastle United-Bournemouth;Newcastle United;Bournemouth;;;;
+2526;2026-04-18 15:00:00;2026-04-18 Nottingham Forest-Burnley;Nottingham Forest;Burnley;;;;
+2526;2026-04-18 15:00:00;2026-04-18 Tottenham-Brighton;Tottenham;Brighton;;;;
+2526;2026-04-25 15:00:00;2026-04-25 Arsenal-Newcastle United;Arsenal;Newcastle United;;;;
+2526;2026-04-25 15:00:00;2026-04-25 Bournemouth-Leeds;Bournemouth;Leeds;;;;
+2526;2026-04-25 15:00:00;2026-04-25 Brighton-Chelsea;Brighton;Chelsea;;;;
+2526;2026-04-25 15:00:00;2026-04-25 Burnley-Manchester City;Burnley;Manchester City;;;;
+2526;2026-04-25 15:00:00;2026-04-25 Fulham-Aston Villa;Fulham;Aston Villa;;;;
+2526;2026-04-25 15:00:00;2026-04-25 Liverpool-Crystal Palace;Liverpool;Crystal Palace;;;;
+2526;2026-04-25 15:00:00;2026-04-25 Manchester United-Brentford;Manchester United;Brentford;;;;
+2526;2026-04-25 15:00:00;2026-04-25 Sunderland-Nottingham Forest;Sunderland;Nottingham Forest;;;;
+2526;2026-04-25 15:00:00;2026-04-25 West Ham-Everton;West Ham;Everton;;;;
+2526;2026-04-25 15:00:00;2026-04-25 Wolverhampton Wanderers-Tottenham;Wolverhampton Wanderers;Tottenham;;;;
+2526;2026-05-02 15:00:00;2026-05-02 Arsenal-Fulham;Arsenal;Fulham;;;;
+2526;2026-05-02 15:00:00;2026-05-02 Aston Villa-Tottenham;Aston Villa;Tottenham;;;;
+2526;2026-05-02 15:00:00;2026-05-02 Bournemouth-Crystal Palace;Bournemouth;Crystal Palace;;;;
+2526;2026-05-02 15:00:00;2026-05-02 Brentford-West Ham;Brentford;West Ham;;;;
+2526;2026-05-02 15:00:00;2026-05-02 Chelsea-Nottingham Forest;Chelsea;Nottingham Forest;;;;
+2526;2026-05-02 15:00:00;2026-05-02 Everton-Manchester City;Everton;Manchester City;;;;
+2526;2026-05-02 15:00:00;2026-05-02 Leeds-Burnley;Leeds;Burnley;;;;
+2526;2026-05-02 15:00:00;2026-05-02 Manchester United-Liverpool;Manchester United;Liverpool;;;;
+2526;2026-05-02 15:00:00;2026-05-02 Newcastle United-Brighton;Newcastle United;Brighton;;;;
+2526;2026-05-02 15:00:00;2026-05-02 Wolverhampton Wanderers-Sunderland;Wolverhampton Wanderers;Sunderland;;;;
+2526;2026-05-09 15:00:00;2026-05-09 Brighton-Wolverhampton Wanderers;Brighton;Wolverhampton Wanderers;;;;
+2526;2026-05-09 15:00:00;2026-05-09 Burnley-Aston Villa;Burnley;Aston Villa;;;;
+2526;2026-05-09 15:00:00;2026-05-09 Crystal Palace-Everton;Crystal Palace;Everton;;;;
+2526;2026-05-09 15:00:00;2026-05-09 Fulham-Bournemouth;Fulham;Bournemouth;;;;
+2526;2026-05-09 15:00:00;2026-05-09 Liverpool-Chelsea;Liverpool;Chelsea;;;;
+2526;2026-05-09 15:00:00;2026-05-09 Manchester City-Brentford;Manchester City;Brentford;;;;
+2526;2026-05-09 15:00:00;2026-05-09 Nottingham Forest-Newcastle United;Nottingham Forest;Newcastle United;;;;
+2526;2026-05-09 15:00:00;2026-05-09 Sunderland-Manchester United;Sunderland;Manchester United;;;;
+2526;2026-05-09 15:00:00;2026-05-09 Tottenham-Leeds;Tottenham;Leeds;;;;
+2526;2026-05-09 15:00:00;2026-05-09 West Ham-Arsenal;West Ham;Arsenal;;;;
+2526;2026-05-17 15:00:00;2026-05-17 Arsenal-Burnley;Arsenal;Burnley;;;;
+2526;2026-05-17 15:00:00;2026-05-17 Aston Villa-Liverpool;Aston Villa;Liverpool;;;;
+2526;2026-05-17 15:00:00;2026-05-17 Bournemouth-Manchester City;Bournemouth;Manchester City;;;;
+2526;2026-05-17 15:00:00;2026-05-17 Brentford-Crystal Palace;Brentford;Crystal Palace;;;;
+2526;2026-05-17 15:00:00;2026-05-17 Chelsea-Tottenham;Chelsea;Tottenham;;;;
+2526;2026-05-17 15:00:00;2026-05-17 Everton-Sunderland;Everton;Sunderland;;;;
+2526;2026-05-17 15:00:00;2026-05-17 Leeds-Brighton;Leeds;Brighton;;;;
+2526;2026-05-17 15:00:00;2026-05-17 Manchester United-Nottingham Forest;Manchester United;Nottingham Forest;;;;
+2526;2026-05-17 15:00:00;2026-05-17 Newcastle United-West Ham;Newcastle United;West Ham;;;;
+2526;2026-05-17 15:00:00;2026-05-17 Wolverhampton Wanderers-Fulham;Wolverhampton Wanderers;Fulham;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Brighton-Manchester United;Brighton;Manchester United;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Burnley-Wolverhampton Wanderers;Burnley;Wolverhampton Wanderers;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Crystal Palace-Arsenal;Crystal Palace;Arsenal;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Fulham-Newcastle United;Fulham;Newcastle United;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Liverpool-Brentford;Liverpool;Brentford;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Manchester City-Aston Villa;Manchester City;Aston Villa;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Nottingham Forest-Bournemouth;Nottingham Forest;Bournemouth;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Sunderland-Chelsea;Sunderland;Chelsea;;;;
+2526;2026-05-24 16:00:00;2026-05-24 Tottenham-Everton;Tottenham;Everton;;;;
+2526;2026-05-24 16:00:00;2026-05-24 West Ham-Leeds;West Ham;Leeds;;;;
+2526;2025-08-22 18:30:00;2025-08-22 Bayern Munich-RasenBallsport Leipzig;Bayern Munich;RasenBallsport Leipzig;6;0;3.29885;0.52226
+2526;2025-08-23 13:30:00;2025-08-23 Bayer Leverkusen-Hoffenheim;Bayer Leverkusen;Hoffenheim;1;2;1.05253;0.505193
+2526;2025-08-23 13:30:00;2025-08-23 Eintracht Frankfurt-Werder Bremen;Eintracht Frankfurt;Werder Bremen;4;1;3.10684;0.587822
+2526;2025-08-23 13:30:00;2025-08-23 FC Heidenheim-Wolfsburg;FC Heidenheim;Wolfsburg;1;3;0.783156;2.57718
+2526;2025-08-23 13:30:00;2025-08-23 Freiburg-Augsburg;Freiburg;Augsburg;1;3;2.27247;1.30191
+2526;2025-08-23 16:30:00;2025-08-23 St. Pauli-Borussia Dortmund;St. Pauli;Borussia Dortmund;3;3;1.46772;2.10289
+2526;2025-08-23 13:30:00;2025-08-23 Union Berlin-VfB Stuttgart;Union Berlin;VfB Stuttgart;2;1;0.529421;1.80147
+2526;2025-08-24 15:30:00;2025-08-24 Borussia M.Gladbach-Hamburger SV;Borussia M.Gladbach;Hamburger SV;0;0;1.01717;0.285593
+2526;2025-08-24 13:30:00;2025-08-24 Mainz 05-FC Cologne;Mainz 05;FC Cologne;0;1;1.31655;1.64676
+2526;2025-08-29 18:30:00;2025-08-29 Hamburger SV-St. Pauli;Hamburger SV;St. Pauli;0;2;0.74111;1.85404
+2526;2025-08-30 16:30:00;2025-08-30 Augsburg-Bayern Munich;Augsburg;Bayern Munich;2;3;0.506028;3.37523
+2526;2025-08-30 13:30:00;2025-08-30 Hoffenheim-Eintracht Frankfurt;Hoffenheim;Eintracht Frankfurt;1;3;1.28178;1.82087
+2526;2025-08-30 13:30:00;2025-08-30 RasenBallsport Leipzig-FC Heidenheim;RasenBallsport Leipzig;FC Heidenheim;2;0;3.29717;0.969982
+2526;2025-08-30 13:30:00;2025-08-30 VfB Stuttgart-Borussia M.Gladbach;VfB Stuttgart;Borussia M.Gladbach;1;0;0.925105;1.60717
+2526;2025-08-30 13:30:00;2025-08-30 Werder Bremen-Bayer Leverkusen;Werder Bremen;Bayer Leverkusen;3;3;2.32676;2.03733
+2526;2025-08-31 15:30:00;2025-08-31 Borussia Dortmund-Union Berlin;Borussia Dortmund;Union Berlin;3;0;1.82606;0.971167
+2526;2025-08-31 17:30:00;2025-08-31 FC Cologne-Freiburg;FC Cologne;Freiburg;4;1;1.84068;0.933072
+2526;2025-08-31 13:30:00;2025-08-31 Wolfsburg-Mainz 05;Wolfsburg;Mainz 05;1;1;0.616661;1.81482
+2526;2025-09-12 18:30:00;2025-09-12 Bayer Leverkusen-Eintracht Frankfurt;Bayer Leverkusen;Eintracht Frankfurt;3;1;2.31465;0.791863
+2526;2025-09-13 16:30:00;2025-09-13 Bayern Munich-Hamburger SV;Bayern Munich;Hamburger SV;5;0;3.03718;0.559174
+2526;2025-09-13 13:30:00;2025-09-13 FC Heidenheim-Borussia Dortmund;FC Heidenheim;Borussia Dortmund;0;2;0.299026;2.84999
+2526;2025-09-13 13:30:00;2025-09-13 Freiburg-VfB Stuttgart;Freiburg;VfB Stuttgart;3;1;1.6832;0.548804
+2526;2025-09-13 13:30:00;2025-09-13 Mainz 05-RasenBallsport Leipzig;Mainz 05;RasenBallsport Leipzig;0;1;0.770276;1.5009
+2526;2025-09-13 13:30:00;2025-09-13 Union Berlin-Hoffenheim;Union Berlin;Hoffenheim;2;4;3.0814;3.34084
+2526;2025-09-13 13:30:00;2025-09-13 Wolfsburg-FC Cologne;Wolfsburg;FC Cologne;3;3;1.79835;1.72631
+2526;2025-09-14 15:30:00;2025-09-14 Borussia M.Gladbach-Werder Bremen;Borussia M.Gladbach;Werder Bremen;0;4;1.58932;2.24671
+2526;2025-09-14 13:30:00;2025-09-14 St. Pauli-Augsburg;St. Pauli;Augsburg;2;1;1.95499;0.934223
+2526;2025-09-19 18:30:00;2025-09-19 VfB Stuttgart-St. Pauli;VfB Stuttgart;St. Pauli;2;0;2.78829;1.05657
+2526;2025-09-20 13:30:00;2025-09-20 Augsburg-Mainz 05;Augsburg;Mainz 05;1;4;0.870451;2.57047
+2526;2025-09-20 13:30:00;2025-09-20 Hamburger SV-FC Heidenheim;Hamburger SV;FC Heidenheim;2;1;3.32157;2.63607
+2526;2025-09-20 13:30:00;2025-09-20 Hoffenheim-Bayern Munich;Hoffenheim;Bayern Munich;1;4;1.03716;2.7142
+2526;2025-09-20 16:30:00;2025-09-20 RasenBallsport Leipzig-FC Cologne;RasenBallsport Leipzig;FC Cologne;3;1;3.79591;1.39264
+2526;2025-09-20 13:30:00;2025-09-20 Werder Bremen-Freiburg;Werder Bremen;Freiburg;0;3;1.27257;2.36315
+2526;2025-09-21 15:30:00;2025-09-21 Bayer Leverkusen-Borussia M.Gladbach;Bayer Leverkusen;Borussia M.Gladbach;1;1;1.9461;1.29876
+2526;2025-09-21 17:30:00;2025-09-21 Borussia Dortmund-Wolfsburg;Borussia Dortmund;Wolfsburg;1;0;1.24747;0.975457
+2526;2025-09-21 13:30:00;2025-09-21 Eintracht Frankfurt-Union Berlin;Eintracht Frankfurt;Union Berlin;3;4;1.75582;2.23419
+2526;2025-09-26 18:30:00;2025-09-26 Bayern Munich-Werder Bremen;Bayern Munich;Werder Bremen;4;0;4.31859;0.298618
+2526;2025-09-27 16:30:00;2025-09-27 Borussia M.Gladbach-Eintracht Frankfurt;Borussia M.Gladbach;Eintracht Frankfurt;4;6;2.12935;3.78879
+2526;2025-09-27 13:30:00;2025-09-27 FC Heidenheim-Augsburg;FC Heidenheim;Augsburg;2;1;1.79097;0.619833
+2526;2025-09-27 13:30:00;2025-09-27 Mainz 05-Borussia Dortmund;Mainz 05;Borussia Dortmund;0;2;0.525149;1.75519
+2526;2025-09-27 13:30:00;2025-09-27 St. Pauli-Bayer Leverkusen;St. Pauli;Bayer Leverkusen;1;2;0.813325;1.28912
+2526;2025-09-27 13:30:00;2025-09-27 Wolfsburg-RasenBallsport Leipzig;Wolfsburg;RasenBallsport Leipzig;0;1;2.59654;2.61107
+2526;2025-09-28 15:30:00;2025-09-28 FC Cologne-VfB Stuttgart;FC Cologne;VfB Stuttgart;1;2;1.07972;2.20939
+2526;2025-09-28 13:30:00;2025-09-28 Freiburg-Hoffenheim;Freiburg;Hoffenheim;1;1;1.2587;2.24224
+2526;2025-09-28 17:30:00;2025-09-28 Union Berlin-Hamburger SV;Union Berlin;Hamburger SV;0;0;1.54274;1.11274
+2526;2025-10-03 18:30:00;2025-10-03 Hoffenheim-FC Cologne;Hoffenheim;FC Cologne;0;1;1.42371;1.30873
+2526;2025-10-04 13:30:00;2025-10-04 Augsburg-Wolfsburg;Augsburg;Wolfsburg;3;1;1.75326;1.22584
+2526;2025-10-04 13:30:00;2025-10-04 Bayer Leverkusen-Union Berlin;Bayer Leverkusen;Union Berlin;2;0;3.35673;1.19684
+2526;2025-10-04 13:30:00;2025-10-04 Borussia Dortmund-RasenBallsport Leipzig;Borussia Dortmund;RasenBallsport Leipzig;1;1;0.668613;1.14077
+2526;2025-10-04 16:30:00;2025-10-04 Eintracht Frankfurt-Bayern Munich;Eintracht Frankfurt;Bayern Munich;0;3;0.560138;2.2301
+2526;2025-10-04 13:30:00;2025-10-04 Werder Bremen-St. Pauli;Werder Bremen;St. Pauli;1;0;1.77957;0.912425
+2526;2025-10-05 17:30:00;2025-10-05 Borussia M.Gladbach-Freiburg;Borussia M.Gladbach;Freiburg;0;0;0.471184;0.689073
+2526;2025-10-05 15:30:00;2025-10-05 Hamburger SV-Mainz 05;Hamburger SV;Mainz 05;4;0;1.65883;0.591161
+2526;2025-10-05 13:30:00;2025-10-05 VfB Stuttgart-FC Heidenheim;VfB Stuttgart;FC Heidenheim;1;0;1.10781;0.290942
+2526;2025-10-17 18:30:00;2025-10-17 Union Berlin-Borussia M.Gladbach;Union Berlin;Borussia M.Gladbach;3;1;1.53032;0.628848
+2526;2025-10-18 16:30:00;2025-10-18 Bayern Munich-Borussia Dortmund;Bayern Munich;Borussia Dortmund;2;1;2.81994;1.41011
+2526;2025-10-18 13:30:00;2025-10-18 FC Cologne-Augsburg;FC Cologne;Augsburg;1;1;0.523854;1.11917
+2526;2025-10-18 13:30:00;2025-10-18 FC Heidenheim-Werder Bremen;FC Heidenheim;Werder Bremen;2;2;3.07635;1.85638
+2526;2025-10-18 13:30:00;2025-10-18 Mainz 05-Bayer Leverkusen;Mainz 05;Bayer Leverkusen;3;4;1.62978;4.43462
+2526;2025-10-18 13:30:00;2025-10-18 RasenBallsport Leipzig-Hamburger SV;RasenBallsport Leipzig;Hamburger SV;2;1;1.15611;1.29355
+2526;2025-10-18 13:30:00;2025-10-18 Wolfsburg-VfB Stuttgart;Wolfsburg;VfB Stuttgart;0;3;0.392885;2.39474
+2526;2025-10-19 13:30:00;2025-10-19 Freiburg-Eintracht Frankfurt;Freiburg;Eintracht Frankfurt;2;2;1.12896;0.772638
+2526;2025-10-19 15:30:00;2025-10-19 St. Pauli-Hoffenheim;St. Pauli;Hoffenheim;0;3;0.871968;1.79103
+2526;2025-10-24 18:30:00;2025-10-24 Werder Bremen-Union Berlin;Werder Bremen;Union Berlin;1;0;1.1444;0.487613
+2526;2025-10-25 13:30:00;2025-10-25 Augsburg-RasenBallsport Leipzig;Augsburg;RasenBallsport Leipzig;0;6;0.639182;2.69438
+2526;2025-10-25 16:30:00;2025-10-25 Borussia Dortmund-FC Cologne;Borussia Dortmund;FC Cologne;1;0;2.09125;0.70563
+2526;2025-10-25 13:30:00;2025-10-25 Borussia M.Gladbach-Bayern Munich;Borussia M.Gladbach;Bayern Munich;0;3;0.757777;2.65026
+2526;2025-10-25 13:30:00;2025-10-25 Eintracht Frankfurt-St. Pauli;Eintracht Frankfurt;St. Pauli;2;0;2.42632;0.519973
+2526;2025-10-25 13:30:00;2025-10-25 Hamburger SV-Wolfsburg;Hamburger SV;Wolfsburg;0;1;2.40547;0.695528
+2526;2025-10-25 13:30:00;2025-10-25 Hoffenheim-FC Heidenheim;Hoffenheim;FC Heidenheim;3;1;2.4278;0.902315
+2526;2025-10-26 13:30:00;2025-10-26 Bayer Leverkusen-Freiburg;Bayer Leverkusen;Freiburg;2;0;2.46787;0.542897
+2526;2025-10-26 15:30:00;2025-10-26 VfB Stuttgart-Mainz 05;VfB Stuttgart;Mainz 05;2;1;1.66805;1.40956
+2526;2025-10-31 19:30:00;2025-10-31 Augsburg-Borussia Dortmund;Augsburg;Borussia Dortmund;0;1;0.969501;0.588196
+2526;2025-11-01 17:30:00;2025-11-01 Bayern Munich-Bayer Leverkusen;Bayern Munich;Bayer Leverkusen;3;0;2.28295;0.382774
+2526;2025-11-01 14:30:00;2025-11-01 FC Heidenheim-Eintracht Frankfurt;FC Heidenheim;Eintracht Frankfurt;1;1;0.831882;1.22406
+2526;2025-11-01 14:30:00;2025-11-01 Mainz 05-Werder Bremen;Mainz 05;Werder Bremen;1;1;1.90161;0.880505
+2526;2025-11-01 14:30:00;2025-11-01 RasenBallsport Leipzig-VfB Stuttgart;RasenBallsport Leipzig;VfB Stuttgart;3;1;1.73471;1.0701
+2526;2025-11-01 14:30:00;2025-11-01 St. Pauli-Borussia M.Gladbach;St. Pauli;Borussia M.Gladbach;0;4;0.804394;3.6262
+2526;2025-11-01 14:30:00;2025-11-01 Union Berlin-Freiburg;Union Berlin;Freiburg;0;0;1.34842;1.16519
+2526;2025-11-02 14:30:00;2025-11-02 FC Cologne-Hamburger SV;FC Cologne;Hamburger SV;4;1;3.87376;1.19296
+2526;2025-11-02 16:30:00;2025-11-02 Wolfsburg-Hoffenheim;Wolfsburg;Hoffenheim;2;3;1.40117;1.74291
+2526;2025-11-07 19:30:00;2025-11-07 Werder Bremen-Wolfsburg;Werder Bremen;Wolfsburg;2;1;1.69456;0.676326
+2526;2025-11-08 14:30:00;2025-11-08 Bayer Leverkusen-FC Heidenheim;Bayer Leverkusen;FC Heidenheim;6;0;3.90142;0.063377
+2526;2025-11-08 17:30:00;2025-11-08 Borussia M.Gladbach-FC Cologne;Borussia M.Gladbach;FC Cologne;3;1;2.46206;2.15818
+2526;2025-11-08 14:30:00;2025-11-08 Hamburger SV-Borussia Dortmund;Hamburger SV;Borussia Dortmund;1;1;0.419878;1.42582
+2526;2025-11-08 14:30:00;2025-11-08 Hoffenheim-RasenBallsport Leipzig;Hoffenheim;RasenBallsport Leipzig;3;1;1.92349;1.56187
+2526;2025-11-08 14:30:00;2025-11-08 Union Berlin-Bayern Munich;Union Berlin;Bayern Munich;2;2;1.02778;1.34246
+2526;2025-11-09 18:30:00;2025-11-09 Eintracht Frankfurt-Mainz 05;Eintracht Frankfurt;Mainz 05;1;0;1.77854;0.121469
+2526;2025-11-09 14:30:00;2025-11-09 Freiburg-St. Pauli;Freiburg;St. Pauli;2;1;1.66558;0.640748
+2526;2025-11-09 16:30:00;2025-11-09 VfB Stuttgart-Augsburg;VfB Stuttgart;Augsburg;3;2;2.44526;1.90345
+2526;2025-11-21 19:30:00;2025-11-21 Mainz 05-Hoffenheim;Mainz 05;Hoffenheim;1;1;2.88712;1.54404
+2526;2025-11-22 14:30:00;2025-11-22 Augsburg-Hamburger SV;Augsburg;Hamburger SV;1;0;1.61897;1.555
+2526;2025-11-22 14:30:00;2025-11-22 Bayern Munich-Freiburg;Bayern Munich;Freiburg;6;2;3.13858;0.516966
+2526;2025-11-22 14:30:00;2025-11-22 Borussia Dortmund-VfB Stuttgart;Borussia Dortmund;VfB Stuttgart;3;3;3.15124;1.80942
+2526;2025-11-22 17:30:00;2025-11-22 FC Cologne-Eintracht Frankfurt;FC Cologne;Eintracht Frankfurt;3;4;1.38923;2.44506
+2526;2025-11-22 14:30:00;2025-11-22 FC Heidenheim-Borussia M.Gladbach;FC Heidenheim;Borussia M.Gladbach;0;3;0.363207;2.79666
+2526;2025-11-22 14:30:00;2025-11-22 Wolfsburg-Bayer Leverkusen;Wolfsburg;Bayer Leverkusen;1;3;2.07979;1.58644
+2526;2025-11-23 14:30:00;2025-11-23 RasenBallsport Leipzig-Werder Bremen;RasenBallsport Leipzig;Werder Bremen;2;0;2.42834;0.774872
+2526;2025-11-23 16:30:00;2025-11-23 St. Pauli-Union Berlin;St. Pauli;Union Berlin;0;1;0.568717;0.398431
+2526;2025-11-28 19:30:00;2025-11-28 Borussia M.Gladbach-RasenBallsport Leipzig;Borussia M.Gladbach;RasenBallsport Leipzig;0;0;0.388883;1.09232
+2526;2025-11-29 17:30:00;2025-11-29 Bayer Leverkusen-Borussia Dortmund;Bayer Leverkusen;Borussia Dortmund;1;2;1.08287;1.1562
+2526;2025-11-29 14:30:00;2025-11-29 Bayern Munich-St. Pauli;Bayern Munich;St. Pauli;3;1;2.53942;0.74073
+2526;2025-11-29 14:30:00;2025-11-29 Hoffenheim-Augsburg;Hoffenheim;Augsburg;3;0;1.79612;0.655496
+2526;2025-11-29 14:30:00;2025-11-29 Union Berlin-FC Heidenheim;Union Berlin;FC Heidenheim;1;2;0.942923;0.522102
+2526;2025-11-29 14:30:00;2025-11-29 Werder Bremen-FC Cologne;Werder Bremen;FC Cologne;1;1;1.53668;1.1848
+2526;2025-11-30 16:30:00;2025-11-30 Eintracht Frankfurt-Wolfsburg;Eintracht Frankfurt;Wolfsburg;1;1;1.66051;1.60645
+2526;2025-11-30 18:30:00;2025-11-30 Freiburg-Mainz 05;Freiburg;Mainz 05;4;0;4.15677;0.0500621
+2526;2025-11-30 14:30:00;2025-11-30 Hamburger SV-VfB Stuttgart;Hamburger SV;VfB Stuttgart;2;1;1.21357;1.10868
+2526;2025-12-05 19:30:00;2025-12-05 Mainz 05-Borussia M.Gladbach;Mainz 05;Borussia M.Gladbach;0;1;1.09331;1.90297
+2526;2025-12-06 14:30:00;2025-12-06 Augsburg-Bayer Leverkusen;Augsburg;Bayer Leverkusen;2;0;2.14102;1.41889
+2526;2025-12-06 14:30:00;2025-12-06 FC Cologne-St. Pauli;FC Cologne;St. Pauli;1;1;1.90409;0.143945
+2526;2025-12-06 14:30:00;2025-12-06 FC Heidenheim-Freiburg;FC Heidenheim;Freiburg;2;1;2.66592;0.800321
+2526;2025-12-06 17:30:00;2025-12-06 RasenBallsport Leipzig-Eintracht Frankfurt;RasenBallsport Leipzig;Eintracht Frankfurt;6;0;3.64182;0.473289
+2526;2025-12-06 14:30:00;2025-12-06 VfB Stuttgart-Bayern Munich;VfB Stuttgart;Bayern Munich;0;5;0.729313;4.07867
+2526;2025-12-06 14:30:00;2025-12-06 Wolfsburg-Union Berlin;Wolfsburg;Union Berlin;3;1;0.929936;2.01932
+2526;2025-12-07 16:30:00;2025-12-07 Borussia Dortmund-Hoffenheim;Borussia Dortmund;Hoffenheim;2;0;1.10147;1.42364
+2526;2025-12-07 14:30:00;2025-12-07 Hamburger SV-Werder Bremen;Hamburger SV;Werder Bremen;3;2;1.57713;1.17349
+2526;2025-12-12 19:30:00;2025-12-12 Union Berlin-RasenBallsport Leipzig;Union Berlin;RasenBallsport Leipzig;3;1;1.4766;0.495677
+2526;2025-12-13 17:30:00;2025-12-13 Bayer Leverkusen-FC Cologne;Bayer Leverkusen;FC Cologne;2;0;2.295;0.436565
+2526;2025-12-13 14:30:00;2025-12-13 Borussia M.Gladbach-Wolfsburg;Borussia M.Gladbach;Wolfsburg;1;3;0.620418;2.72142
+2526;2025-12-13 14:30:00;2025-12-13 Eintracht Frankfurt-Augsburg;Eintracht Frankfurt;Augsburg;1;0;1.52024;0.655733
+2526;2025-12-13 14:30:00;2025-12-13 Hoffenheim-Hamburger SV;Hoffenheim;Hamburger SV;4;1;2.48806;1.40522
+2526;2025-12-13 14:30:00;2025-12-13 St. Pauli-FC Heidenheim;St. Pauli;FC Heidenheim;2;1;1.00037;1.8944
+2526;2025-12-14 16:30:00;2025-12-14 Bayern Munich-Mainz 05;Bayern Munich;Mainz 05;2;2;4.67956;0.803171
+2526;2025-12-14 14:30:00;2025-12-14 Freiburg-Borussia Dortmund;Freiburg;Borussia Dortmund;1;1;1.10621;1.47427
+2526;2025-12-14 18:30:00;2025-12-14 Werder Bremen-VfB Stuttgart;Werder Bremen;VfB Stuttgart;0;4;0.607898;2.05209
+2526;2025-12-19 19:30:00;2025-12-19 Borussia Dortmund-Borussia M.Gladbach;Borussia Dortmund;Borussia M.Gladbach;2;0;1.65394;0.221237
+2526;2025-12-20 14:30:00;2025-12-20 Augsburg-Werder Bremen;Augsburg;Werder Bremen;0;0;1.49411;0.90686
+2526;2025-12-20 14:30:00;2025-12-20 FC Cologne-Union Berlin;FC Cologne;Union Berlin;0;1;0.677102;1.4739
+2526;2025-12-20 14:30:00;2025-12-20 Hamburger SV-Eintracht Frankfurt;Hamburger SV;Eintracht Frankfurt;1;1;1.09769;1.09137
+2526;2025-12-20 17:30:00;2025-12-20 RasenBallsport Leipzig-Bayer Leverkusen;RasenBallsport Leipzig;Bayer Leverkusen;1;3;1.93929;2.70478
+2526;2025-12-20 14:30:00;2025-12-20 VfB Stuttgart-Hoffenheim;VfB Stuttgart;Hoffenheim;0;0;1.46116;0.154175
+2526;2025-12-20 14:30:00;2025-12-20 Wolfsburg-Freiburg;Wolfsburg;Freiburg;3;4;1.30583;2.65964
+2526;2025-12-21 16:30:00;2025-12-21 FC Heidenheim-Bayern Munich;FC Heidenheim;Bayern Munich;0;4;1.48758;3.36795
+2526;2025-12-21 14:30:00;2025-12-21 Mainz 05-St. Pauli;Mainz 05;St. Pauli;0;0;1.87368;0.227249
+2526;2026-01-09 19:30:00;2026-01-09 Eintracht Frankfurt-Borussia Dortmund;Eintracht Frankfurt;Borussia Dortmund;3;3;1.66426;2.29827
+2526;2026-01-10 17:30:00;2026-01-10 Bayer Leverkusen-VfB Stuttgart;Bayer Leverkusen;VfB Stuttgart;1;4;1.98318;2.68822
+2526;2026-01-10 14:30:00;2026-01-10 FC Heidenheim-FC Cologne;FC Heidenheim;FC Cologne;2;2;2.14635;2.75624
+2526;2026-01-10 14:30:00;2026-01-10 Freiburg-Hamburger SV;Freiburg;Hamburger SV;2;1;2.93517;0.850812
+2526;2026-01-10 14:30:00;2026-01-10 Union Berlin-Mainz 05;Union Berlin;Mainz 05;2;2;3.6505;1.56492
+2526;2026-01-11 16:30:00;2026-01-11 Bayern Munich-Wolfsburg;Bayern Munich;Wolfsburg;8;1;3.54931;1.08515
+2526;2026-01-11 14:30:00;2026-01-11 Borussia M.Gladbach-Augsburg;Borussia M.Gladbach;Augsburg;4;0;3.57201;1.57502
+2526;2026-01-13 19:30:00;2026-01-13 Borussia Dortmund-Werder Bremen;Borussia Dortmund;Werder Bremen;3;0;2.31769;0.39948
+2526;2026-01-13 19:30:00;2026-01-13 Mainz 05-FC Heidenheim;Mainz 05;FC Heidenheim;2;1;1.95686;1.23557
+2526;2026-01-13 17:30:00;2026-01-13 VfB Stuttgart-Eintracht Frankfurt;VfB Stuttgart;Eintracht Frankfurt;3;2;3.54461;0.896468
+2526;2026-01-14 19:30:00;2026-01-14 FC Cologne-Bayern Munich;FC Cologne;Bayern Munich;1;3;0.714659;2.11635
+2526;2026-01-14 19:30:00;2026-01-14 Hoffenheim-Borussia M.Gladbach;Hoffenheim;Borussia M.Gladbach;5;1;4.3777;0.83294
+2526;2026-01-14 19:30:00;2026-01-14 RasenBallsport Leipzig-Freiburg;RasenBallsport Leipzig;Freiburg;2;0;2.80289;0.147682
+2526;2026-01-14 17:30:00;2026-01-14 Wolfsburg-St. Pauli;Wolfsburg;St. Pauli;2;1;1.78032;1.21171
+2526;2026-01-15 19:30:00;2026-01-15 Augsburg-Union Berlin;Augsburg;Union Berlin;1;1;0.559529;1.73831
+2526;2026-01-16 19:30:00;2026-01-16 Werder Bremen-Eintracht Frankfurt;Werder Bremen;Eintracht Frankfurt;3;3;2.10111;1.20772
+2526;2026-01-17 14:30:00;2026-01-17 Borussia Dortmund-St. Pauli;Borussia Dortmund;St. Pauli;3;2;2.5477;0.532613
+2526;2026-01-17 14:30:00;2026-01-17 FC Cologne-Mainz 05;FC Cologne;Mainz 05;2;1;2.41277;1.91073
+2526;2026-01-17 14:30:00;2026-01-17 Hamburger SV-Borussia M.Gladbach;Hamburger SV;Borussia M.Gladbach;0;0;1.26205;0.576522
+2526;2026-01-17 14:30:00;2026-01-17 Hoffenheim-Bayer Leverkusen;Hoffenheim;Bayer Leverkusen;1;0;2.11995;1.27048
+2526;2026-01-17 17:30:00;2026-01-17 RasenBallsport Leipzig-Bayern Munich;RasenBallsport Leipzig;Bayern Munich;1;5;2.86917;4.65226
+2526;2026-01-17 14:30:00;2026-01-17 Wolfsburg-FC Heidenheim;Wolfsburg;FC Heidenheim;1;1;1.07653;0.991172
+2526;2026-01-18 16:30:00;2026-01-18 Augsburg-Freiburg;Augsburg;Freiburg;2;2;0.986653;1.59107
+2526;2026-01-18 14:30:00;2026-01-18 VfB Stuttgart-Union Berlin;VfB Stuttgart;Union Berlin;1;1;2.1978;1.88763
+2526;2026-01-23 19:30:00;2026-01-23 St. Pauli-Hamburger SV;St. Pauli;Hamburger SV;0;0;0.311991;0.333197
+2526;2026-01-24 14:30:00;2026-01-24 Bayer Leverkusen-Werder Bremen;Bayer Leverkusen;Werder Bremen;1;0;2.51599;0.673986
+2526;2026-01-24 14:30:00;2026-01-24 Bayern Munich-Augsburg;Bayern Munich;Augsburg;1;2;2.30773;1.24551
+2526;2026-01-24 14:30:00;2026-01-24 Eintracht Frankfurt-Hoffenheim;Eintracht Frankfurt;Hoffenheim;1;3;0.829658;1.62813
+2526;2026-01-24 14:30:00;2026-01-24 FC Heidenheim-RasenBallsport Leipzig;FC Heidenheim;RasenBallsport Leipzig;0;3;0.987658;2.07675
+2526;2026-01-24 14:30:00;2026-01-24 Mainz 05-Wolfsburg;Mainz 05;Wolfsburg;3;1;4.34199;1.09338
+2526;2026-01-24 17:30:00;2026-01-24 Union Berlin-Borussia Dortmund;Union Berlin;Borussia Dortmund;0;3;0.989732;2.27286
+2526;2026-01-25 14:30:00;2026-01-25 Borussia M.Gladbach-VfB Stuttgart;Borussia M.Gladbach;VfB Stuttgart;0;3;1.22197;2.72682
+2526;2026-01-25 16:30:00;2026-01-25 Freiburg-FC Cologne;Freiburg;FC Cologne;2;1;2.56728;1.69119
+2526;2026-01-27 19:30:00;2026-01-27 St. Pauli-RasenBallsport Leipzig;St. Pauli;RasenBallsport Leipzig;1;1;1.33165;2.05989
+2526;2026-01-27 19:30:00;2026-01-27 Werder Bremen-Hoffenheim;Werder Bremen;Hoffenheim;0;2;1.42692;0.567567
+2526;2026-01-30 19:30:00;2026-01-30 FC Cologne-Wolfsburg;FC Cologne;Wolfsburg;1;0;1.43559;1.34631
+2526;2026-01-31 14:30:00;2026-01-31 Augsburg-St. Pauli;Augsburg;St. Pauli;2;1;2.11699;2.88611
+2526;2026-01-31 14:30:00;2026-01-31 Eintracht Frankfurt-Bayer Leverkusen;Eintracht Frankfurt;Bayer Leverkusen;1;3;1.31849;1.52952
+2526;2026-01-31 17:30:00;2026-01-31 Hamburger SV-Bayern Munich;Hamburger SV;Bayern Munich;2;2;2.64497;2.28911
+2526;2026-01-31 14:30:00;2026-01-31 Hoffenheim-Union Berlin;Hoffenheim;Union Berlin;3;1;1.50682;1.23275
+2526;2026-01-31 14:30:00;2026-01-31 RasenBallsport Leipzig-Mainz 05;RasenBallsport Leipzig;Mainz 05;1;2;2.09422;2.57678
+2526;2026-01-31 14:30:00;2026-01-31 Werder Bremen-Borussia M.Gladbach;Werder Bremen;Borussia M.Gladbach;1;1;0.991152;1.25715
+2526;2026-02-01 16:30:00;2026-02-01 Borussia Dortmund-FC Heidenheim;Borussia Dortmund;FC Heidenheim;3;2;4.13897;3.04324
+2526;2026-02-01 14:30:00;2026-02-01 VfB Stuttgart-Freiburg;VfB Stuttgart;Freiburg;1;0;2.95203;0.936187
+2526;2026-02-06 19:30:00;2026-02-06 Union Berlin-Eintracht Frankfurt;Union Berlin;Eintracht Frankfurt;1;1;1.27118;0.296813
+2526;2026-02-07 17:30:00;2026-02-07 Borussia M.Gladbach-Bayer Leverkusen;Borussia M.Gladbach;Bayer Leverkusen;1;1;0.783478;0.741257
+2526;2026-02-07 14:30:00;2026-02-07 FC Heidenheim-Hamburger SV;FC Heidenheim;Hamburger SV;0;2;1.04614;1.55106
+2526;2026-02-07 14:30:00;2026-02-07 Freiburg-Werder Bremen;Freiburg;Werder Bremen;1;0;0.36452;1.12332
+2526;2026-02-07 14:30:00;2026-02-07 Mainz 05-Augsburg;Mainz 05;Augsburg;2;0;3.00656;1.35939
+2526;2026-02-07 14:30:00;2026-02-07 St. Pauli-VfB Stuttgart;St. Pauli;VfB Stuttgart;2;1;1.66217;0.912627
+2526;2026-02-07 14:30:00;2026-02-07 Wolfsburg-Borussia Dortmund;Wolfsburg;Borussia Dortmund;1;2;2.02751;1.70601
+2526;2026-02-08 16:30:00;2026-02-08 Bayern Munich-Hoffenheim;Bayern Munich;Hoffenheim;5;1;6.37827;2.66829
+2526;2026-02-08 14:30:00;2026-02-08 FC Cologne-RasenBallsport Leipzig;FC Cologne;RasenBallsport Leipzig;1;2;1.12167;3.0577
+2526;2026-02-13 19:30:00;2026-02-13 Borussia Dortmund-Mainz 05;Borussia Dortmund;Mainz 05;4;0;1.81026;1.67199
+2526;2026-02-14 14:30:00;2026-02-14 Bayer Leverkusen-St. Pauli;Bayer Leverkusen;St. Pauli;4;0;2.26044;0.654783
+2526;2026-02-14 14:30:00;2026-02-14 Eintracht Frankfurt-Borussia M.Gladbach;Eintracht Frankfurt;Borussia M.Gladbach;3;0;1.98736;1.03155
+2526;2026-02-14 14:30:00;2026-02-14 Hamburger SV-Union Berlin;Hamburger SV;Union Berlin;3;2;2.20339;2.18966
+2526;2026-02-14 14:30:00;2026-02-14 Hoffenheim-Freiburg;Hoffenheim;Freiburg;3;0;1.90052;0.744054
+2526;2026-02-14 17:30:00;2026-02-14 VfB Stuttgart-FC Cologne;VfB Stuttgart;FC Cologne;3;1;2.56266;1.13246
+2526;2026-02-14 14:30:00;2026-02-14 Werder Bremen-Bayern Munich;Werder Bremen;Bayern Munich;0;3;0.77965;1.87713
+2526;2026-02-15 14:30:00;2026-02-15 Augsburg-FC Heidenheim;Augsburg;FC Heidenheim;1;0;1.87679;0.697774
+2526;2026-02-15 16:30:00;2026-02-15 RasenBallsport Leipzig-Wolfsburg;RasenBallsport Leipzig;Wolfsburg;2;2;2.51087;0.687761
+2526;2026-02-20 19:30:00;2026-02-20 Mainz 05-Hamburger SV;Mainz 05;Hamburger SV;1;1;1.75215;0.823398
+2526;2026-02-21 14:30:00;2026-02-21 Bayern Munich-Eintracht Frankfurt;Bayern Munich;Eintracht Frankfurt;3;2;2.83518;2.29258
+2526;2026-02-21 14:30:00;2026-02-21 FC Cologne-Hoffenheim;FC Cologne;Hoffenheim;2;2;1.12252;1.8243
+2526;2026-02-21 17:30:00;2026-02-21 RasenBallsport Leipzig-Borussia Dortmund;RasenBallsport Leipzig;Borussia Dortmund;2;2;3.50934;1.35347
+2526;2026-02-21 14:30:00;2026-02-21 Union Berlin-Bayer Leverkusen;Union Berlin;Bayer Leverkusen;1;0;0.757702;1.20274
+2526;2026-02-21 14:30:00;2026-02-21 Wolfsburg-Augsburg;Wolfsburg;Augsburg;2;3;2.17584;1.56427
+2526;2026-02-22 18:30:00;2026-02-22 FC Heidenheim-VfB Stuttgart;FC Heidenheim;VfB Stuttgart;3;3;2.21575;2.27505
+2526;2026-02-22 14:30:00;2026-02-22 Freiburg-Borussia M.Gladbach;Freiburg;Borussia M.Gladbach;2;1;1.29234;1.02855
+2526;2026-02-22 16:30:00;2026-02-22 St. Pauli-Werder Bremen;St. Pauli;Werder Bremen;2;1;0.260698;1.61141
+2526;2026-02-27 19:30:00;2026-02-27 Augsburg-FC Cologne;Augsburg;FC Cologne;2;0;1.55844;0.492698
+2526;2026-02-28 14:30:00;2026-02-28 Bayer Leverkusen-Mainz 05;Bayer Leverkusen;Mainz 05;1;1;1.94817;0.9714
+2526;2026-02-28 17:30:00;2026-02-28 Borussia Dortmund-Bayern Munich;Borussia Dortmund;Bayern Munich;2;3;1.39761;1.89016
+2526;2026-02-28 14:30:00;2026-02-28 Borussia M.Gladbach-Union Berlin;Borussia M.Gladbach;Union Berlin;1;0;2.56014;0.137598
+2526;2026-02-28 14:30:00;2026-02-28 Hoffenheim-St. Pauli;Hoffenheim;St. Pauli;0;1;2.57411;0.946504
+2526;2026-02-28 14:30:00;2026-02-28 Werder Bremen-FC Heidenheim;Werder Bremen;FC Heidenheim;2;0;3.47889;1.70919
+2526;2026-03-01 16:30:00;2026-03-01 Eintracht Frankfurt-Freiburg;Eintracht Frankfurt;Freiburg;2;0;1.67095;0.64193
+2526;2026-03-01 18:30:00;2026-03-01 Hamburger SV-RasenBallsport Leipzig;Hamburger SV;RasenBallsport Leipzig;1;2;0.820585;2.28997
+2526;2026-03-01 14:30:00;2026-03-01 VfB Stuttgart-Wolfsburg;VfB Stuttgart;Wolfsburg;4;0;2.95189;0.865739
+2526;2026-03-04 19:30:00;2026-03-04 Hamburger SV-Bayer Leverkusen;Hamburger SV;Bayer Leverkusen;0;1;1.28692;2.67874
+2526;2026-03-06 19:30:00;2026-03-06 Bayern Munich-Borussia M.Gladbach;Bayern Munich;Borussia M.Gladbach;4;1;3.11976;1.21993
+2526;2026-03-07 17:30:00;2026-03-07 FC Cologne-Borussia Dortmund;FC Cologne;Borussia Dortmund;1;2;0.96405;1.9574
+2526;2026-03-07 14:30:00;2026-03-07 FC Heidenheim-Hoffenheim;FC Heidenheim;Hoffenheim;2;4;0.966678;2.79383
+2526;2026-03-07 14:30:00;2026-03-07 Freiburg-Bayer Leverkusen;Freiburg;Bayer Leverkusen;3;3;2.58409;2.1863
+2526;2026-03-07 14:30:00;2026-03-07 Mainz 05-VfB Stuttgart;Mainz 05;VfB Stuttgart;2;2;3.52523;0.920068
+2526;2026-03-07 14:30:00;2026-03-07 RasenBallsport Leipzig-Augsburg;RasenBallsport Leipzig;Augsburg;2;1;2.19435;3.6651
+2526;2026-03-07 14:30:00;2026-03-07 Wolfsburg-Hamburger SV;Wolfsburg;Hamburger SV;1;2;2.46612;1.80445
+2526;2026-03-08 14:30:00;2026-03-08 St. Pauli-Eintracht Frankfurt;St. Pauli;Eintracht Frankfurt;0;0;0.472285;0.451537
+2526;2026-03-08 16:30:00;2026-03-08 Union Berlin-Werder Bremen;Union Berlin;Werder Bremen;1;4;1.12998;2.23984
+2526;2026-03-13 19:30:00;2026-03-13 Borussia M.Gladbach-St. Pauli;Borussia M.Gladbach;St. Pauli;;;;
+2526;2026-03-14 14:30:00;2026-03-14 Bayer Leverkusen-Bayern Munich;Bayer Leverkusen;Bayern Munich;;;;
+2526;2026-03-14 14:30:00;2026-03-14 Borussia Dortmund-Augsburg;Borussia Dortmund;Augsburg;;;;
+2526;2026-03-14 14:30:00;2026-03-14 Eintracht Frankfurt-FC Heidenheim;Eintracht Frankfurt;FC Heidenheim;;;;
+2526;2026-03-14 17:30:00;2026-03-14 Hamburger SV-FC Cologne;Hamburger SV;FC Cologne;;;;
+2526;2026-03-14 14:30:00;2026-03-14 Hoffenheim-Wolfsburg;Hoffenheim;Wolfsburg;;;;
+2526;2026-03-15 16:30:00;2026-03-15 Freiburg-Union Berlin;Freiburg;Union Berlin;;;;
+2526;2026-03-15 18:30:00;2026-03-15 VfB Stuttgart-RasenBallsport Leipzig;VfB Stuttgart;RasenBallsport Leipzig;;;;
+2526;2026-03-15 14:30:00;2026-03-15 Werder Bremen-Mainz 05;Werder Bremen;Mainz 05;;;;
+2526;2026-03-20 19:30:00;2026-03-20 RasenBallsport Leipzig-Hoffenheim;RasenBallsport Leipzig;Hoffenheim;;;;
+2526;2026-03-21 14:30:00;2026-03-21 Bayern Munich-Union Berlin;Bayern Munich;Union Berlin;;;;
+2526;2026-03-21 17:30:00;2026-03-21 Borussia Dortmund-Hamburger SV;Borussia Dortmund;Hamburger SV;;;;
+2526;2026-03-21 14:30:00;2026-03-21 FC Cologne-Borussia M.Gladbach;FC Cologne;Borussia M.Gladbach;;;;
+2526;2026-03-21 14:30:00;2026-03-21 FC Heidenheim-Bayer Leverkusen;FC Heidenheim;Bayer Leverkusen;;;;
+2526;2026-03-21 14:30:00;2026-03-21 Wolfsburg-Werder Bremen;Wolfsburg;Werder Bremen;;;;
+2526;2026-03-22 18:30:00;2026-03-22 Augsburg-VfB Stuttgart;Augsburg;VfB Stuttgart;;;;
+2526;2026-03-22 14:30:00;2026-03-22 Mainz 05-Eintracht Frankfurt;Mainz 05;Eintracht Frankfurt;;;;
+2526;2026-03-22 16:30:00;2026-03-22 St. Pauli-Freiburg;St. Pauli;Freiburg;;;;
+2526;2026-04-04 14:30:00;2026-04-04 Bayer Leverkusen-Wolfsburg;Bayer Leverkusen;Wolfsburg;;;;
+2526;2026-04-04 14:30:00;2026-04-04 Borussia M.Gladbach-FC Heidenheim;Borussia M.Gladbach;FC Heidenheim;;;;
+2526;2026-04-04 14:30:00;2026-04-04 Eintracht Frankfurt-FC Cologne;Eintracht Frankfurt;FC Cologne;;;;
+2526;2026-04-04 14:30:00;2026-04-04 Freiburg-Bayern Munich;Freiburg;Bayern Munich;;;;
+2526;2026-04-04 14:30:00;2026-04-04 Hamburger SV-Augsburg;Hamburger SV;Augsburg;;;;
+2526;2026-04-04 14:30:00;2026-04-04 Hoffenheim-Mainz 05;Hoffenheim;Mainz 05;;;;
+2526;2026-04-04 14:30:00;2026-04-04 Union Berlin-St. Pauli;Union Berlin;St. Pauli;;;;
+2526;2026-04-04 14:30:00;2026-04-04 VfB Stuttgart-Borussia Dortmund;VfB Stuttgart;Borussia Dortmund;;;;
+2526;2026-04-04 14:30:00;2026-04-04 Werder Bremen-RasenBallsport Leipzig;Werder Bremen;RasenBallsport Leipzig;;;;
+2526;2026-04-11 14:30:00;2026-04-11 Augsburg-Hoffenheim;Augsburg;Hoffenheim;;;;
+2526;2026-04-11 14:30:00;2026-04-11 Borussia Dortmund-Bayer Leverkusen;Borussia Dortmund;Bayer Leverkusen;;;;
+2526;2026-04-11 14:30:00;2026-04-11 FC Cologne-Werder Bremen;FC Cologne;Werder Bremen;;;;
+2526;2026-04-11 14:30:00;2026-04-11 FC Heidenheim-Union Berlin;FC Heidenheim;Union Berlin;;;;
+2526;2026-04-11 14:30:00;2026-04-11 Mainz 05-Freiburg;Mainz 05;Freiburg;;;;
+2526;2026-04-11 14:30:00;2026-04-11 RasenBallsport Leipzig-Borussia M.Gladbach;RasenBallsport Leipzig;Borussia M.Gladbach;;;;
+2526;2026-04-11 14:30:00;2026-04-11 St. Pauli-Bayern Munich;St. Pauli;Bayern Munich;;;;
+2526;2026-04-11 14:30:00;2026-04-11 VfB Stuttgart-Hamburger SV;VfB Stuttgart;Hamburger SV;;;;
+2526;2026-04-11 14:30:00;2026-04-11 Wolfsburg-Eintracht Frankfurt;Wolfsburg;Eintracht Frankfurt;;;;
+2526;2026-04-18 14:30:00;2026-04-18 Bayer Leverkusen-Augsburg;Bayer Leverkusen;Augsburg;;;;
+2526;2026-04-18 14:30:00;2026-04-18 Bayern Munich-VfB Stuttgart;Bayern Munich;VfB Stuttgart;;;;
+2526;2026-04-18 14:30:00;2026-04-18 Borussia M.Gladbach-Mainz 05;Borussia M.Gladbach;Mainz 05;;;;
+2526;2026-04-18 14:30:00;2026-04-18 Eintracht Frankfurt-RasenBallsport Leipzig;Eintracht Frankfurt;RasenBallsport Leipzig;;;;
+2526;2026-04-18 14:30:00;2026-04-18 Freiburg-FC Heidenheim;Freiburg;FC Heidenheim;;;;
+2526;2026-04-18 14:30:00;2026-04-18 Hoffenheim-Borussia Dortmund;Hoffenheim;Borussia Dortmund;;;;
+2526;2026-04-18 14:30:00;2026-04-18 St. Pauli-FC Cologne;St. Pauli;FC Cologne;;;;
+2526;2026-04-18 14:30:00;2026-04-18 Union Berlin-Wolfsburg;Union Berlin;Wolfsburg;;;;
+2526;2026-04-18 14:30:00;2026-04-18 Werder Bremen-Hamburger SV;Werder Bremen;Hamburger SV;;;;
+2526;2026-04-25 14:30:00;2026-04-25 Augsburg-Eintracht Frankfurt;Augsburg;Eintracht Frankfurt;;;;
+2526;2026-04-25 14:30:00;2026-04-25 Borussia Dortmund-Freiburg;Borussia Dortmund;Freiburg;;;;
+2526;2026-04-25 14:30:00;2026-04-25 FC Cologne-Bayer Leverkusen;FC Cologne;Bayer Leverkusen;;;;
+2526;2026-04-25 14:30:00;2026-04-25 FC Heidenheim-St. Pauli;FC Heidenheim;St. Pauli;;;;
+2526;2026-04-25 14:30:00;2026-04-25 Hamburger SV-Hoffenheim;Hamburger SV;Hoffenheim;;;;
+2526;2026-04-25 14:30:00;2026-04-25 Mainz 05-Bayern Munich;Mainz 05;Bayern Munich;;;;
+2526;2026-04-25 14:30:00;2026-04-25 RasenBallsport Leipzig-Union Berlin;RasenBallsport Leipzig;Union Berlin;;;;
+2526;2026-04-25 14:30:00;2026-04-25 VfB Stuttgart-Werder Bremen;VfB Stuttgart;Werder Bremen;;;;
+2526;2026-04-25 14:30:00;2026-04-25 Wolfsburg-Borussia M.Gladbach;Wolfsburg;Borussia M.Gladbach;;;;
+2526;2026-05-02 14:30:00;2026-05-02 Bayer Leverkusen-RasenBallsport Leipzig;Bayer Leverkusen;RasenBallsport Leipzig;;;;
+2526;2026-05-02 14:30:00;2026-05-02 Bayern Munich-FC Heidenheim;Bayern Munich;FC Heidenheim;;;;
+2526;2026-05-02 14:30:00;2026-05-02 Borussia M.Gladbach-Borussia Dortmund;Borussia M.Gladbach;Borussia Dortmund;;;;
+2526;2026-05-02 14:30:00;2026-05-02 Eintracht Frankfurt-Hamburger SV;Eintracht Frankfurt;Hamburger SV;;;;
+2526;2026-05-02 14:30:00;2026-05-02 Freiburg-Wolfsburg;Freiburg;Wolfsburg;;;;
+2526;2026-05-02 14:30:00;2026-05-02 Hoffenheim-VfB Stuttgart;Hoffenheim;VfB Stuttgart;;;;
+2526;2026-05-02 14:30:00;2026-05-02 St. Pauli-Mainz 05;St. Pauli;Mainz 05;;;;
+2526;2026-05-02 14:30:00;2026-05-02 Union Berlin-FC Cologne;Union Berlin;FC Cologne;;;;
+2526;2026-05-02 14:30:00;2026-05-02 Werder Bremen-Augsburg;Werder Bremen;Augsburg;;;;
+2526;2026-05-09 14:30:00;2026-05-09 Augsburg-Borussia M.Gladbach;Augsburg;Borussia M.Gladbach;;;;
+2526;2026-05-09 14:30:00;2026-05-09 Borussia Dortmund-Eintracht Frankfurt;Borussia Dortmund;Eintracht Frankfurt;;;;
+2526;2026-05-09 14:30:00;2026-05-09 FC Cologne-FC Heidenheim;FC Cologne;FC Heidenheim;;;;
+2526;2026-05-09 14:30:00;2026-05-09 Hamburger SV-Freiburg;Hamburger SV;Freiburg;;;;
+2526;2026-05-09 14:30:00;2026-05-09 Hoffenheim-Werder Bremen;Hoffenheim;Werder Bremen;;;;
+2526;2026-05-09 14:30:00;2026-05-09 Mainz 05-Union Berlin;Mainz 05;Union Berlin;;;;
+2526;2026-05-09 14:30:00;2026-05-09 RasenBallsport Leipzig-St. Pauli;RasenBallsport Leipzig;St. Pauli;;;;
+2526;2026-05-09 14:30:00;2026-05-09 VfB Stuttgart-Bayer Leverkusen;VfB Stuttgart;Bayer Leverkusen;;;;
+2526;2026-05-09 14:30:00;2026-05-09 Wolfsburg-Bayern Munich;Wolfsburg;Bayern Munich;;;;
+2526;2026-05-16 14:30:00;2026-05-16 Bayer Leverkusen-Hamburger SV;Bayer Leverkusen;Hamburger SV;;;;
+2526;2026-05-16 14:30:00;2026-05-16 Bayern Munich-FC Cologne;Bayern Munich;FC Cologne;;;;
+2526;2026-05-16 14:30:00;2026-05-16 Borussia M.Gladbach-Hoffenheim;Borussia M.Gladbach;Hoffenheim;;;;
+2526;2026-05-16 14:30:00;2026-05-16 Eintracht Frankfurt-VfB Stuttgart;Eintracht Frankfurt;VfB Stuttgart;;;;
+2526;2026-05-16 14:30:00;2026-05-16 FC Heidenheim-Mainz 05;FC Heidenheim;Mainz 05;;;;
+2526;2026-05-16 14:30:00;2026-05-16 Freiburg-RasenBallsport Leipzig;Freiburg;RasenBallsport Leipzig;;;;
+2526;2026-05-16 14:30:00;2026-05-16 St. Pauli-Wolfsburg;St. Pauli;Wolfsburg;;;;
+2526;2026-05-16 14:30:00;2026-05-16 Union Berlin-Augsburg;Union Berlin;Augsburg;;;;
+2526;2026-05-16 14:30:00;2026-05-16 Werder Bremen-Borussia Dortmund;Werder Bremen;Borussia Dortmund;;;;
+2526;2025-08-15 18:45:00;2025-08-15 Rennes-Marseille;Rennes;Marseille;1;0;1.31418;2.07298
+2526;2025-08-16 15:00:00;2025-08-16 Lens-Lyon;Lens;Lyon;0;1;1.87447;1.615
+2526;2025-08-16 17:00:00;2025-08-16 Monaco-Le Havre;Monaco;Le Havre;3;1;1.88048;0.427494
+2526;2025-08-16 19:05:00;2025-08-16 Nice-Toulouse;Nice;Toulouse;0;1;0.95554;0.56945
+2526;2025-08-17 15:15:00;2025-08-17 Angers-Paris FC;Angers;Paris FC;1;0;0.82142;0.71125
+2526;2025-08-17 15:15:00;2025-08-17 Auxerre-Lorient;Auxerre;Lorient;1;0;1.4925;1.84516
+2526;2025-08-17 13:00:00;2025-08-17 Brest-Lille;Brest;Lille;3;3;1.49573;1.84218
+2526;2025-08-17 15:15:00;2025-08-17 Metz-Strasbourg;Metz;Strasbourg;0;1;0.184483;0.731013
+2526;2025-08-17 18:45:00;2025-08-17 Nantes-Paris Saint Germain;Nantes;Paris Saint Germain;0;1;0.124428;1.35682
+2526;2025-08-22 18:45:00;2025-08-22 Paris Saint Germain-Angers;Paris Saint Germain;Angers;1;0;2.0878;0.176876
+2526;2025-08-23 19:05:00;2025-08-23 Lyon-Metz;Lyon;Metz;3;0;2.35479;0.504863
+2526;2025-08-23 15:00:00;2025-08-23 Marseille-Paris FC;Marseille;Paris FC;5;2;3.337;1.05457
+2526;2025-08-23 17:00:00;2025-08-23 Nice-Auxerre;Nice;Auxerre;3;1;2.66284;2.24407
+2526;2025-08-24 15:15:00;2025-08-24 Le Havre-Lens;Le Havre;Lens;1;2;2.0398;1.29098
+2526;2025-08-24 18:45:00;2025-08-24 Lille-Monaco;Lille;Monaco;1;0;2.41091;1.52213
+2526;2025-08-24 13:00:00;2025-08-24 Lorient-Rennes;Lorient;Rennes;4;0;3.4466;0.0728372
+2526;2025-08-24 15:15:00;2025-08-24 Strasbourg-Nantes;Strasbourg;Nantes;1;0;1.81743;0.425423
+2526;2025-08-24 15:15:00;2025-08-24 Toulouse-Brest;Toulouse;Brest;2;0;1.32432;0.750148
+2526;2025-08-29 18:45:00;2025-08-29 Lens-Brest;Lens;Brest;3;1;4.42054;0.963409
+2526;2025-08-30 15:00:00;2025-08-30 Lorient-Lille;Lorient;Lille;1;7;1.1603;3.70255
+2526;2025-08-30 17:00:00;2025-08-30 Nantes-Auxerre;Nantes;Auxerre;1;0;0.418091;1.10996
+2526;2025-08-30 19:05:00;2025-08-30 Toulouse-Paris Saint Germain;Toulouse;Paris Saint Germain;3;6;2.33006;2.49609
+2526;2025-08-31 13:00:00;2025-08-31 Angers-Rennes;Angers;Rennes;1;1;1.58619;1.73758
+2526;2025-08-31 15:15:00;2025-08-31 Le Havre-Nice;Le Havre;Nice;3;1;1.75553;0.715595
+2526;2025-08-31 18:45:00;2025-08-31 Lyon-Marseille;Lyon;Marseille;1;0;3.15727;0.896862
+2526;2025-08-31 15:15:00;2025-08-31 Monaco-Strasbourg;Monaco;Strasbourg;3;2;2.35547;1.7732
+2526;2025-08-31 15:15:00;2025-08-31 Paris FC-Metz;Paris FC;Metz;3;2;3.39898;1.6248
+2526;2025-09-12 18:45:00;2025-09-12 Marseille-Lorient;Marseille;Lorient;4;0;2.83367;0.187377
+2526;2025-09-13 19:05:00;2025-09-13 Auxerre-Monaco;Auxerre;Monaco;1;2;0.904229;1.62646
+2526;2025-09-13 15:00:00;2025-09-13 Nice-Nantes;Nice;Nantes;1;0;2.34645;0.775945
+2526;2025-09-14 15:15:00;2025-09-14 Brest-Paris FC;Brest;Paris FC;1;2;2.60519;1.85008
+2526;2025-09-14 13:00:00;2025-09-14 Lille-Toulouse;Lille;Toulouse;2;1;2.42116;1.15678
+2526;2025-09-14 15:15:00;2025-09-14 Metz-Angers;Metz;Angers;1;1;1.76271;1.98184
+2526;2025-09-14 15:15:00;2025-09-14 Paris Saint Germain-Lens;Paris Saint Germain;Lens;2;0;1.05815;1.2242
+2526;2025-09-14 18:45:00;2025-09-14 Rennes-Lyon;Rennes;Lyon;3;1;2.20918;1.7381
+2526;2025-09-14 15:15:00;2025-09-14 Strasbourg-Le Havre;Strasbourg;Le Havre;1;0;1.43354;0.524832
+2526;2025-09-19 18:45:00;2025-09-19 Lyon-Angers;Lyon;Angers;1;0;2.20483;0.677354
+2526;2025-09-20 17:00:00;2025-09-20 Brest-Nice;Brest;Nice;4;1;2.07376;2.26393
+2526;2025-09-20 19:05:00;2025-09-20 Lens-Lille;Lens;Lille;3;0;3.8174;1.89889
+2526;2025-09-20 15:00:00;2025-09-20 Nantes-Rennes;Nantes;Rennes;2;2;2.65629;1.44041
+2526;2025-09-21 15:15:00;2025-09-21 Auxerre-Toulouse;Auxerre;Toulouse;1;0;0.883373;1.50957
+2526;2025-09-21 15:15:00;2025-09-21 Le Havre-Lorient;Le Havre;Lorient;1;1;2.23396;1.26993
+2526;2025-09-21 15:15:00;2025-09-21 Monaco-Metz;Monaco;Metz;5;2;3.497;1.91296
+2526;2025-09-21 13:00:00;2025-09-21 Paris FC-Strasbourg;Paris FC;Strasbourg;2;3;1.9014;2.46459
+2526;2025-09-22 18:45:00;2025-09-22 Marseille-Paris Saint Germain;Marseille;Paris Saint Germain;1;0;1.77744;0.919565
+2526;2025-09-26 18:45:00;2025-09-26 Strasbourg-Marseille;Strasbourg;Marseille;1;2;1.0976;2.00258
+2526;2025-09-27 15:00:00;2025-09-27 Lorient-Monaco;Lorient;Monaco;3;1;2.09364;0.894035
+2526;2025-09-27 19:05:00;2025-09-27 Paris Saint Germain-Auxerre;Paris Saint Germain;Auxerre;2;0;2.11672;0.73132
+2526;2025-09-27 17:00:00;2025-09-27 Toulouse-Nantes;Toulouse;Nantes;2;2;1.98573;1.8303
+2526;2025-09-28 15:15:00;2025-09-28 Angers-Brest;Angers;Brest;0;2;0.501827;1.34192
+2526;2025-09-28 15:15:00;2025-09-28 Lille-Lyon;Lille;Lyon;0;1;1.65271;0.642572
+2526;2025-09-28 15:15:00;2025-09-28 Metz-Le Havre;Metz;Le Havre;0;0;0.39939;0.395921
+2526;2025-09-28 13:00:00;2025-09-28 Nice-Paris FC;Nice;Paris FC;1;1;1.36997;1.49444
+2526;2025-09-28 18:45:00;2025-09-28 Rennes-Lens;Rennes;Lens;0;0;1.57438;1.51932
+2526;2025-10-03 18:45:00;2025-10-03 Paris FC-Lorient;Paris FC;Lorient;2;0;1.83687;0.855852
+2526;2025-10-04 19:05:00;2025-10-04 Auxerre-Lens;Auxerre;Lens;1;2;1.27422;0.471027
+2526;2025-10-04 17:00:00;2025-10-04 Brest-Nantes;Brest;Nantes;0;0;1.44552;0.489862
+2526;2025-10-04 15:00:00;2025-10-04 Metz-Marseille;Metz;Marseille;0;3;0.1529;2.67719
+2526;2025-10-05 15:15:00;2025-10-05 Le Havre-Rennes;Le Havre;Rennes;2;2;1.98097;1.21285
+2526;2025-10-05 18:45:00;2025-10-05 Lille-Paris Saint Germain;Lille;Paris Saint Germain;1;1;0.647492;1.71207
+2526;2025-10-05 13:00:00;2025-10-05 Lyon-Toulouse;Lyon;Toulouse;1;2;1.42206;1.36525
+2526;2025-10-05 15:15:00;2025-10-05 Monaco-Nice;Monaco;Nice;2;2;2.4556;1.13121
+2526;2025-10-05 15:15:00;2025-10-05 Strasbourg-Angers;Strasbourg;Angers;5;0;4.2783;0.294622
+2526;2025-10-17 18:45:00;2025-10-17 Paris Saint Germain-Strasbourg;Paris Saint Germain;Strasbourg;3;3;2.85659;1.92082
+2526;2025-10-18 17:00:00;2025-10-18 Angers-Monaco;Angers;Monaco;1;1;1.58102;1.65166
+2526;2025-10-18 19:05:00;2025-10-18 Marseille-Le Havre;Marseille;Le Havre;6;2;4.20445;0.352985
+2526;2025-10-18 15:00:00;2025-10-18 Nice-Lyon;Nice;Lyon;3;2;1.16366;2.89867
+2526;2025-10-19 13:00:00;2025-10-19 Lens-Paris FC;Lens;Paris FC;2;1;1.98018;0.583966
+2526;2025-10-19 15:15:00;2025-10-19 Lorient-Brest;Lorient;Brest;3;3;1.5878;1.56803
+2526;2025-10-19 18:45:00;2025-10-19 Nantes-Lille;Nantes;Lille;0;2;0.772603;2.7603
+2526;2025-10-19 15:15:00;2025-10-19 Rennes-Auxerre;Rennes;Auxerre;2;2;1.93587;1.66634
+2526;2025-10-19 15:15:00;2025-10-19 Toulouse-Metz;Toulouse;Metz;4;0;2.73037;0.119104
+2526;2025-10-24 18:45:00;2025-10-24 Paris FC-Nantes;Paris FC;Nantes;1;2;0.951277;0.916827
+2526;2025-10-25 15:00:00;2025-10-25 Brest-Paris Saint Germain;Brest;Paris Saint Germain;0;3;1.89257;2.92453
+2526;2025-10-25 19:05:00;2025-10-25 Lens-Marseille;Lens;Marseille;2;1;1.87596;0.765479
+2526;2025-10-25 17:00:00;2025-10-25 Monaco-Toulouse;Monaco;Toulouse;1;0;3.37276;0.584122
+2526;2025-10-26 15:15:00;2025-10-26 Angers-Lorient;Angers;Lorient;2;0;1.30397;2.00206
+2526;2025-10-26 15:15:00;2025-10-26 Auxerre-Le Havre;Auxerre;Le Havre;0;1;0.563862;1.52215
+2526;2025-10-26 13:00:00;2025-10-26 Lille-Metz;Lille;Metz;6;1;3.85054;1.01476
+2526;2025-10-26 18:45:00;2025-10-26 Lyon-Strasbourg;Lyon;Strasbourg;2;1;1.14566;0.798152
+2526;2025-10-26 15:15:00;2025-10-26 Rennes-Nice;Rennes;Nice;1;2;1.54435;0.88734
+2526;2025-10-29 17:00:00;2025-10-29 Le Havre-Brest;Le Havre;Brest;1;0;0.556063;0.370311
+2526;2025-10-29 17:00:00;2025-10-29 Lorient-Paris Saint Germain;Lorient;Paris Saint Germain;1;1;0.192946;1.28813
+2526;2025-10-29 19:05:00;2025-10-29 Marseille-Angers;Marseille;Angers;2;2;1.58833;0.996929
+2526;2025-10-29 17:00:00;2025-10-29 Metz-Lens;Metz;Lens;2;0;3.11925;1.23771
+2526;2025-10-29 19:05:00;2025-10-29 Nantes-Monaco;Nantes;Monaco;3;5;2.1261;4.10211
+2526;2025-10-29 17:00:00;2025-10-29 Nice-Lille;Nice;Lille;2;0;1.74459;0.661109
+2526;2025-10-29 19:05:00;2025-10-29 Paris FC-Lyon;Paris FC;Lyon;3;3;0.581508;1.21871
+2526;2025-10-29 19:05:00;2025-10-29 Strasbourg-Auxerre;Strasbourg;Auxerre;3;0;4.10806;0.68695
+2526;2025-10-29 19:05:00;2025-10-29 Toulouse-Rennes;Toulouse;Rennes;2;2;1.62131;1.26096
+2526;2025-11-01 20:05:00;2025-11-01 Auxerre-Marseille;Auxerre;Marseille;0;1;1.09464;0.698037
+2526;2025-11-01 18:00:00;2025-11-01 Monaco-Paris FC;Monaco;Paris FC;0;1;0.820947;1.18048
+2526;2025-11-01 16:00:00;2025-11-01 Paris Saint Germain-Nice;Paris Saint Germain;Nice;1;0;1.88647;0.3867
+2526;2025-11-02 19:45:00;2025-11-02 Brest-Lyon;Brest;Lyon;0;0;1.63942;0.143862
+2526;2025-11-02 16:15:00;2025-11-02 Lens-Lorient;Lens;Lorient;3;0;3.21467;1.98367
+2526;2025-11-02 16:15:00;2025-11-02 Lille-Angers;Lille;Angers;1;0;2.2089;0.277522
+2526;2025-11-02 16:15:00;2025-11-02 Nantes-Metz;Nantes;Metz;0;2;1.07598;1.36245
+2526;2025-11-02 14:00:00;2025-11-02 Rennes-Strasbourg;Rennes;Strasbourg;4;1;3.06877;2.08816
+2526;2025-11-02 16:15:00;2025-11-02 Toulouse-Le Havre;Toulouse;Le Havre;0;0;1.07851;1.07299
+2526;2025-11-07 19:45:00;2025-11-07 Paris FC-Rennes;Paris FC;Rennes;0;1;2.2285;1.36728
+2526;2025-11-08 18:00:00;2025-11-08 Le Havre-Nantes;Le Havre;Nantes;1;1;0.984753;0.353936
+2526;2025-11-08 16:00:00;2025-11-08 Marseille-Brest;Marseille;Brest;3;0;3.09058;0.69584
+2526;2025-11-08 20:05:00;2025-11-08 Monaco-Lens;Monaco;Lens;1;4;2.4076;3.23933
+2526;2025-11-09 16:15:00;2025-11-09 Angers-Auxerre;Angers;Auxerre;2;0;1.15143;0.589602
+2526;2025-11-09 14:00:00;2025-11-09 Lorient-Toulouse;Lorient;Toulouse;1;1;1.26999;1.15206
+2526;2025-11-09 19:45:00;2025-11-09 Lyon-Paris Saint Germain;Lyon;Paris Saint Germain;2;3;0.712588;1.69872
+2526;2025-11-09 16:15:00;2025-11-09 Metz-Nice;Metz;Nice;2;1;1.32977;0.784993
+2526;2025-11-09 16:15:00;2025-11-09 Strasbourg-Lille;Strasbourg;Lille;2;0;0.768163;0.480004
+2526;2025-11-21 19:45:00;2025-11-21 Nice-Marseille;Nice;Marseille;1;5;1.36131;3.09163
+2526;2025-11-22 16:00:00;2025-11-22 Lens-Strasbourg;Lens;Strasbourg;1;0;2.2242;0.400272
+2526;2025-11-22 20:05:00;2025-11-22 Paris Saint Germain-Le Havre;Paris Saint Germain;Le Havre;3;0;4.11577;1.28573
+2526;2025-11-22 18:00:00;2025-11-22 Rennes-Monaco;Rennes;Monaco;4;1;3.067;1.60818
+2526;2025-11-23 14:00:00;2025-11-23 Auxerre-Lyon;Auxerre;Lyon;0;0;1.512;1.27606
+2526;2025-11-23 16:15:00;2025-11-23 Brest-Metz;Brest;Metz;3;2;3.36815;1.02855
+2526;2025-11-23 19:45:00;2025-11-23 Lille-Paris FC;Lille;Paris FC;4;2;4.14474;1.50332
+2526;2025-11-23 16:15:00;2025-11-23 Nantes-Lorient;Nantes;Lorient;1;1;0.915515;0.352154
+2526;2025-11-23 16:15:00;2025-11-23 Toulouse-Angers;Toulouse;Angers;0;1;1.85382;0.324057
+2526;2025-11-28 19:45:00;2025-11-28 Metz-Rennes;Metz;Rennes;0;1;1.31354;0.980088
+2526;2025-11-29 20:05:00;2025-11-29 Marseille-Toulouse;Marseille;Toulouse;2;2;1.62768;1.09387
+2526;2025-11-29 16:00:00;2025-11-29 Monaco-Paris Saint Germain;Monaco;Paris Saint Germain;1;0;0.637875;1.47676
+2526;2025-11-29 18:00:00;2025-11-29 Paris FC-Auxerre;Paris FC;Auxerre;1;1;1.80891;1.15143
+2526;2025-11-30 16:15:00;2025-11-30 Angers-Lens;Angers;Lens;1;2;1.10642;1.96335
+2526;2025-11-30 16:15:00;2025-11-30 Le Havre-Lille;Le Havre;Lille;0;1;0.867678;1.35017
+2526;2025-11-30 16:15:00;2025-11-30 Lorient-Nice;Lorient;Nice;3;1;3.49255;1.3285
+2526;2025-11-30 19:45:00;2025-11-30 Lyon-Nantes;Lyon;Nantes;3;0;2.1878;0.384922
+2526;2025-11-30 14:00:00;2025-11-30 Strasbourg-Brest;Strasbourg;Brest;1;2;1.14608;1.00638
+2526;2025-12-05 18:00:00;2025-12-05 Brest-Monaco;Brest;Monaco;1;0;1.13774;0.485017
+2526;2025-12-05 20:00:00;2025-12-05 Lille-Marseille;Lille;Marseille;1;0;0.572302;0.902813
+2526;2025-12-06 16:00:00;2025-12-06 Nantes-Lens;Nantes;Lens;1;2;1.1817;3.26397
+2526;2025-12-06 20:05:00;2025-12-06 Paris Saint Germain-Rennes;Paris Saint Germain;Rennes;5;0;2.32641;0.153549
+2526;2025-12-06 18:00:00;2025-12-06 Toulouse-Strasbourg;Toulouse;Strasbourg;1;0;0.64097;0.0918532
+2526;2025-12-07 16:15:00;2025-12-07 Auxerre-Metz;Auxerre;Metz;3;1;2.22374;0.346523
+2526;2025-12-07 16:15:00;2025-12-07 Le Havre-Paris FC;Le Havre;Paris FC;0;0;1.93371;1.2524
+2526;2025-12-07 19:45:00;2025-12-07 Lorient-Lyon;Lorient;Lyon;1;0;2.48644;0.475087
+2526;2025-12-07 14:00:00;2025-12-07 Nice-Angers;Nice;Angers;0;1;1.38209;1.33715
+2526;2025-12-12 19:45:00;2025-12-12 Angers-Nantes;Angers;Nantes;4;1;3.04663;0.26526
+2526;2025-12-13 18:00:00;2025-12-13 Metz-Paris Saint Germain;Metz;Paris Saint Germain;2;3;0.363683;1.94768
+2526;2025-12-13 20:05:00;2025-12-13 Paris FC-Toulouse;Paris FC;Toulouse;0;3;0.366399;2.03766
+2526;2025-12-13 16:00:00;2025-12-13 Rennes-Brest;Rennes;Brest;3;1;1.58903;0.872611
+2526;2025-12-14 16:15:00;2025-12-14 Auxerre-Lille;Auxerre;Lille;3;4;2.50862;0.733512
+2526;2025-12-14 16:15:00;2025-12-14 Lens-Nice;Lens;Nice;2;0;1.91622;0.733412
+2526;2025-12-14 14:00:00;2025-12-14 Lyon-Le Havre;Lyon;Le Havre;1;0;2.9604;1.44459
+2526;2025-12-14 19:45:00;2025-12-14 Marseille-Monaco;Marseille;Monaco;1;0;2.02467;1.94962
+2526;2025-12-14 16:15:00;2025-12-14 Strasbourg-Lorient;Strasbourg;Lorient;0;0;0.911848;0.415871
+2526;2026-01-02 19:45:00;2026-01-02 Toulouse-Lens;Toulouse;Lens;0;3;0.46972;2.67769
+2526;2026-01-03 20:05:00;2026-01-03 Lille-Rennes;Lille;Rennes;0;2;1.06111;1.49739
+2526;2026-01-03 16:00:00;2026-01-03 Monaco-Lyon;Monaco;Lyon;1;3;0.799996;1.95535
+2526;2026-01-03 18:00:00;2026-01-03 Nice-Strasbourg;Nice;Strasbourg;1;1;2.39473;1.38731
+2526;2026-01-04 16:15:00;2026-01-04 Brest-Auxerre;Brest;Auxerre;2;0;1.54399;0.835513
+2526;2026-01-04 16:15:00;2026-01-04 Le Havre-Angers;Le Havre;Angers;2;1;1.54881;0.730978
+2526;2026-01-04 16:15:00;2026-01-04 Lorient-Metz;Lorient;Metz;1;1;1.55407;0.364932
+2526;2026-01-04 14:00:00;2026-01-04 Marseille-Nantes;Marseille;Nantes;0;2;1.14141;3.16795
+2526;2026-01-04 19:45:00;2026-01-04 Paris Saint Germain-Paris FC;Paris Saint Germain;Paris FC;2;1;1.58716;0.938334
+2526;2026-01-16 18:00:00;2026-01-16 Monaco-Lorient;Monaco;Lorient;1;3;1.31321;1.17141
+2526;2026-01-16 20:00:00;2026-01-16 Paris Saint Germain-Lille;Paris Saint Germain;Lille;3;0;1.29284;0.67995
+2526;2026-01-17 20:05:00;2026-01-17 Angers-Marseille;Angers;Marseille;2;5;1.03735;3.91118
+2526;2026-01-17 16:00:00;2026-01-17 Lens-Auxerre;Lens;Auxerre;1;0;2.61821;0.393025
+2526;2026-01-17 18:00:00;2026-01-17 Toulouse-Nice;Toulouse;Nice;5;1;1.77349;1.41914
+2526;2026-01-18 19:45:00;2026-01-18 Lyon-Brest;Lyon;Brest;2;1;2.62893;1.16318
+2526;2026-01-18 16:15:00;2026-01-18 Nantes-Paris FC;Nantes;Paris FC;1;2;0.411699;0.738941
+2526;2026-01-18 16:15:00;2026-01-18 Rennes-Le Havre;Rennes;Le Havre;1;1;2.54723;0.538741
+2526;2026-01-18 14:00:00;2026-01-18 Strasbourg-Metz;Strasbourg;Metz;2;1;1.019;0.984265
+2526;2026-01-23 19:00:00;2026-01-23 Auxerre-Paris Saint Germain;Auxerre;Paris Saint Germain;0;1;0.352997;2.19544
+2526;2026-01-24 18:00:00;2026-01-24 Le Havre-Monaco;Le Havre;Monaco;0;0;0.171551;0.562454
+2526;2026-01-24 20:05:00;2026-01-24 Marseille-Lens;Marseille;Lens;3;1;1.07239;1.00288
+2526;2026-01-24 16:00:00;2026-01-24 Rennes-Lorient;Rennes;Lorient;0;2;1.88241;1.10359
+2526;2026-01-25 16:15:00;2026-01-25 Brest-Toulouse;Brest;Toulouse;0;2;0.988274;0.684258
+2526;2026-01-25 19:45:00;2026-01-25 Lille-Strasbourg;Lille;Strasbourg;1;4;1.74087;3.56512
+2526;2026-01-25 16:15:00;2026-01-25 Metz-Lyon;Metz;Lyon;2;5;1.18331;3.34121
+2526;2026-01-25 14:00:00;2026-01-25 Nantes-Nice;Nantes;Nice;1;4;1.98581;1.6112
+2526;2026-01-25 16:15:00;2026-01-25 Paris FC-Angers;Paris FC;Angers;0;0;0.759097;0.342734
+2526;2026-01-30 19:45:00;2026-01-30 Lens-Le Havre;Lens;Le Havre;1;0;1.60367;0.407119
+2526;2026-01-31 18:00:00;2026-01-31 Lorient-Nantes;Lorient;Nantes;2;1;0.777027;1.20179
+2526;2026-01-31 20:05:00;2026-01-31 Monaco-Rennes;Monaco;Rennes;4;0;2.28518;0.427968
+2526;2026-01-31 16:00:00;2026-01-31 Paris FC-Marseille;Paris FC;Marseille;2;2;1.82048;2.71118
+2526;2026-02-01 16:15:00;2026-02-01 Angers-Metz;Angers;Metz;1;0;1.34676;0.397871
+2526;2026-02-01 14:00:00;2026-02-01 Lyon-Lille;Lyon;Lille;1;0;0.616999;0.390671
+2526;2026-02-01 16:15:00;2026-02-01 Nice-Brest;Nice;Brest;2;2;1.2009;1.83505
+2526;2026-02-01 19:45:00;2026-02-01 Strasbourg-Paris Saint Germain;Strasbourg;Paris Saint Germain;1;2;1.97116;1.16489
+2526;2026-02-01 16:15:00;2026-02-01 Toulouse-Auxerre;Toulouse;Auxerre;0;0;0.804565;0.871363
+2526;2026-02-08 16:15:00;2026-02-08 Angers-Toulouse;Angers;Toulouse;1;0;1.17089;0.691991
+2526;2026-02-08 16:15:00;2026-02-08 Auxerre-Paris FC;Auxerre;Paris FC;0;0;1.27393;0.758207
+2526;2026-02-08 14:00:00;2026-02-08 Brest-Lorient;Brest;Lorient;2;0;2.05135;0.720569
+2526;2026-02-08 16:15:00;2026-02-08 Le Havre-Strasbourg;Le Havre;Strasbourg;2;1;0.856821;0.51294
+2526;2026-02-08 14:00:00;2026-02-08 Lens-Rennes;Lens;Rennes;3;1;1.01131;1.33597
+2526;2026-02-08 14:00:00;2026-02-08 Metz-Lille;Metz;Lille;0;0;0.581838;1.53538
+2526;2026-02-08 14:00:00;2026-02-08 Nantes-Lyon;Nantes;Lyon;0;1;0.795659;0.990033
+2526;2026-02-08 14:00:00;2026-02-08 Nice-Monaco;Nice;Monaco;0;0;0.455943;0.827302
+2526;2026-02-08 19:45:00;2026-02-08 Paris Saint Germain-Marseille;Paris Saint Germain;Marseille;5;0;4.63077;0.90611
+2526;2026-02-13 20:05:00;2026-02-13 Monaco-Nantes;Monaco;Nantes;3;1;2.20188;1.00661
+2526;2026-02-13 18:00:00;2026-02-13 Rennes-Paris Saint Germain;Rennes;Paris Saint Germain;3;1;1.80204;4.17604
+2526;2026-02-14 18:00:00;2026-02-14 Lille-Brest;Lille;Brest;1;1;1.77426;0.841964
+2526;2026-02-14 16:00:00;2026-02-14 Marseille-Strasbourg;Marseille;Strasbourg;2;2;1.61535;2.39153
+2526;2026-02-14 20:05:00;2026-02-14 Paris FC-Lens;Paris FC;Lens;0;5;0.399344;3.50163
+2526;2026-02-15 14:00:00;2026-02-15 Le Havre-Toulouse;Le Havre;Toulouse;2;1;0.977711;3.12342
+2526;2026-02-15 16:15:00;2026-02-15 Lorient-Angers;Lorient;Angers;2;0;1.4393;0.406012
+2526;2026-02-15 19:45:00;2026-02-15 Lyon-Nice;Lyon;Nice;2;0;1.9974;1.30477
+2526;2026-02-15 16:15:00;2026-02-15 Metz-Auxerre;Metz;Auxerre;1;3;0.753602;1.05829
+2526;2026-02-20 19:45:00;2026-02-20 Brest-Marseille;Brest;Marseille;2;0;1.33408;1.3575
+2526;2026-02-21 16:00:00;2026-02-21 Lens-Monaco;Lens;Monaco;2;3;1.82827;2.34004
+2526;2026-02-21 20:05:00;2026-02-21 Paris Saint Germain-Metz;Paris Saint Germain;Metz;3;0;2.41445;0.0591146
+2526;2026-02-21 18:00:00;2026-02-21 Toulouse-Paris FC;Toulouse;Paris FC;1;1;2.67763;0.687806
+2526;2026-02-22 16:15:00;2026-02-22 Angers-Lille;Angers;Lille;0;1;0.24039;2.74265
+2526;2026-02-22 14:00:00;2026-02-22 Auxerre-Rennes;Auxerre;Rennes;0;3;0.700042;1.10597
+2526;2026-02-22 16:15:00;2026-02-22 Nantes-Le Havre;Nantes;Le Havre;2;0;1.70753;0.753349
+2526;2026-02-22 16:15:00;2026-02-22 Nice-Lorient;Nice;Lorient;3;3;2.74646;1.97697
+2526;2026-02-22 19:45:00;2026-02-22 Strasbourg-Lyon;Strasbourg;Lyon;3;1;2.22901;0.427324
+2526;2026-02-27 19:45:00;2026-02-27 Strasbourg-Lens;Strasbourg;Lens;1;1;0.874721;2.03807
+2526;2026-02-28 20:05:00;2026-02-28 Le Havre-Paris Saint Germain;Le Havre;Paris Saint Germain;0;1;0.682797;4.03627
+2526;2026-02-28 18:00:00;2026-02-28 Monaco-Angers;Monaco;Angers;2;0;1.67082;0.609359
+2526;2026-02-28 16:00:00;2026-02-28 Rennes-Toulouse;Rennes;Toulouse;1;0;0.709138;0.668386
+2526;2026-03-01 16:15:00;2026-03-01 Lille-Nantes;Lille;Nantes;1;0;0.495693;0.171014
+2526;2026-03-01 16:15:00;2026-03-01 Lorient-Auxerre;Lorient;Auxerre;2;2;1.02766;1.96667
+2526;2026-03-01 19:45:00;2026-03-01 Marseille-Lyon;Marseille;Lyon;3;2;1.78764;1.78524
+2526;2026-03-01 16:15:00;2026-03-01 Metz-Brest;Metz;Brest;0;1;1.58374;0.963216
+2526;2026-03-01 14:00:00;2026-03-01 Paris FC-Nice;Paris FC;Nice;1;0;1.3017;1.26295
+2526;2026-03-06 19:45:00;2026-03-06 Paris Saint Germain-Monaco;Paris Saint Germain;Monaco;1;3;1.22179;1.75294
+2526;2026-03-07 18:00:00;2026-03-07 Auxerre-Strasbourg;Auxerre;Strasbourg;0;0;1.03226;1.27324
+2526;2026-03-07 16:00:00;2026-03-07 Nantes-Angers;Nantes;Angers;0;1;0.611683;0.853223
+2526;2026-03-07 20:05:00;2026-03-07 Toulouse-Marseille;Toulouse;Marseille;0;1;1.28713;1.3226
+2526;2026-03-08 16:15:00;2026-03-08 Brest-Le Havre;Brest;Le Havre;2;0;1.26459;1.10286
+2526;2026-03-08 14:00:00;2026-03-08 Lens-Metz;Lens;Metz;3;0;2.22106;0.250806
+2526;2026-03-08 16:15:00;2026-03-08 Lille-Lorient;Lille;Lorient;1;1;0.850092;0.929269
+2526;2026-03-08 19:45:00;2026-03-08 Lyon-Paris FC;Lyon;Paris FC;1;1;1.92522;2.32579
+2526;2026-03-08 16:15:00;2026-03-08 Nice-Rennes;Nice;Rennes;0;4;2.68488;1.87138
+2526;2026-03-15 14:00:00;2026-03-15 Angers-Nice;Angers;Nice;;;;
+2526;2026-03-15 14:00:00;2026-03-15 Le Havre-Lyon;Le Havre;Lyon;;;;
+2526;2026-03-15 14:00:00;2026-03-15 Lorient-Lens;Lorient;Lens;;;;
+2526;2026-03-15 14:00:00;2026-03-15 Marseille-Auxerre;Marseille;Auxerre;;;;
+2526;2026-03-15 14:00:00;2026-03-15 Metz-Toulouse;Metz;Toulouse;;;;
+2526;2026-03-15 14:00:00;2026-03-15 Monaco-Brest;Monaco;Brest;;;;
+2526;2026-03-15 14:00:00;2026-03-15 Paris Saint Germain-Nantes;Paris Saint Germain;Nantes;;;;
+2526;2026-03-15 14:00:00;2026-03-15 Rennes-Lille;Rennes;Lille;;;;
+2526;2026-03-15 14:00:00;2026-03-15 Strasbourg-Paris FC;Strasbourg;Paris FC;;;;
+2526;2026-03-22 14:00:00;2026-03-22 Auxerre-Brest;Auxerre;Brest;;;;
+2526;2026-03-22 14:00:00;2026-03-22 Lens-Angers;Lens;Angers;;;;
+2526;2026-03-22 14:00:00;2026-03-22 Lyon-Monaco;Lyon;Monaco;;;;
+2526;2026-03-22 14:00:00;2026-03-22 Marseille-Lille;Marseille;Lille;;;;
+2526;2026-03-22 14:00:00;2026-03-22 Nantes-Strasbourg;Nantes;Strasbourg;;;;
+2526;2026-03-22 14:00:00;2026-03-22 Nice-Paris Saint Germain;Nice;Paris Saint Germain;;;;
+2526;2026-03-22 14:00:00;2026-03-22 Paris FC-Le Havre;Paris FC;Le Havre;;;;
+2526;2026-03-22 14:00:00;2026-03-22 Rennes-Metz;Rennes;Metz;;;;
+2526;2026-03-22 14:00:00;2026-03-22 Toulouse-Lorient;Toulouse;Lorient;;;;
+2526;2026-04-05 14:00:00;2026-04-05 Angers-Lyon;Angers;Lyon;;;;
+2526;2026-04-05 14:00:00;2026-04-05 Brest-Rennes;Brest;Rennes;;;;
+2526;2026-04-05 14:00:00;2026-04-05 Le Havre-Auxerre;Le Havre;Auxerre;;;;
+2526;2026-04-05 14:00:00;2026-04-05 Lille-Lens;Lille;Lens;;;;
+2526;2026-04-05 14:00:00;2026-04-05 Lorient-Paris FC;Lorient;Paris FC;;;;
+2526;2026-04-05 14:00:00;2026-04-05 Metz-Nantes;Metz;Nantes;;;;
+2526;2026-04-05 14:00:00;2026-04-05 Monaco-Marseille;Monaco;Marseille;;;;
+2526;2026-04-05 14:00:00;2026-04-05 Paris Saint Germain-Toulouse;Paris Saint Germain;Toulouse;;;;
+2526;2026-04-05 14:00:00;2026-04-05 Strasbourg-Nice;Strasbourg;Nice;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Auxerre-Nantes;Auxerre;Nantes;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Brest-Strasbourg;Brest;Strasbourg;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Lens-Paris Saint Germain;Lens;Paris Saint Germain;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Lyon-Lorient;Lyon;Lorient;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Marseille-Metz;Marseille;Metz;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Nice-Le Havre;Nice;Le Havre;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Paris FC-Monaco;Paris FC;Monaco;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Rennes-Angers;Rennes;Angers;;;;
+2526;2026-04-12 14:00:00;2026-04-12 Toulouse-Lille;Toulouse;Lille;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Angers-Le Havre;Angers;Le Havre;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Lens-Toulouse;Lens;Toulouse;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Lille-Nice;Lille;Nice;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Lorient-Marseille;Lorient;Marseille;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Metz-Paris FC;Metz;Paris FC;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Monaco-Auxerre;Monaco;Auxerre;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Nantes-Brest;Nantes;Brest;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Paris Saint Germain-Lyon;Paris Saint Germain;Lyon;;;;
+2526;2026-04-19 14:00:00;2026-04-19 Strasbourg-Rennes;Strasbourg;Rennes;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Angers-Paris Saint Germain;Angers;Paris Saint Germain;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Brest-Lens;Brest;Lens;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Le Havre-Metz;Le Havre;Metz;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Lorient-Strasbourg;Lorient;Strasbourg;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Lyon-Auxerre;Lyon;Auxerre;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Marseille-Nice;Marseille;Nice;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Paris FC-Lille;Paris FC;Lille;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Rennes-Nantes;Rennes;Nantes;;;;
+2526;2026-04-26 14:00:00;2026-04-26 Toulouse-Monaco;Toulouse;Monaco;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Auxerre-Angers;Auxerre;Angers;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Lille-Le Havre;Lille;Le Havre;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Lyon-Rennes;Lyon;Rennes;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Metz-Monaco;Metz;Monaco;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Nantes-Marseille;Nantes;Marseille;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Nice-Lens;Nice;Lens;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Paris FC-Brest;Paris FC;Brest;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Paris Saint Germain-Lorient;Paris Saint Germain;Lorient;;;;
+2526;2026-05-03 14:00:00;2026-05-03 Strasbourg-Toulouse;Strasbourg;Toulouse;;;;
+2526;2026-05-09 20:00:00;2026-05-09 Angers-Strasbourg;Angers;Strasbourg;;;;
+2526;2026-05-09 20:00:00;2026-05-09 Auxerre-Nice;Auxerre;Nice;;;;
+2526;2026-05-09 20:00:00;2026-05-09 Le Havre-Marseille;Le Havre;Marseille;;;;
+2526;2026-05-09 20:00:00;2026-05-09 Lens-Nantes;Lens;Nantes;;;;
+2526;2026-05-09 20:00:00;2026-05-09 Metz-Lorient;Metz;Lorient;;;;
+2526;2026-05-09 20:00:00;2026-05-09 Monaco-Lille;Monaco;Lille;;;;
+2526;2026-05-09 20:00:00;2026-05-09 Paris Saint Germain-Brest;Paris Saint Germain;Brest;;;;
+2526;2026-05-09 20:00:00;2026-05-09 Rennes-Paris FC;Rennes;Paris FC;;;;
+2526;2026-05-09 20:00:00;2026-05-09 Toulouse-Lyon;Toulouse;Lyon;;;;
+2526;2026-05-16 20:00:00;2026-05-16 Brest-Angers;Brest;Angers;;;;
+2526;2026-05-16 20:00:00;2026-05-16 Lille-Auxerre;Lille;Auxerre;;;;
+2526;2026-05-16 20:00:00;2026-05-16 Lorient-Le Havre;Lorient;Le Havre;;;;
+2526;2026-05-16 20:00:00;2026-05-16 Lyon-Lens;Lyon;Lens;;;;
+2526;2026-05-16 20:00:00;2026-05-16 Marseille-Rennes;Marseille;Rennes;;;;
+2526;2026-05-16 20:00:00;2026-05-16 Nantes-Toulouse;Nantes;Toulouse;;;;
+2526;2026-05-16 20:00:00;2026-05-16 Nice-Metz;Nice;Metz;;;;
+2526;2026-05-16 20:00:00;2026-05-16 Paris FC-Paris Saint Germain;Paris FC;Paris Saint Germain;;;;
+2526;2026-05-16 20:00:00;2026-05-16 Strasbourg-Monaco;Strasbourg;Monaco;;;;

@@ -5,6 +5,7 @@ from sklearn.model_selection import train_test_split, StratifiedKFold
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import f1_score, log_loss
 import xgboost as xgb, joblib
+import joblib
 
 ##
 
@@ -32,6 +33,7 @@ X = df[['home_is_home', 'B365H', 'B365D', 'B365A',
 
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
+joblib.dump(scaler, 'scaler.pkl')
 
 X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, random_state=62, test_size=0.2)
 Kf = StratifiedKFold(n_splits=10, random_state=62, shuffle=True)
