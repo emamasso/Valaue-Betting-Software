@@ -2,8 +2,10 @@ import pandas as pd
 import pickle
 import joblib
 import numpy as np
+from data_engineering import *
 
-data = pd.read_csv('prediction_data/final_data.csv', sep = ';')
+data = df_new
+#data = pd.read_csv('prediction_data/final_data.csv', sep = ';')
 
 data['home_is_home'] = 1 
 data['away_is_home'] = 0
@@ -65,12 +67,21 @@ final_data_frame['Probability'] = prob
 
 odds = pd.read_csv('prediction_data/games_odds.csv', sep = ';')
 
-final_data_frame['Home Win'] = odds['H']
-final_data_frame['Draw'] = odds['A']
-final_data_frame['Away Win'] = odds['A']
+data_with_odds = pd.merge(data, odds[['id', 'H', 'D', 'A']], on='id', how='left')
+
+final_data_frame['Home Win'] = data_with_odds['H']
+final_data_frame['Draw'] = data_with_odds['D']
+final_data_frame['Away Win'] = data_with_odds['A']
 
 quote_cols = ['Away Win', 'Draw', 'Home Win']
+
+quote_scelte = [final_data_frame['Home Win'],
+    final_data_frame['Draw'],
+    final_data_frame['Away Win']]
+
+final_data_frame['Bet'] = np.select(mask, quote_scelte, default=np.nan)
+
+final_data_frame['Expected Value'] = final_data_frame['Probability'] * final_data_frame['Bet']
 final_data_frame['Expected Value'] = final_data_frame['Probability'] * final_data_frame[quote_cols].min(axis=1)
 
-
-print(final_data_frame[final_data_frame['Expected Value'] >= 1.05].sort_values(by=['Expected Value'], ascending=False))
+#print(final_data_frame[final_data_frame['Expected Value'] >= 1.05].sort_values(by=['Expected Value'], ascending=False))
