@@ -15,3 +15,5 @@ The final software presents all the upcoming matches with the following informat
 
 The matches are ordered in decreasing order of Expected Value and the ones with profitable Expected Value (greater than 1.05) are highlighted. 
 There is also a second page where the user can select a number of profitable matches and the sofware returns the best combination of matches with the highest Expected Value or the highest probability out of all the possible combinations. 
+
+To start the software just set as current directory the directory in which the files had been downloaded and then execute the command streamlit run main.py.
