@@ -11,7 +11,7 @@ st.set_page_config(page_title="Value Betting Dashboard", layout="wide", initial_
 
 
 page = st.sidebar.radio("Select what to do:",
-    ["1. Value Bets Dashboard", "2. Optimization Multiple Bets", "3. Money Management"])
+    ["1. Value Bets Dashboard", "2. Optimization Multiple Bets"])
 
 
 # Let's create the first function of the final software: higlighting value bets
@@ -36,7 +36,7 @@ elif page == "2. Optimization Multiple Bets":
         print('No value bets for this round')
 
     else:
-        num_games = st.slider('How many games do you want to insert? ', max_value=value_bets.shape[0])
+        num_games = st.slider('How many games do you want to insert? ', max_value=10)
 
         highest_exp_value = value_bets.sort_values(by='Expected Value', ascending=False).head(num_games)
         tot_odd_1 = highest_exp_value['Bet'].prod()
@@ -65,7 +65,7 @@ elif page == "2. Optimization Multiple Bets":
 
         
 
-        highest_probability = value_bets.sort_values(by='Probability', ascending=False).head(num_games)
+        highest_probability = df.sort_values(by='Probability', ascending=False).head(num_games)
         tot_odd_2 = highest_probability['Bet'].prod()
         tot_prob_2 = highest_probability['Probability'].prod()
         total_ev_2 = tot_odd_2 * tot_prob_2
