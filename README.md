@@ -7,4 +7,13 @@ The pipeline was conducted as follows:
 - developing of the final software
 
 
-ADD  AN EXPLENATION ON HOW THE SOFTWARE WORKS ONCE IT'SS COMPLETED
+The final software presents all the upcoming matches with the following information:
+- most probable outcome
+- its probability
+- the odds
+- the Expected Value (product of the odd and its probability)
+
+The matches are ordered in decreasing order of Expected Value and the ones with profitable Expected Value (greater than 1.05) are highlighted. 
+There is also a second page where the user can select a number of profitable matches and the sofware returns the best combination of matches with the highest Expected Value or the highest probability out of all the possible combinations. 
+
+To start the software just set as current directory the directory in which the files had been downloaded and then execute the command streamlit run main.py.
