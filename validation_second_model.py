@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split, StratifiedKFold
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import f1_score, log_loss
+from sklearn.metrics import f1_score, log_loss, accuracy_score
 import xgboost as xgb
 
 ##
@@ -39,6 +39,7 @@ Kf = StratifiedKFold(n_splits=10, random_state=62, shuffle=True)
 
 loga_loss = []
 macro_f1 = []
+accuracy = []
 
 for fold, (train_index, validation_index) in enumerate(Kf.split(X_train, y_train)):
 
@@ -57,15 +58,19 @@ for fold, (train_index, validation_index) in enumerate(Kf.split(X_train, y_train
     preds = model.predict(X_val)
     f1 = f1_score(y_val, preds, average='macro')
     l_loss = log_loss(y_val, probs)
+    acc = accuracy_score(y_val, preds)
     
     macro_f1.append(f1)
     loga_loss.append(l_loss)
+    accuracy.append(acc)
 
     print('Macro f1 score: {}'.format(f1))
     print('Logaritmic loss: {}'.format(l_loss))
+    print('Accuracy: {}'.format(acc))
 
 
 print('Final values:')
 
 print('Average macro F1 score: {}'.format(np.mean(macro_f1)))
 print('Average log-loss: {}'.format(np.mean(loga_loss)))
+print('Average accuracy: {}'.format(np.mean(accuracy)))

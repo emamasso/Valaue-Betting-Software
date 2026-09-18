@@ -20,7 +20,7 @@ games_teams = sorted(games_filtered['home_team'].unique())
 
 odds_teams = sorted(odds_filtered['HomeTeam'].unique())
 
-### The following dictionary contains all the different names, so we can replace them in the dataaframe
+### The following dictionary contains all the different names, so we can replace them in the dataframe
 different_names_dict = {
     'AC Milan': 'Milan',
     'Arminia Bielefeld': 'Bielefeld',

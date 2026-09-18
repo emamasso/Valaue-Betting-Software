@@ -9,7 +9,7 @@ import numpy as np
 ##########################################
 
 
-## At first let's collect all the upcoming matches and theuir odds from the API-Football
+## At first let's collect all the upcoming matches and their odds from the API-Football
 
 
 key = '1a110a3c654411bdfa1bbb3d1e436a6c3b83d0a982e8e484f9b5b43ef16a4208'
