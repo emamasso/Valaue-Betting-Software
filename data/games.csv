@@ -3790,15 +3790,15 @@ ITA-Serie A;2526;2026-05-17 Roma-Lazio;2;2025;30211;2026-05-17 10:30:00;95;96;Ro
 ITA-Serie A;2526;2026-05-17 Sassuolo-Lecce;2;2025;30212;2026-05-17 18:45:00;104;243;Sassuolo;Lecce;LEC;SAS;2;3;3.04719;1.29547;True;True;https://understat.com/match/30212
 ITA-Serie A;2526;2026-05-17 Udinese-Cremonese;2;2025;30213;2026-05-17 18:45:00;99;272;Udinese;Cremonese;CRE;UDI;0;1;0.270585;0.671214;True;True;https://understat.com/match/30213
 ITA-Serie A;2526;2026-05-22 Fiorentina-Atalanta;2;2025;30216;2026-05-22 18:45:00;110;107;Fiorentina;Atalanta;ATA;FIO;1;1;1.14732;1.58663;True;True;https://understat.com/match/30216
-ITA-Serie A;2526;2026-05-24 AC Milan-Cagliari;2;2025;30219;2026-05-24 13:00:00;111;116;AC Milan;Cagliari;CAG;MIL;;;;;False;False;https://understat.com/match/30219
-ITA-Serie A;2526;2026-05-24 Bologna-Inter;2;2025;30214;2026-05-24 13:00:00;97;106;Bologna;Inter;INT;BOL;;;;;False;False;https://understat.com/match/30214
-ITA-Serie A;2526;2026-05-24 Cremonese-Como;2;2025;30215;2026-05-24 13:00:00;272;286;Cremonese;Como;COM;CRE;;;;;False;False;https://understat.com/match/30215
-ITA-Serie A;2526;2026-05-24 Lazio-Pisa;2;2025;30217;2026-05-24 13:00:00;96;291;Lazio;Pisa;PIS;LAZ;;;;;False;False;https://understat.com/match/30217
-ITA-Serie A;2526;2026-05-24 Lecce-Genoa;2;2025;30218;2026-05-24 13:00:00;243;101;Lecce;Genoa;GEN;LEC;;;;;False;False;https://understat.com/match/30218
-ITA-Serie A;2526;2026-05-24 Napoli-Udinese;2;2025;30220;2026-05-24 13:00:00;105;99;Napoli;Udinese;UDI;NAP;;;;;False;False;https://understat.com/match/30220
-ITA-Serie A;2526;2026-05-24 Parma Calcio 1913-Sassuolo;2;2025;30221;2026-05-24 13:00:00;230;104;Parma Calcio 1913;Sassuolo;SAS;PAR;;;;;False;False;https://understat.com/match/30221
-ITA-Serie A;2526;2026-05-24 Torino-Juventus;2;2025;30222;2026-05-24 13:00:00;113;98;Torino;Juventus;JUV;TOR;;;;;False;False;https://understat.com/match/30222
-ITA-Serie A;2526;2026-05-24 Verona-Roma;2;2025;30223;2026-05-24 13:00:00;94;95;Verona;Roma;ROM;VER;;;;;False;False;https://understat.com/match/30223
+ITA-Serie A;2526;2026-05-23 Bologna-Inter;2;2025;30214;2026-05-23 16:00:00;97;106;Bologna;Inter;INT;BOL;3;3;1.59682;1.18652;True;True;https://understat.com/match/30214
+ITA-Serie A;2526;2026-05-23 Lazio-Pisa;2;2025;30217;2026-05-23 18:45:00;96;291;Lazio;Pisa;PIS;LAZ;2;1;1.02094;1.16758;True;True;https://understat.com/match/30217
+ITA-Serie A;2526;2026-05-24 AC Milan-Cagliari;2;2025;30219;2026-05-24 18:45:00;111;116;AC Milan;Cagliari;CAG;MIL;1;2;1.75953;3.43624;True;True;https://understat.com/match/30219
+ITA-Serie A;2526;2026-05-24 Cremonese-Como;2;2025;30215;2026-05-24 18:45:00;272;286;Cremonese;Como;COM;CRE;1;4;0.977192;2.6911;True;True;https://understat.com/match/30215
+ITA-Serie A;2526;2026-05-24 Lecce-Genoa;2;2025;30218;2026-05-24 18:45:00;243;101;Lecce;Genoa;GEN;LEC;1;0;2.21387;0.782331;True;True;https://understat.com/match/30218
+ITA-Serie A;2526;2026-05-24 Napoli-Udinese;2;2025;30220;2026-05-24 16:00:00;105;99;Napoli;Udinese;UDI;NAP;1;0;1.55853;0.517372;True;True;https://understat.com/match/30220
+ITA-Serie A;2526;2026-05-24 Parma Calcio 1913-Sassuolo;2;2025;30221;2026-05-24 13:00:00;230;104;Parma Calcio 1913;Sassuolo;SAS;PAR;1;0;1.51292;1.06783;True;True;https://understat.com/match/30221
+ITA-Serie A;2526;2026-05-24 Torino-Juventus;2;2025;30222;2026-05-24 18:45:00;113;98;Torino;Juventus;JUV;TOR;2;2;0.950066;2.53427;True;True;https://understat.com/match/30222
+ITA-Serie A;2526;2026-05-24 Verona-Roma;2;2025;30223;2026-05-24 18:45:00;94;95;Verona;Roma;ROM;VER;0;2;0.597669;3.55506;True;True;https://understat.com/match/30223
 ENG-Premier League;2122;2021-08-13 Brentford-Arsenal;1;2021;16376;2021-08-13 19:00:00;244;83;Brentford;Arsenal;ARS;BRE;2;0;1.88818;1.02385;True;True;https://understat.com/match/16376
 ENG-Premier League;2122;2021-08-14 Burnley-Brighton;1;2021;16378;2021-08-14 14:00:00;92;220;Burnley;Brighton;BRI;BUR;1;2;1.79548;1.6853;True;True;https://understat.com/match/16378
 ENG-Premier League;2122;2021-08-14 Chelsea-Crystal Palace;1;2021;16379;2021-08-14 14:00:00;80;78;Chelsea;Crystal Palace;CRY;CHE;3;0;1.18709;0.321701;True;True;https://understat.com/match/16379

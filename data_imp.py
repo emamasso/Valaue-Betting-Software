@@ -27,15 +27,15 @@ games_df.to_csv('data/games.csv', index=False, sep=';')
 
 
 #### And now let's import all the odds
-
+'''
 odds_final = []
 
 for league in leagues: 
     for season in seasons:
-        odds = sd.MatchHistory(leagues=league, seasons=season)
+        odds = sd.MatchHistory(leagues=league, seasons=season, proxy='tor)
 
         odds_final.append(odds.read_games())
-        print('{} {} inserito con successo'.format(league, season))
+        print('{} {} succesfully saved'.format(league, season))
         time.sleep(5)
 
 
@@ -43,3 +43,20 @@ odds_df = pd.concat(odds_final, axis=0)
 odds_df = odds_df.reset_index()
 
 odds_df.to_csv('data/odds.csv', index=False, sep=';')
+
+'''
+
+### The previous code is the fastest way possible to collect data, but it may not work, 
+## try manually downloading data from https://www.football-data.co.uk/ then execute the following code:
+
+directory = Path('C:/Users/emanu/OneDrive/Desktop/progetti/value_betting_software/data/tmp') # write your own path
+
+df_list = []
+
+for file in directory.glob('*.csv'):
+    df = pd.read_csv(file)
+    df_list.append(df)
+
+odds_df = pd.concat(df_list, axis=0, ignore_index=True)
+odds_df = odds_df.drop_duplicates()
+odds_df.to_csv('data/odds.csv', index=False)

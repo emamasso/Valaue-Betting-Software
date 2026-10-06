@@ -19,7 +19,7 @@ if page == "1. Value Bets Dashboard":
     st.title("Odds exploration and Value Bets")
     
     def highlight_value_bets(row):
-        if row['Expected Value'] >= 1.05:
+        if row['Expected Value'] >= 1.05 and row['Probability']:
             return ['background-color: #98FB98'] * len(row) 
         return [''] * len(row)
     

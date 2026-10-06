@@ -3,13 +3,15 @@ import numpy as np
 
 ### In this section the data is merged in a single dataset and some preprocessing will be performed
 
-games = pd.read_csv('data/games.csv', sep=';')
-odds = pd.read_csv('data/odds.csv', sep=';')
+### In this section the data is merged in a single dataset and some preprocessing will be performed
+
+games = pd.read_csv('data/games.csv', sep = ';')
+odds = pd.read_csv('data/odds.csv')
 
 
 ## First let's select only the features that are needed
 
-odds_filtered = odds.loc[:, ['Date', 'HomeTeam','AwayTeam', 'B365H', 'B365D',	'B365A', 'FTR']]
+odds_filtered = odds.loc[:, ['Date', 'HomeTeam','AwayTeam', 'B365H', 'B365D', 'B365A']] 
 
 games_filtered = games.loc[:, ['season', 'date', 'game', 'home_team','away_team','home_goals', 'away_goals', 'home_xg', 'away_xg']]
 
@@ -71,11 +73,9 @@ odds_filtered['Date'] = pd.to_datetime(odds_filtered['Date'], dayfirst=True).dt.
 
 ## And now finally merge the data in a single df
 final_df = pd.merge(games_filtered, odds_filtered, left_on=['date', 'home_team','away_team'], right_on=['Date', 'HomeTeam','AwayTeam'])
-
-
+final_df = final_df.drop_duplicates(subset=['date', 'home_team', 'away_team'])
 
 ### Now that the data has been cleared it's time for some feature engeneering to obtain all the final feature we want to include
-
 
 
 
@@ -104,7 +104,8 @@ for stake in stakes:
 
 
 ## Now we need to double every game so that we can work properly 
-df_home = final_df[['season', 'date', 'home_team', 'away_team', 'home_goals', 'away_goals', 'home_xg', 'away_xg']].copy()
+df_home = final_df[['season', 'date', 'home_team', 'away_team', 'home_goals', 'away_goals', 'home_xg', 
+                    'away_xg']].copy()
 
 
 df_home.columns = ['season', 'date', 'team', 'opponent', 'goals_for', 'goals_against', 'xG_for', 'xG_against']
@@ -112,7 +113,8 @@ df_home.columns = ['season', 'date', 'team', 'opponent', 'goals_for', 'goals_aga
 df_home['is_home'] = 1
 
 
-df_away = final_df[['season', 'date', 'away_team', 'home_team', 'away_goals', 'home_goals', 'away_xg', 'home_xg']].copy()
+df_away = final_df[['season', 'date', 'away_team', 'home_team', 'away_goals', 'home_goals', 
+                    'away_xg', 'home_xg']].copy()
 
 df_away.columns = ['season', 'date', 'team', 'opponent', 'goals_for', 'goals_against', 'xG_for', 'xG_against']
 
@@ -156,8 +158,6 @@ df_long['match_played'] = groups.cumcount()
 df_long['PPG'] = groups['points gained'].transform(lambda x: x.cumsum().shift(1))/df_long['match_played']
 
 
-
-
 ############ Now it's time to merge this new features with the new ones
 
 df = pd.merge(final_df, df_long, left_on=['date', 'home_team'], right_on=['date', 'team']).rename(columns={'goals_for':'home_goals_for',
@@ -173,9 +173,10 @@ df = pd.merge(final_df, df_long, left_on=['date', 'home_team'], right_on=['date'
                                                                                                             'total_xg_against':'home_total_xg_against',	
                                                                                                             'last_5':'home_last_5',	
                                                                                                             'match_played':'home_match_played',	
-                                                                                                            'PPG':'home_PPG'})
-
-
+                                                                                                            'PPG':'home_PPG',
+                                                                                                            })
+ 
+ 
 df = pd.merge(df, df_long, left_on=['date', 'away_team'], right_on=['date', 'team']).rename(columns={'goals_for':'away_goals_for',
                                                                                                            	'goals_against':'away_goals_against',
                                                                                                             'xG_for':'away_xG_for',	
@@ -189,9 +190,64 @@ df = pd.merge(df, df_long, left_on=['date', 'away_team'], right_on=['date', 'tea
                                                                                                             'total_xg_against':'away_total_xg_against',	
                                                                                                             'last_5':'away_last_5',	
                                                                                                             'match_played':'away_match_played',	
-                                                                                                            'PPG':'away_PPG'})
+                                                                                                            'PPG':'away_PPG',
+                                                                                                            })
+
+df['xG_for_difference'] = df['home_total_xg'] - df['away_total_xg']
+
+df['xG_against_difference'] = df['home_total_xg_against'] - df['away_total_xg_against']
+
+df['last_5_difference'] = df['home_last_5'] - df['away_last_5']
+
+df['PPG_difference'] = df['home_PPG'] - df['away_PPG']
+
+df.sort_values('date')
+
+    
+def elo_computing(df, k_factor=20, mean_reversion=0.25):
+    # a function to compute elo ratings
+    elo = {} 
+    home_elos, away_elos = [], []
+    current_season = None
+    
+    for index, row in df.iterrows():
+
+        if current_season is not None and row['season'] != current_season:
+            for team in elo:
+                elo[team] = elo[team] * (1 - mean_reversion) + 1500.0 * mean_reversion
+        
+        current_season = row['season']
+        home = row['home_team']
+        away = row['away_team']
+
+        #at the beginning it is set at 1500
+        if home not in elo: elo[home] = 1500.0
+        if away not in elo: elo[away] = 1500.0
+        
+        home_elos.append(elo[home])
+        away_elos.append(elo [away])
+        
+        e_home = 1 / (1 + 10 ** ((elo[away] - elo[home]) / 400))
+        e_away = 1 - e_home
+        
+        if row['home_goals'] > row['away_goals']:
+            s_home, s_away = 1.0, 0.0
+        elif row['home_goals'] == row['away_goals']:
+            s_home, s_away = 0.5, 0.5
+        else:
+            s_home, s_away = 0.0, 1.0
+            
+        elo[home] = elo[home] + k_factor * (s_home - e_home)
+        elo[away] = elo[away] + k_factor * (s_away - e_away)
+        
+    df['home_elo'] = home_elos
+    df['away_elo'] = away_elos
+    df['elo_difference'] = df['home_elo'] - df['away_elo']
+    return df
 
 
+
+df = elo_computing(df, 20, 0.25)
 df = df.dropna()
 
 df = df.reset_index(drop=True)

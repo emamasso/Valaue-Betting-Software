@@ -10,35 +10,25 @@ data = df_new
 data['home_is_home'] = 1 
 data['away_is_home'] = 0
 
-data_to_predict = data[['home_is_home', 
-                        'B365H', 'B365D', 'B365A',
-
-                        'home_rest_days', 'home_total_goals', 'home_total_xg',
-                        'home_total_goals_against', 'home_total_xg_against', 
-                        'home_last_5', 'home_PPG', 
-                          
-                        'away_is_home', 'away_rest_days',
-                        'away_total_goals', 'away_total_xg',
-                        'away_total_goals_against', 'away_total_xg_against', 
-                        'away_last_5', 'away_PPG'
-                        ]]
+data_to_predict = data[['B365H', 'B365D', 'B365A', 
+       'home_is_home', 'home_rest_days', 'home_total_goals',
+       'home_total_xg', 'home_total_goals_against', 'home_total_xg_against',
+       'home_last_5', 'home_PPG', 
+       'away_is_home', 'away_rest_days', 'away_total_goals', 'away_total_xg',
+       'away_total_goals_against', 'away_total_xg_against', 'away_last_5',
+       'away_PPG', 'last_5_difference', 'PPG_difference', 
+       'home_elo', 'away_elo', 'elo_difference']]
 
 
 
 
 
-with open('model_v2.pkl', 'rb') as file:
+with open('model_v3.pkl', 'rb') as file:
     model = pickle.load(file)
 
 
-
-scaler = joblib.load('scaler.pkl')
-
-
-scaled_data = scaler.transform(data_to_predict)
-
-predictions = list(model.predict(scaled_data))
-probabilities =list(model.predict_proba(scaled_data))
+predictions = list(model.predict(data_to_predict))
+probabilities =list(model.predict_proba(data_to_predict))
 
 games = []
 
@@ -82,6 +72,3 @@ quote_scelte = [final_data_frame['Home Win'],
 final_data_frame['Bet'] = np.select(mask, quote_scelte, default=np.nan)
 
 final_data_frame['Expected Value'] = final_data_frame['Probability'] * final_data_frame['Bet']
-final_data_frame['Expected Value'] = final_data_frame['Probability'] * final_data_frame[quote_cols].min(axis=1)
-
-#print(final_data_frame[final_data_frame['Expected Value'] >= 1.05].sort_values(by=['Expected Value'], ascending=False))

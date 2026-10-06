@@ -96,7 +96,7 @@ print('*************************************************************************
 
 
 leagues = ['ESP-La Liga', 'ITA-Serie A', 'ENG-Premier League', 'GER-Bundesliga', 'FRA-Ligue 1']
-season =  '2025/2026'
+season =  '2026/2027'
 
 games_final = []
 for league in leagues:
@@ -109,6 +109,8 @@ for league in leagues:
 
 matches_df = pd.concat(games_final, axis=0)
 matches_df = matches_df.reset_index()
+print(matches_df.shape)
+print(matches_df.columns.tolist())
 matches_filtered = matches_df.loc[:, ['season', 'date', 'game', 'home_team','away_team','home_goals', 'away_goals', 'home_xg', 'away_xg']]
 
 matches_filtered.to_csv('prediction_data/matches_data.csv', index=False, sep=';')
@@ -186,7 +188,8 @@ df_long['PPG'] = groups['points gained'].transform(lambda x: x.cumsum())/df_long
 
 
 
-############ Now it's time to merge this new features with the new ones
+
+############ Now it's time to merge these features with the new ones
 
 
 df_played = df_long.dropna(subset=['goals_for', 'goals_against']).copy()
@@ -202,7 +205,7 @@ df = pd.merge(last_games, last_games_2, left_on=['team'], right_on=['opponent'])
 df.sort_values(by = 'team_x')
 
 
-df_filtered = df[['date_x', 'team_x',
+df_filtered = df[['season_x', 'date_x', 'team_x',
                     'total_goals_x', 'total_xg_x', 
                     'total_goals_against_x', 'total_xg_against_x', 
                     'last_5_x', 'match_played_x', 'PPG_x', 'rest_days_x']]
@@ -322,20 +325,88 @@ df_new = pd.merge(games_odds, df_filtered, left_on=['home'], right_on=['team_x']
 
 df_new = pd.merge(df_new, df_filtered, left_on=['away'], right_on=['team_x'])
 
+print(df_new.columns.tolist())
+
+df_new['xG_for_difference'] = df_new['total_xg_x_x'] - df_new['total_xg_x_y']
+
+df_new['xG_against_difference'] = df_new['total_xg_against_x_x'] - df_new['total_xg_against_x_y']
+
+df_new['last_5_difference'] = df_new['last_5_x_x'] - df_new['last_5_x_y']
+
+df_new['PPG_difference'] = df_new['PPG_x_x'] - df_new['PPG_x_y']
+
+
+
 df_new.columns = ['id', 'date', 'home', 'away', 
                   
                   'B365H', 'B365D', 'B365A',
 
-                  'date_x_x', 'team_x_x',
+                  'season_x_x', 'date_x_x', 'team_x_x',
 
                   'home_total_goals','home_total_xg', 'home_total_goals_against',
                   'home_total_xg_against','home_last_5', 'home_matches_played', 'home_PPG', 'home_rest_days',
 
-                  'date_x_y', 'team_x_y',
+                  'season_x_y', 'date_x_y', 'team_x_y',
                    
                   'away_total_goals','away_total_xg',
                   'away_total_goals_against','away_total_xg_against',
-                  'away_last_5', 'away_matches_played', 'away_PPG', 'away_rest_days']
+                  'away_last_5', 'away_matches_played', 'away_PPG', 'away_rest_days',
+                  
+                  'xG_for_difference', 'xG_against_difference', 'last_5_difference', 'PPG_difference']
+
+
+df_new.sort_values('date')
+
+df_new = df_new.dropna()
+def elo_computing(df, k_factor=20, mean_reversion=0.25):
+    elo = {}
+    current_season = None
+    for _, row in df.iterrows():
+        if current_season is not None and row['season'] != current_season:
+            for team in elo:
+                elo[team] = elo[team] * (1 - mean_reversion) + 1500.0 * mean_reversion
+        current_season = row['season']
+        home, away = row['home_team'], row['away_team']
+        elo.setdefault(home, 1500.0)
+        elo.setdefault(away, 1500.0)
+
+        e_home = 1 / (1 + 10 ** ((elo[away] - elo[home]) / 400))
+        if row['home_goals'] > row['away_goals']:
+            s_home = 1.0
+        elif row['home_goals'] == row['away_goals']:
+            s_home = 0.5
+        else:
+            s_home = 0.0
+        elo[home] += k_factor * (s_home - e_home)
+        elo[away] += k_factor * (e_home - s_home)
+    return elo  # rating attuali
+
+played = (matches_filtered.dropna(subset=['home_goals', 'away_goals'])
+          .assign(date=lambda d: pd.to_datetime(d['date']))
+          .sort_values('date'))
+
+current_elo = elo_computing(played, 20, 0.25)
+current_elo = {team_mapping.get(t, t): r for t, r in current_elo.items()}
+
+df_new['home_elo'] = df_new['home'].map(current_elo)
+df_new['away_elo'] = df_new['away'].map(current_elo)
+df_new['elo_difference'] = df_new['home_elo'] - df_new['away_elo']
+
+#rivedere
+'''elo_reader = sd.ClubElo()
+elo_today = elo_reader.read_by_date()'''
+
+
+
+
+df_new = df_new.reset_index(drop=True)
+
+
+df_new.to_csv('data/final_data.csv', sep=';', index=False)
+
+print('Data frame with shape {} correctly saved as CSV'.format(df.shape))
+
+
 
 df_new = df_new.dropna()
 
