@@ -1,0 +1,73 @@
+
+===== ITA-Serie A =====
+UNDERSTAT - tutte le squadre (20): ['AC Milan', 'Atalanta', 'Bologna', 'Cagliari', 'Como', 'Fiorentina', 'Frosinone', 'Genoa', 'Inter', 'Juventus', 'Lazio', 'Lecce', 'Monza', 'Napoli', 'Parma Calcio 1913', 'Roma', 'Sassuolo', 'Torino', 'Udinese', 'Venezia']
+UNDERSTAT - ultima giornata (data | casa | risultato | trasferta):
+  2026-09-19 | Roma | 2-2 | Inter
+  2026-09-19 | Venezia | 0-2 | Lazio
+  2026-09-20 | Fiorentina | 1-1 | Napoli
+  2026-09-20 | Parma Calcio 1913 | 2-1 | Genoa
+  2026-09-20 | Frosinone | 2-0 | Como
+  2026-09-20 | Juventus | 2-0 | Atalanta
+  2026-09-20 | AC Milan | 3-0 | Lecce
+  2026-10-10 | Genoa | 2-1 | Fiorentina
+  2026-10-10 | Inter | 3-0 | Parma Calcio 1913
+  2026-10-10 | Napoli | 3-0 | Frosinone
+ODDS-API - errore 429: {'error': 'You have exceeded your rate limit of 100 requests per hour. It resets in 38 minutes and 25 seconds.'}
+
+===== ENG-Premier League =====
+UNDERSTAT - tutte le squadre (20): ['Arsenal', 'Aston Villa', 'Bournemouth', 'Brentford', 'Brighton', 'Chelsea', 'Coventry', 'Crystal Palace', 'Everton', 'Fulham', 'Hull', 'Ipswich', 'Leeds', 'Liverpool', 'Manchester City', 'Manchester United', 'Newcastle United', 'Nottingham Forest', 'Sunderland', 'Tottenham']
+UNDERSTAT - ultima giornata (data | casa | risultato | trasferta):
+  2026-09-20 | Manchester City | 5-3 | Sunderland
+  2026-09-20 | Leeds | 0-0 | Crystal Palace
+  2026-09-20 | Bournemouth | 0-1 | Liverpool
+  2026-09-20 | Fulham | 1-1 | Manchester United
+  2026-10-10 | Arsenal | 2-1 | Leeds
+  2026-10-10 | Sunderland | 0-2 | Brighton
+  2026-10-10 | Ipswich | 2-1 | Fulham
+  2026-10-10 | Chelsea | 5-1 | Bournemouth
+  2026-10-10 | Aston Villa | 2-2 | Brentford
+  2026-10-10 | Manchester United | 1-1 | Tottenham
+ODDS-API - errore 429: {'error': 'You have exceeded your rate limit of 100 requests per hour. It resets in 38 minutes and 9 seconds.'}
+
+===== ESP-La Liga =====
+UNDERSTAT - tutte le squadre (20): ['Alaves', 'Athletic Club', 'Atletico Madrid', 'Barcelona', 'Celta Vigo', 'Deportivo La Coruna', 'Elche', 'Espanyol', 'Getafe', 'Levante', 'Malaga', 'Osasuna', 'Racing Santander', 'Rayo Vallecano', 'Real Betis', 'Real Madrid', 'Real Sociedad', 'Sevilla', 'Valencia', 'Villarreal']
+UNDERSTAT - ultima giornata (data | casa | risultato | trasferta):
+  2026-09-19 | Sevilla | 1-3 | Barcelona
+  2026-09-20 | Getafe | 1-0 | Malaga
+  2026-09-20 | Atletico Madrid | 2-1 | Real Madrid
+  2026-09-20 | Deportivo La Coruna | 1-1 | Real Betis
+  2026-09-20 | Villarreal | 3-1 | Levante
+  2026-09-20 | Valencia | 2-3 | Real Sociedad
+  2026-10-09 | Malaga | 1-1 | Espanyol
+  2026-10-10 | Alaves | 1-2 | Atletico Madrid
+  2026-10-10 | Barcelona | 3-0 | Getafe
+  2026-10-10 | Real Madrid | 1-0 | Villarreal
+ODDS-API - errore 429: {'error': 'You have exceeded your rate limit of 100 requests per hour. It resets in 37 minutes and 52 seconds.'}
+
+===== GER-Bundesliga =====
+UNDERSTAT - tutte le squadre (18): ['Augsburg', 'Bayer Leverkusen', 'Bayern Munich', 'Borussia Dortmund', 'Borussia M.Gladbach', 'Eintracht Frankfurt', 'Elversberg', 'FC Cologne', 'Freiburg', 'Hamburger SV', 'Hoffenheim', 'Mainz 05', 'Paderborn', 'RasenBallsport Leipzig', 'Schalke 04', 'Union Berlin', 'VfB Stuttgart', 'Werder Bremen']
+UNDERSTAT - ultima giornata (data | casa | risultato | trasferta):
+  2026-09-20 | Schalke 04 | 0-0 | Elversberg
+  2026-09-20 | Paderborn | 3-1 | Hoffenheim
+  2026-10-09 | Borussia Dortmund | 2-2 | Werder Bremen
+  2026-10-10 | Union Berlin | 1-0 | Elversberg
+  2026-10-10 | Paderborn | 0-2 | VfB Stuttgart
+  2026-10-10 | Mainz 05 | 3-4 | Bayer Leverkusen
+  2026-10-10 | Hoffenheim | 2-3 | Hamburger SV
+  2026-10-10 | Augsburg | 2-2 | Bayern Munich
+  2026-10-10 | RasenBallsport Leipzig | 6-0 | Eintracht Frankfurt
+ODDS-API - errore 429: {'error': 'You have exceeded your rate limit of 100 requests per hour. It resets in 37 minutes and 36 seconds.'}
+
+===== FRA-Ligue 1 =====
+UNDERSTAT - tutte le squadre (18): ['Angers', 'Auxerre', 'Brest', 'Le Havre', 'Le Mans', 'Lens', 'Lille', 'Lorient', 'Lyon', 'Marseille', 'Monaco', 'Nice', 'Paris FC', 'Paris Saint Germain', 'Rennes', 'Strasbourg', 'Toulouse', 'Troyes']
+UNDERSTAT - ultima giornata (data | casa | risultato | trasferta):
+  2026-09-20 | Auxerre | 2-1 | Brest
+  2026-09-20 | Nice | 2-1 | Lille
+  2026-09-20 | Marseille | 1-2 | Paris Saint Germain
+  2026-10-09 | Lens | 2-1 | Lyon
+  2026-10-10 | Lille | 1-0 | Le Havre
+  2026-10-10 | Paris Saint Germain | 3-1 | Le Mans
+  2026-10-10 | Monaco | 2-2 | Toulouse
+  2026-10-10 | Lorient | 1-0 | Paris FC
+  2026-10-10 | Brest | 5-1 | Angers
+ODDS-API - errore 429: {'error': 'You have exceeded your rate limit of 100 requests per hour. It resets in 37 minutes and 19 seconds.'}

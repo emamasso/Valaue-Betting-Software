@@ -212,39 +212,41 @@ df_filtered = df[['season_x', 'date_x', 'team_x',
 
 
 team_mapping = {
-    
+    # --- Serie A ---
     'AC Milan': 'AC Milan',
     'Atalanta': 'Atalanta BC',
     'Bologna': 'Bologna FC',
     'Cagliari': 'Cagliari Calcio',
     'Como': 'Como 1907',
-    'Cremonese': 'US Cremonese',
     'Fiorentina': 'ACF Fiorentina',
+    'Frosinone': 'Frosinone Calcio',          # nuovo, da verificare
     'Genoa': 'Genoa CFC',
     'Inter': 'Inter Milano',
     'Juventus': 'Juventus Turin',
     'Lazio': 'Lazio Rome',
     'Lecce': 'US Lecce',
+    'Monza': 'AC Monza',                      # nuovo, da verificare
     'Napoli': 'SSC Napoli',
     'Parma Calcio 1913': 'Parma Calcio',
-    'Pisa': 'Pisa SC',
     'Roma': 'AS Roma',
     'Sassuolo': 'Sassuolo Calcio',
     'Torino': 'Torino FC',
     'Udinese': 'Udinese Calcio',
-    'Verona': 'Hellas Verona',
+    'Venezia': 'Venezia FC',                  # nuovo, da verificare
 
-    
+    # --- Premier League ---
     'Arsenal': 'Arsenal FC',
     'Aston Villa': 'Aston Villa',
     'Bournemouth': 'AFC Bournemouth',
-    'Brentford': 'Brentford', 
+    'Brentford': 'Brentford',
     'Brighton': 'Brighton & Hove Albion',
-    'Burnley': 'Burnley FC',
     'Chelsea': 'Chelsea FC',
+    'Coventry': 'Coventry City',              # nuovo, da verificare
     'Crystal Palace': 'Crystal Palace',
     'Everton': 'Everton FC',
     'Fulham': 'Fulham FC',
+    'Hull': 'Hull City',                      # nuovo, da verificare
+    'Ipswich': 'Ipswich Town',                # nuovo, da verificare
     'Leeds': 'Leeds United',
     'Liverpool': 'Liverpool FC',
     'Manchester City': 'Manchester City',
@@ -253,71 +255,72 @@ team_mapping = {
     'Nottingham Forest': 'Nottingham Forest',
     'Sunderland': 'Sunderland AFC',
     'Tottenham': 'Tottenham Hotspur',
-    'West Ham': 'West Ham United',
-    'Wolverhampton Wanderers': 'Wolverhampton Wanderers', 
 
-   
+    # --- La Liga ---
     'Alaves': 'Deportivo Alaves',
     'Athletic Club': 'Athletic Bilbao',
     'Atletico Madrid': 'Atletico Madrid',
     'Barcelona': 'FC Barcelona',
     'Celta Vigo': 'RC Celta de Vigo',
+    'Deportivo La Coruna': 'Deportivo La Coruna',  # nuovo, da verificare
     'Elche': 'Elche CF',
     'Espanyol': 'Espanyol Barcelona',
     'Getafe': 'Getafe CF',
-    'Girona': 'Girona FC',
     'Levante': 'Levante UD',
-    'Mallorca': 'RCD Mallorca',
+    'Malaga': 'Malaga CF',                    # nuovo, da verificare
     'Osasuna': 'CA Osasuna',
+    'Racing Santander': 'Racing Santander',   # nuovo, da verificare
     'Rayo Vallecano': 'Rayo Vallecano',
     'Real Betis': 'Real Betis Seville',
     'Real Madrid': 'Real Madrid',
-    'Real Oviedo': 'Real Oviedo',
     'Real Sociedad': 'Real Sociedad San Sebastian',
     'Sevilla': 'Sevilla FC',
     'Valencia': 'Valencia CF',
     'Villarreal': 'Villarreal CF',
 
-    
+    # --- Bundesliga ---
     'Augsburg': 'FC Augsburg',
     'Bayer Leverkusen': 'Bayer Leverkusen',
     'Bayern Munich': 'Bayern Munich',
     'Borussia Dortmund': 'Borussia Dortmund',
     'Borussia M.Gladbach': 'Borussia Monchengladbach',
     'Eintracht Frankfurt': 'Eintracht Frankfurt',
+    'Elversberg': 'SV Elversberg',            # nuovo, da verificare
     'FC Cologne': '1. FC Cologne',
-    'FC Heidenheim': '1. FC Heidenheim',
     'Freiburg': 'SC Freiburg',
     'Hamburger SV': 'Hamburger SV',
     'Hoffenheim': 'TSG Hoffenheim',
     'Mainz 05': 'FSV Mainz',
+    'Paderborn': 'SC Paderborn',              # nuovo, da verificare
     'RasenBallsport Leipzig': 'RB Leipzig',
-    'St. Pauli': 'FC St. Pauli',
+    'Schalke 04': 'FC Schalke 04',            # nuovo, da verificare
     'Union Berlin': 'Union Berlin',
     'VfB Stuttgart': 'VfB Stuttgart',
     'Werder Bremen': 'Werder Bremen',
-    'Wolfsburg': 'VFL Wolfsburg',
 
-   
+    # --- Ligue 1 ---
     'Angers': 'Angers SCO',
     'Auxerre': 'AJ Auxerre',
     'Brest': 'Stade Brest 29',
     'Le Havre': 'Le Havre AC',
+    'Le Mans': 'Le Mans FC',                  # nuovo, da verificare
     'Lens': 'Racing Club De Lens',
     'Lille': 'Lille OSC',
     'Lorient': 'FC Lorient',
     'Lyon': 'Olympique Lyon',
     'Marseille': 'Olympique Marseille',
-    'Metz': 'FC Metz',
     'Monaco': 'AS Monaco',
-    'Nantes': 'FC Nantes',
     'Nice': 'OGC Nice',
     'Paris FC': 'Paris FC',
     'Paris Saint Germain': 'Paris Saint-Germain',
     'Rennes': 'Stade Rennais FC',
     'Strasbourg': 'Strasbourg Alsace',
-    'Toulouse': 'Toulouse FC'
+    'Toulouse': 'Toulouse FC',
+    'Troyes': 'ESTAC Troyes',                 # nuovo, da verificare
 }
+
+
+
 
 df_filtered['team_x'] = df_filtered['team_x'].replace(team_mapping)
 

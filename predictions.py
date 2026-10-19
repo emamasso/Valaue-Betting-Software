@@ -72,3 +72,5 @@ quote_scelte = [final_data_frame['Home Win'],
 final_data_frame['Bet'] = np.select(mask, quote_scelte, default=np.nan)
 
 final_data_frame['Expected Value'] = final_data_frame['Probability'] * final_data_frame['Bet']
+
+final_data_frame.to_csv('prediction_data/final_predictions.csv', sep=';', index=False)
