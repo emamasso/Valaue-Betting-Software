@@ -17,8 +17,8 @@ The matches are ordered in decreasing order of Expected Value and the ones with 
 There is also a second page where the user can select a number of profitable matches and the sofware returns the best combination of matches with the highest Expected Value or the highest probability out of all the possible combinations. 
 
 To start the software just set as current directory the directory in which the files had been downloaded and then execute the commands
-> python predictions.py
-> streamlit run main.py.
+ python predictions.py
+ streamlit run main.py.
 
 
 
